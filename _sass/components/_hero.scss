@@ -1,0 +1,9 @@
+.hero {
+  @include linear-gradient(to bottom, $brand_blue, $brand_purple);
+  color: white
+}
+
+.popout {
+  background-color: $brand_blue;
+  color: white;
+}

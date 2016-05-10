@@ -1,4 +1,6 @@
-#{$all-buttons} {
+
+
+#{$all-buttons}, a.button {
   appearance: none;
   background-color: $action-color;
   border: 0;
@@ -17,6 +19,11 @@
   user-select: none;
   vertical-align: middle;
   white-space: nowrap;
+
+  &.primary {
+    border: 3px solid #CABD4B;
+    border-radius: 100px;
+  }
 
   &:hover,
   &:focus {

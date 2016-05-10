@@ -1,2 +1,12 @@
 <footer>
+  <section>
+    <span class="copyright">{{site.owner}}</span>
+    <ul class="footer-links">
+      {% for item in site.data.footer_menu %}
+        <li>
+          <a href="{{item.link}}">{{item.title}}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
 </footer>

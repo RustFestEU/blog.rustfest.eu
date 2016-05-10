@@ -1,0 +1,5 @@
+
+footer {
+  @include linear-gradient(to right, $brand_blue, $brand_purple);
+  color: white
+}

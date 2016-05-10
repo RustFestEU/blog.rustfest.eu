@@ -1,13 +1,14 @@
 // Breakpoints
-$medium-screen: 600px;
+$medium-screen: 480px;
 $large-screen: 900px;
 
 // Typography
-$base-font-family: $font-stack-system;
+$base-font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 $heading-font-family: $base-font-family;
 
 // Font Sizes
-$base-font-size: 1em;
+$base-font-size: 21px;
+$base-font-weight: 300;
 
 // Line height
 $base-line-height: 1.5;
@@ -27,7 +28,7 @@ $light-gray: #ddd;
 
 // Font Colors
 $base-font-color: $dark-gray;
-$action-color: $blue;
+$action-color: transparent;
 
 // Border
 $base-border-color: $light-gray;
