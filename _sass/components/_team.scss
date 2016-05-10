@@ -1,0 +1,47 @@
+.team {
+  text-align: center;
+  img {
+    width: 27vw;
+    height: 27vw;
+  }
+
+  svg {
+    height: 1em;
+    width: 1em;
+    vertical-align: bottom;
+  }
+
+  a, a:visited {
+    color: white;
+  }
+
+  .links {
+    li {
+      line-height: 1.2em;
+    }
+  }
+
+  > li {
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    line-height: 0;
+    text-align: left;
+
+    .info {
+      position: absolute;
+      top: calc(100% - 2.5em);
+      transition: top .65s ease;
+      height: 100%;
+      background-color: transparentize($brand_dark_blue, 0.3);
+      color: white;
+      width: 100%;
+      padding: 0.5em;
+    }
+
+    &:hover .info {
+      position: absolute;
+      top: 50%;
+    }
+  }
+}
