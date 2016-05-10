@@ -1,9 +1,14 @@
 .hero {
   @include linear-gradient(to bottom, $brand_blue, $brand_purple);
-  color: white
+  color: white;
+  padding: 2em 0 5em 0;
+  h1 {
+    margin-top: 2em;
+  }
 }
 
 .popout {
   background-color: $brand_blue;
   color: white;
+  padding: 4em 0 5em 0;
 }

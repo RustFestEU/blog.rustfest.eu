@@ -345,3 +345,14 @@ header.navigation {
     }
   }
 }
+
+.with-hero header.navigation {
+  background-color: transparent;
+  border-bottom: none;
+  position: absolute;
+  transition: background-color 0.5s ease;
+
+  &:hover {
+    background-color: $brand_dark_blue;
+  }
+}

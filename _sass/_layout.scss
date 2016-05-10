@@ -1,33 +1,39 @@
 @import "base";
 
-body {
-  margin: 0;
-  padding: 0;
-  text-rendering: optimizeLegibility;
-}
-
-h1 {
-  font-size: 55px;
-}
-
-h2 {
-  font-size: 27px;
-}
-
-section {
-  @include clearfix;
-  @include outer-container();
-}
-
-.itemgroup {
-  @include align-items(stretch);
-  @include display(flex);
-  @include flex-direction(row);
-  @include justify-content(space-around);
-}
-
 @import
   "components/navigation",
   "components/hero",
   "components/footer"
 ;
+
+
+// and other specifics
+.hero {
+  .itemgroup{
+    margin: 2em 0;
+    @include align-items(flex-end);
+  }
+  p {
+    margin-bottom: 0;
+  }
+  .desc {
+    margin: 0.25em 0;
+    text-transform: uppercase;
+    font-size: 0.8em;
+    font-weight: bold;
+    color: $dark-gray;
+  }
+}
+
+.cfp-button,  {
+  margin: 2em 0;
+}
+
+.timeline {
+  font-size: 0.75em;
+  margin: 0 2em 0 4em;
+  min-width: 15em;
+  h3 {
+    text-transform: uppercase;
+  }
+}

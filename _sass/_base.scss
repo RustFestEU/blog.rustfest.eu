@@ -1,7 +1,36 @@
-@import "bourbon/bourbon";
-@import "neat/neat";
-@import "base/base";
 
 $brand_blue: #247EFF;
 $brand_dark_blue: #084788;
 $brand_purple: #5252C9;
+$brand_yellow: #CABD4B;
+
+@import "bourbon/bourbon";
+@import "neat/neat";
+@import "base/base";
+
+
+body {
+  margin: 0;
+  padding: 0;
+  text-rendering: optimizeLegibility;
+}
+
+h1 {
+  font-size: 55px;
+}
+
+h2 {
+  font-size: 27px;
+}
+
+section {
+  @include clearfix;
+  @include outer-container();
+}
+
+.itemgroup {
+  @include align-items(stretch);
+  @include display(flex);
+  @include flex-direction(row);
+  @include justify-content(space-around);
+}
