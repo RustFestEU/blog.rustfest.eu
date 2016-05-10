@@ -35,3 +35,12 @@ section {
   @include flex-direction(row);
   @include justify-content(space-around);
 }
+
+a.inline svg {
+  width: 1.5em;
+  height: 1.5em;
+  vertical-align: bottom;
+  path {
+    fill: $link-color;
+  }
+}

@@ -23,14 +23,14 @@ p {
 }
 
 a {
-  color: $action-color;
+  color: $link-color;
   text-decoration: none;
   transition: color $base-duration $base-timing;
 
   &:active,
   &:focus,
   &:hover {
-    color: shade($action-color, 25%);
+    color: shade($link-color, 25%);
   }
 }
 
