@@ -6,11 +6,17 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.rustfest.eu" # the base hostname & protocol for your site
-twitter_username: rustfest
-github_username:  rustfesteu
 
 # Build settings
 markdown: kramdown
 
 # Page Settings
 owner: "Rust Community Europe e.V."
+
+
+# social stuff:
+metaKeywords: "rust, conf, rustfest, rustfesteu, conference, programming language, berlin"
+twitter_username: rustfest
+github_username:  rustfesteu
+socialImageSrcTwitter: ""
+socialImageSrcFacebook: ""
