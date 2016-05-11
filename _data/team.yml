@@ -46,9 +46,15 @@
   title: "HoneyPot.IO"
   thumbnailUrl: emma.jpg
   links:
+  - icon: "github"
+    title: "emmalou"
+    link: "https://github.com/emmalou"
+  - icon: "twitter"
+    title: "honeypotio"
+    link: "https://twitter.com/honeypotio"
   - icon: "website"
-    title: "HoneyPot.IO"
-    link: "https://HoneyPot.IO/"
+    title: "Honeypot.io"
+    link: "https://Honeypot.IO/"
 - name: "Benjamin Kampmann"
   nick: "Ben"
   desc: ""
