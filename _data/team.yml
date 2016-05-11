@@ -69,3 +69,14 @@
     - icon: "website"
       title: "create-build-execute.com"
       link: "http://www.create-build-execute.com/"
+- name: Johanna Dahlroos
+  nick: "Johanna"
+  desc: ""
+  thumbnailUrl: johanna.jpg
+  links:
+    - icon: "twitter"
+      title: "batjohe"
+      link: "https://twitter.com/batjohe"
+    - icon: "website"
+      title: johannadahlroos.com
+      link: "https://johannadahlroos.com/"
