@@ -9,9 +9,12 @@ Please register our [newsletter](https://ti.to/rust-community-europe/rustfest-20
 RustFest is an inclusive conference and as such strives to be accessible to everyone. This includes:
 
 * Ensuring our venues are accessible by wheelchair.
+* Make sure that maps and orientation material is available.
 * Providing quiet spaces for those with sensory issues.
 * Providing accessibility for conference sessions.
 * Providing complimentary tickets for assistants for those with disabilities.
+* Access to non-gendered toilets
+* Serving a wide range of food
 
 If you're not sure whether the concession rate should apply to you, please do get in touch.
 
