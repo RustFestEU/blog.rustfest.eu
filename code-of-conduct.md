@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blue_page
 permalink: /code-of-conduct/
 title: Code of Conduct
 ---

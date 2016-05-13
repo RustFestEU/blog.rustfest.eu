@@ -27,4 +27,13 @@
   background-color: $brand_blue;
   color: white;
   padding: 4em 0 5em 0;
+  hr  {
+    margin-top: 0;
+    border-width: 2px;
+    border-color: $brand_dark_blue;
+  }
+  a, a:visited {
+    color: $brand_yellow;
+
+  }
 }

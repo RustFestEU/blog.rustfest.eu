@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blue_page
 permalink: /accessibility/
 title: Accessibility Statement
 ---

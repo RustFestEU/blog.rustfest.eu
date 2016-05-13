@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blue_page
 permalink: /about/
 title: About
 ---
