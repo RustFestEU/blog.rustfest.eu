@@ -23,6 +23,16 @@
   }
 }
 
+.disclaimer {
+  font-size: 0.8em;
+  font-style: italic;
+  padding-top: 3em;
+  color: white;
+  a, a:visited {
+    color: $brand_yellow;
+  }
+}
+
 .popout {
   background-color: $brand_blue;
   color: white;
