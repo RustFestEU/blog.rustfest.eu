@@ -30,12 +30,14 @@ Check out this [Rust Community Talks repository](https://github.com/rust-communi
 - Testing, benchmarking, profiling, debugging, REPL, IDE, editor experiences/tips/tricks/tools
 - War stories solving bugs, compilation errors, or production experiences
 
+We will give more details once CFP opens.
+
 ## Anonymized Selection Process
 
 In the first instance our CFP selection process based only on title and abstract.
 
-## What we cover if you are selected [?]
+## What we cover if you are selected
 
 - Free conference ticket
-- Travel costs (up to €300 inside Europe, up to €800 outside)
 - Accommodation
+- We intend to pay travel support if needed
