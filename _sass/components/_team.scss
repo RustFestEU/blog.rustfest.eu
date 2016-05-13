@@ -1,8 +1,28 @@
 .team {
-  text-align: center;
+
+  @include display(flex);
+  @include align-items(center);
+  @include flex-direction(row);
+  @include flex-wrap(wrap);
+  @include justify-content(space-around);
+
+  > li {
+    @include flex-grow(1);
+
+  }
+
+  list-style: none;
+  padding: 0;
+
   img {
-    width: 27vw;
-    height: 27vw;
+    border-radius: 100%;
+    max-width: 300px;
+    margin: 0.5em;
+    border: 2px solid #fff;
+  }
+
+  .name {
+    font-size: 1.2em
   }
 
   svg {
@@ -16,32 +36,19 @@
   }
 
   .links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 0.85em;
     li {
       line-height: 1.2em;
+      display: inline;
     }
   }
 
-  > li {
-    display: inline-block;
-    position: relative;
-    overflow: hidden;
-    line-height: 0;
-    text-align: left;
-
-    .info {
-      position: absolute;
-      top: calc(100% - 2.5em);
-      transition: top .65s ease;
-      height: 100%;
-      background-color: transparentize($brand_dark_blue, 0.3);
-      color: white;
-      width: 100%;
-      padding: 0.5em;
-    }
-
-    &:hover .info {
-      position: absolute;
-      top: 50%;
-    }
+  .info {
+    color: white;
+    width: 100%;
+    padding: 0 1em 2em 1em;
   }
 }
