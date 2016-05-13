@@ -8,6 +8,14 @@
   "components/footer"
 ;
 
+.desc {
+  margin: 0.25em 0;
+  text-transform: uppercase;
+  font-size: 0.8em;
+  font-weight: bold;
+  color: $brand_dark_blue;
+}
+
 
 // and other specifics
 .hero {
@@ -18,12 +26,9 @@
   p {
     margin-bottom: 0;
   }
-  .desc {
-    margin: 0.25em 0;
-    text-transform: uppercase;
-    font-size: 0.8em;
-    font-weight: bold;
-    color: $dark-gray;
+  .highlight {
+    color: $brand_yellow;
+    font-style: bold;
   }
 }
 

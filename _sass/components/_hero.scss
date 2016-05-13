@@ -34,6 +34,9 @@
   }
   a, a:visited {
     color: $brand_yellow;
-
+  }
+  .highlight {
+    color: $brand_yellow;
+    font-weight: bold;
   }
 }
