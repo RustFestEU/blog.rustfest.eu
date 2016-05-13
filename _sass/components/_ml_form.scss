@@ -1,0 +1,19 @@
+#mailchimpForm{
+  .group {
+    width: 80%;
+    margin: 0 auto;
+    @include display(flex);
+    @include align-items(baseline);
+    @include flex-direction(row);
+    @include justify-content(center);
+
+    button {
+      border-radius: 0 100px 100px 0;
+    }
+    input {
+      border-radius: 100px 0 0 100px;
+      font-size: 21px;
+      padding: 0.75em 1.5em;
+    }
+  }
+}

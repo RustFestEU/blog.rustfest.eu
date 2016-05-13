@@ -20,3 +20,10 @@ twitter_username: rustfest
 github_username:  rustfesteu
 socialImageSrcTwitter: ""
 socialImageSrcFacebook: ""
+
+
+# mailinglist
+mailchimp:
+  server: asquera.us13.list-manage.com
+  user: 7945052bc1ecc432bff53c079
+  id: 5929ff51d6

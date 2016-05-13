@@ -2,10 +2,10 @@
 
 #{$all-buttons}, a.button {
   appearance: none;
-  background-color: $action-color;
-  border: 0;
-  border-radius: $base-border-radius;
-  color: #fff;
+  background: transparent;
+  border: $action-color 2px solid;
+  border-radius: 100px;;
+  color: $action-color;
   cursor: pointer;
   display: inline-block;
   font-family: $base-font-family;
@@ -15,14 +15,15 @@
   line-height: 1;
   padding: $small-spacing $base-spacing;
   text-decoration: none;
-  transition: background-color $base-duration $base-timing;
+  transition: background-color $base-duration $base-timing
+              color $base-duration $base-timing;
   user-select: none;
   vertical-align: middle;
   white-space: nowrap;
 
   &.primary {
     border: 2px solid $brand_yellow;
-    border-radius: 100px;
+    color: $brand_yellow;
   }
 
   &:hover,
@@ -30,6 +31,7 @@
     background-color: shade($action-color, 20%);
     color: #fff;
   }
+
 
   &:disabled {
     cursor: not-allowed;
