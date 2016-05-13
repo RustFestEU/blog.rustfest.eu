@@ -26,20 +26,6 @@
     - icon: "website"
       title: "fnordig.de"
       link: "https://fnordig.de/"
-- name: "Florian Gilcher"
-  nick: "skade"
-  desc: ""
-  thumbnailUrl: florian.png
-  links:
-    - icon: "twitter"
-      title: "Argorak"
-      link: "https://twitter.com/Argorak"
-    - icon: "github"
-      title: "skade"
-      link: "https://github.com/skade"
-    - icon: "website"
-      title: "asquera.de"
-      link: "http://asquera.de/"
 - name: "Emma Tracey"
   nick: "emma"
   desc: ""
@@ -80,3 +66,17 @@
     - icon: "website"
       title: johannadahlroos.com
       link: "https://johannadahlroos.com/"
+- name: "Florian Gilcher"
+  nick: "skade"
+  desc: ""
+  thumbnailUrl: florian.png
+  links:
+    - icon: "twitter"
+      title: "Argorak"
+      link: "https://twitter.com/Argorak"
+    - icon: "github"
+      title: "skade"
+      link: "https://github.com/skade"
+    - icon: "website"
+      title: "asquera.de"
+      link: "http://asquera.de/"
