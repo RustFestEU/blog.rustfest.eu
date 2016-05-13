@@ -1,0 +1,6 @@
+- name: "asquera GmbH"
+  thumbnailUrl: asquera.svg
+  link: "http://asquera.de"
+- name: "Honeypot"
+  thumbnailUrl: honeypot.png
+  link: "https://www.honeypot.io/"

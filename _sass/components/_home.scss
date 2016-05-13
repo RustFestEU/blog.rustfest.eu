@@ -5,3 +5,14 @@ section.twitter {
   background-position: 75% -25%;
   background-repeat: no-repeat;
 }
+
+.whitewithwheel {
+  padding: 2em 0 4em 0;
+  font-size: 1.3em;
+  background-image: url(../assets/backdrops/logo.svg);
+  background-position: 95% -100%;
+  background-repeat: no-repeat;
+  button:not(:hover) {
+    background: #fff;
+  }
+}

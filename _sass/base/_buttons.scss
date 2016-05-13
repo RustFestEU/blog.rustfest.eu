@@ -16,6 +16,7 @@
   padding: $small-spacing $base-spacing;
   text-decoration: none;
   transition: background-color $base-duration $base-timing
+              border-color $base-duration $base-timing
               color $base-duration $base-timing;
   user-select: none;
   vertical-align: middle;

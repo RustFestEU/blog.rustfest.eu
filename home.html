@@ -59,24 +59,38 @@ bodytags: with-hero
   </section>
 </div>
 
-<section class="whitewithwheel">
-  <h2>Stay up to date</h2>
-  <form id="mailchimpForm" class="formInput"  action="https://{{site.mailchimp.server}}/subscribe/post" method="POST">
-    <p>
-      Call for papers and ticket sales start soon. Join our mailing list always receive the latest infos:
-    </p>
-    <input type="hidden" value="{{site.mailchimp.user}}" name="u" />
-    <input type="hidden" value="{{site.mailchimp.id}}" name="id" />
-    <div class="group">
-      <input type="text" id="js-email" name="EMAIL" required placeholder="your.email@example.org" />
-      <button type="submit">Sign up</button>
-    </div>
-  </form>
-</section>
+<div class="whitewithwheel">
+  <section>
+    <h2>Stay up to date</h2>
+    <form id="mailchimpForm" class="formInput"  action="https://{{site.mailchimp.server}}/subscribe/post" method="POST">
+      <p>
+        Call for papers and ticket sales start soon. Join our mailing list always receive the latest infos:
+      </p>
+      <input type="hidden" value="{{site.mailchimp.user}}" name="u" />
+      <input type="hidden" value="{{site.mailchimp.id}}" name="id" />
+      <div class="group">
+        <input type="text" id="js-email" name="EMAIL" required placeholder="your.email@example.org" />
+        <button type="submit">Sign up</button>
+      </div>
+    </form>
+  </section>
+</div>
 
-<section class="sponsors">
-  <h2>Sponsors</h2>
-</section>
+<div class="sponsors">
+  <section>
+    <h2>Sponsors</h2>
+    <ul>
+      {% for sponsor in site.data.sponsors %}
+        <li><a href="{{sponsor.link}}" title="{{sponsor.name}}"><img src="/assets/sponsors/{{sponsor.thumbnailUrl}}" /></a></li>
+      {% endfor %}
+    </ul>
+    <div style="text-align: right">
+      <a class="button primary" href="mailto:sponsor@rustfest.eu">
+        Want to sponsor?
+      </a>
+    </div>
+  </section>
+</div>
 
 
 <section class="twitter">
