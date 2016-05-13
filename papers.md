@@ -34,7 +34,7 @@ We will give more details once CFP opens.
 
 ## Anonymized Selection Process
 
-In the first instance our CFP selection process based only on title and abstract.
+In the first instance our CFP selection process is based only on title and abstract.
 
 ## What we cover if you are selected
 
