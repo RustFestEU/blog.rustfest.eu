@@ -72,6 +72,21 @@ bodytags: with-hero
   </section>
 </div>
 
+{% if site.posts %}
+<div id="news">
+  {% assign post = site.posts[0] %}
+  <section>
+    <h2 class="headline">Latest news <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank">{% include icons/rss-square.svg %}</a></h2>
+    <div class="post">
+      {% include post_excerpt.html post=post %}
+    </div>
+    <div style="text-align: right">
+      <a href="/blog/">» more news</a>
+    </div>
+  </section>
+</div>
+{% endif %}
+
 <div class="whitewithwheel" id="newsletter">
   <section>
     <h2>Stay up to date</h2>
