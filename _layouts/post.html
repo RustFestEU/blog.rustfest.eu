@@ -29,4 +29,22 @@ layout: default
     {{ content }}
   </section>
 
+
+  <div class="whitewithwheel" id="newsletter">
+    <section>
+      <h2>Stay up to date</h2>
+      <form id="mailchimpForm" class="formInput"  action="https://{{site.mailchimp.server}}/subscribe/post" method="POST">
+        <p>
+          Join our mailing list to always receive the latest infos:
+        </p>
+        <input type="hidden" value="{{site.mailchimp.user}}" name="u" />
+        <input type="hidden" value="{{site.mailchimp.id}}" name="id" />
+        <div class="group">
+          <input type="text" id="js-email" name="EMAIL" required placeholder="your.email@example.org" />
+          <button type="submit">Sign up</button>
+        </div>
+      </form>
+    </section>
+  </div>
+
 </article>
