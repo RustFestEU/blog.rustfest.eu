@@ -28,7 +28,7 @@ Check out this [Rust Community Talks repository](https://github.com/rust-communi
 - How Rust and LLVM work together or how other bits of the Rust compiler work
 - Embedding other languages in Rust, or embedding Rust in other languages
 - Testing, benchmarking, profiling, debugging, REPL, IDE, editor experiences/tips/tricks/tools
-- War stories solving bugs, compilation errors, or production experiences
+- Stories about solving bugs, compilation errors, or production experiences
 
 We will give more details once CFP opens.
 
