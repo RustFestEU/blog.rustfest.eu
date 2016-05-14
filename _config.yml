@@ -12,6 +12,7 @@ markdown: kramdown
 
 # Page Settings
 owner: "Rust Community Europe e.V."
+permalink: "/blog/:title"
 
 
 # social stuff:

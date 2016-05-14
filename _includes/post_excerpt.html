@@ -1,0 +1,14 @@
+<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+<h2>
+  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+</h2>
+{% assign url = site.url | append: site.baseurl | append: post.url %}
+{% include social_share.html url=url %}
+
+<p>
+  <article>
+  {{ post.content | strip_html | truncate: 350 }}
+  <a href="{{ site.baseurl | append: post.url }}">continue reading</a></p>
+  </article>
+</p>

@@ -19,7 +19,20 @@ body {
 
 h1 {
   font-size: 55px;
-    margin-bottom: 0.2em;
+  margin-bottom: 0.2em;
+  svg {
+    height: 1em;
+    width: 1em;
+    height: 0.6em;
+    width: 0.6em;
+  }
+  a {
+    opacity: 0.5;
+    transition: opacity $base-duration $base-timing;
+    &:hover {
+      opacity: 0.85;
+    }
+  }
 }
 
 h2 {

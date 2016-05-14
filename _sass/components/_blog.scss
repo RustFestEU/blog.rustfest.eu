@@ -1,0 +1,19 @@
+.post-meta {
+  display: inline-block;
+  font-size: 0.925em;
+  margin-bottom: 0.2em;
+}
+
+.post-content {
+  margin: 3em auto;
+}
+
+.post-list {
+  list-style: none;
+  margin: 3em auto;
+  svg {
+    path {
+      fill: $brand_dark_blue;
+    }
+  }
+}

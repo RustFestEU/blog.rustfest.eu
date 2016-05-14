@@ -1,0 +1,14 @@
+.social-share {
+  list-style: none;
+  display: inline-block;
+  padding: 0;
+  vertical-align: middle;
+  li {
+    display: inline-block;
+  }
+  svg {
+    height: 1em;
+    width: 1em;
+    display: inline;
+  }
+}

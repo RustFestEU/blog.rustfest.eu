@@ -1,0 +1,22 @@
+<ul class="social-share">
+  <li>
+      <a href="#" onclick="window.open('https://twitter.com/home?status={{ url }}', 'newwindow', 'width=600, height=250'); return false;">
+          {% include icons/twitter-square.svg %}
+      </a>
+  </li>
+  <li>
+      <a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u={{ url }}', 'newwindow', 'width=600, height=500'); return false;">
+          {% include icons/facebook.svg %}
+      </a>
+  </li>
+  <li>
+      <a href="#" onclick="window.open('https://plus.google.com/share?url={{ url }}', 'newwindow', 'width=600, height=500'); return false;">
+          {% include icons/google-plus-square.svg %}
+      </a>
+  </li>
+  <li>
+      <a href="#" onclick="window.open('https://www.linkedin.com/shareArticle?mini=true&url={{ url }}', 'newwindow', 'width=600, height=500'); return false;">
+          {% include icons/linkedin.svg %}
+      </a>
+  </li>
+</ul>
