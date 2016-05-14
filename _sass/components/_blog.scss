@@ -16,4 +16,12 @@
       fill: $brand_dark_blue;
     }
   }
+
+  > li:not(:first-of-type)::before {
+    margin: 5em auto 2em auto;
+    border-top: 1px solid transparentize($brand_dark_blue, 0.5);
+    content: " ";
+    display: block;
+    width: 50%;
+  }
 }
