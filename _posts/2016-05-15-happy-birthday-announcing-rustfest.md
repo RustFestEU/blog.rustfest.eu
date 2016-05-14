@@ -9,9 +9,9 @@ On September 17th, 2016, the first full Rust conference in Europe will take plac
 
 Rustfest is fully community-organised by an awesome [team of people](/about/). The team consists of both newcomers as well as people behind such projects as the OpenTechSchool, OTS Conf and the eurucamp.
 
-This also means that we fully working on our own budget, which you can [help us out with by sponsoring](mailto:sponsor@rustfest.eu). We will provide further details about sponsorship plans within the next two weeks, but feel free to register interest, including how much you would be willing to give.
+This also means that we are working on our own budget, which you can [help us out with by sponsoring](mailto:sponsor@rustfest.eu). We will provide further details about sponsorship plans within the next two weeks, but feel free to register interest, including how much you would be willing to give.
 
-Here's a wish: we would like to get enough funds to manage to extend the conference to the 18th, an opportunity discussed with all venues. If possible, we would like to run a semi-structured workshop day on these days. Many people are new to the Rust community and getting to know new people by working together is important! Stay tuned for details!
+Here's a wish: we would like to get enough funds to manage to extend the conference to the 18th, an opportunity discussed with all venues. If possible, we would like to run a semi-structured workshop program on this day. Many people are new to the Rust community and getting to know new people by working together is important! Stay tuned for details!
 
 CFP will open soon, and we have - as attendees of our previous projects know - a couple of creative tricks up our sleeves. Sign up for news on [Twitter](http://twitter.com/rustfest) or through the mail form.
 
