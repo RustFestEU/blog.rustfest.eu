@@ -72,9 +72,9 @@ bodytags: with-hero
   </section>
 </div>
 
-{% if site.posts %}
+{% assign post = site.posts[0] %}
+{% if post %}
 <div id="news">
-  {% assign post = site.posts[0] %}
   <section>
     <h2 class="headline">Latest news <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank">{% include icons/rss-square.svg %}</a></h2>
     <div class="post">
