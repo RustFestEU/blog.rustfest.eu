@@ -105,7 +105,7 @@
 - name: "Andrew Hobden"
   nick: "hoverbear"
   desc: "Explorer of distributed systems."
-  thumbnailUrl: andrew.png
+  thumbnailUrl: andrew.jpg
   links:
     - icon: "twitter"
       title: "andrewhobden"
