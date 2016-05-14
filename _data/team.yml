@@ -80,3 +80,25 @@
     - icon: "website"
       title: "asquera.de"
       link: "http://asquera.de/"
+- name: "Andrey Listochkin"
+  nick: "listochkin"
+  desc: ""
+  thumbnailUrl: andrey.jpg
+  links:
+    - icon: "twitter"
+      title: "listochkin"
+      link: "https://twitter.com/listochkin"
+    - icon: "github"
+      title: "listochkin"
+      link: "https://github.com/listochkin"
+    - icon: "website"
+      title: "dev-ua"
+      link: "https://gitter.im/dev-ua"
+- name: "Yenna Listochkina"
+  nick: "tektonna"
+  desc: ""
+  thumbnailUrl: yenna.jpg
+  links:
+    - icon: "twitter"
+      title: "tektonna"
+      link: "https://twitter.com/tektonna"
