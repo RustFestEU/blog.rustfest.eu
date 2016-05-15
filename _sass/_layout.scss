@@ -23,27 +23,36 @@
 
 // and other specifics
 .hero {
-  .itemgroup{
+  .itemgroup {
     margin: 2em 0;
-    @include align-items(flex-end);
+
+    @include wide-device {
+      @include align-items(flex-end);
+    }
   }
+
   p {
     margin-bottom: 0;
   }
+
   .highlight {
     color: $brand_yellow;
     font-style: bold;
   }
 }
 
-.cfp-button,  {
+.cfp-button {
   margin: 2em 0;
 }
 
 .timeline {
   font-size: 0.75em;
-  margin: 0 2em 0 4em;
   min-width: 15em;
+
+  @incude wide-device {
+    margin: 0 2em 0 4em;
+  }
+
   h3 {
     text-transform: uppercase;
   }

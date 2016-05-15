@@ -15,17 +15,52 @@ header.navigation {
 
   // To the left
   .logo {
-    margin: 0.2em 2em;
+    padding: 1em 2em;
+    display: block;
+
+    @include wide-device {
+      padding: 0.2em 2em;
+    }
+
+    // Show site title on mobile
+    .site-title {
+      padding: 1em;
+      @include wide-device {
+        display: none;
+      }
+    }
+
+    @include narrow-device {
+      // Align logo and site title
+      @include display(flex);
+      @include flex-direction(row);
+      @include align-items(center);
+
+      // Add small visual separation between logo/title and nav links
+      border-bottom: 1px solid $brand_blue;
+    }
   }
 
   // Nav menu
   nav {
     @include flex-grow(2);
     text-align: center;
+
     ul {
+      padding-left: 0;
+
+      @include wide-device {
+        padding-left: 2em;
+      }
+
       li {
         display: inline-block;
         margin: 0 1em;
+        padding: 0.4em;
+
+        @include wide-device {
+          padding: 0;
+        }
       }
     }
   }
@@ -33,6 +68,12 @@ header.navigation {
   // Elements on the far right
   .social-bar {
     ul {
+      padding-left: 0;
+
+      @include wide-device {
+        padding-left: 2em;
+      }
+
       li {
         display: inline-block;
         margin: 0 1em;
@@ -61,20 +102,22 @@ header.navigation {
 }
 
 .with-hero header.navigation {
-  background-color: transparent;
-  border-bottom: none;
-  position: absolute;
-  transition: background-color 0.5s ease;
+  @include wide-device {
+    background-color: transparent;
+    border-bottom: none;
+    position: absolute;
+    transition: background-color 0.5s ease;
 
-  nav {
-    opacity: 0;
-    transition: opacity 0.25s ease;
-  }
-
-  &:hover {
-    background-color: transparentize($brand_dark_blue, 0.5);
     nav {
-      opacity: 1;
+      opacity: 0;
+      transition: opacity 0.25s ease;
+    }
+
+    &:hover {
+      background-color: transparentize($brand_dark_blue, 0.5);
+      nav {
+        opacity: 1;
+      }
     }
   }
 }

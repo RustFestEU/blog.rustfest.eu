@@ -14,7 +14,14 @@
 
 .post-list {
   list-style: none;
+
+  padding-left: 0;
   margin: 3em auto;
+
+  @incude wide-device {
+    padding-left: 2em;
+  }
+  
   svg {
     path {
       fill: $brand_dark_blue;
