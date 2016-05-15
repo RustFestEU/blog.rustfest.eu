@@ -5,9 +5,9 @@ title: "Our Birthday present: Announcing Rustfest"
 
 What a year! Rust 1.0 is turning 1! To add to the numeric confusion, there's a whole lot of announcements around the date. Here's ours:
 
-On September 17th, 2016, the first full Rust conference in Europe will take place in Berlin. We're still deciding on the exact venue, but we have quite some options on the table.
+On September 17th, 2016, the first [full Rust conference in Europe](/) will take place in Berlin. We're still deciding on the exact venue, but we have quite some options on the table.
 
-Rustfest is fully community-organised by an awesome [team of people](/about/). The team consists of both newcomers as well as people behind such projects as the OpenTechSchool, OTS Conf and the eurucamp.
+[Rustfest](/) is fully community-organised by an awesome [team of people](/about/). The team consists of both newcomers as well as people behind such projects as the OpenTechSchool, OTS Conf and the eurucamp.
 
 This also means that we are working on our own budget, which you can [help us out with by sponsoring](mailto:sponsor@rustfest.eu). We will provide further details about sponsorship plans within the next two weeks, but feel free to register interest, including how much you would be willing to give.
 
