@@ -1,9 +1,8 @@
 title: RustFest.EU
 email: team@rustfest.eu
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A Community Rust conference for the Rusty folks all around Europe. Mark your
+  calendars, September 17! 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.rustfest.eu" # the base hostname & protocol for your site
 
@@ -19,8 +18,8 @@ permalink: "/blog/:title"
 metaKeywords: "rust, conf, rustfest, rustfesteu, conference, programming language, berlin"
 twitter_username: rustfest
 github_username:  rustfesteu
-socialImageSrcTwitter: ""
-socialImageSrcFacebook: ""
+socialImageSrcTwitter: "/assets/favicons/logo.png"
+socialImageSrcFacebook: "/assets/favicons/logo.png"
 
 
 # mailinglist
