@@ -1,7 +1,10 @@
 .hero {
   @include linear-gradient(to bottom, transparentize($brand_purple, .3), $brand_blue);
   color: white;
-  padding: 2em 0 5em 0;
+  padding: {
+    top: 2em;
+    bottom: 5em;
+  };
 
   &::before {
     content: "";
@@ -19,7 +22,9 @@
   }
 
   h1 {
-    margin-top: 2em;
+    @include wide-device {
+      margin-top: 2em;
+    }
   }
 }
 
@@ -36,15 +41,21 @@
 .popout {
   background-color: $brand_blue;
   color: white;
-  padding: 4em 0 5em 0;
+  padding: {
+    top: 2em;
+    bottom: 5em;
+  };
+
   hr  {
     margin-top: 0;
     border-width: 2px;
     border-color: $brand_dark_blue;
   }
+
   a, a:visited {
     color: $brand_yellow;
   }
+
   .highlight {
     color: $brand_yellow;
     font-weight: bold;

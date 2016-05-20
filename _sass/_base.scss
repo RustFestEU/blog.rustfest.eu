@@ -9,21 +9,48 @@ $brand_green: #09D4B0;
 @import "neat/neat";
 @import "base/base";
 
+@mixin narrow-device($max-width: (600px - 1px)) {
+  @media screen and (max-width: $max-width) {
+    @content;
+  }
+}
+
+@mixin wide-device($min-width: 600px) {
+  @media screen and (min-width: $min-width) {
+    @content;
+  }
+}
 
 body {
   margin: 0;
   padding: 0;
   text-rendering: optimizeLegibility;
+
+  > header, > section, > footer, > div,
+  > article section {
+    padding: {
+      left: 0.6em;
+      right: 0.6em;
+    };
+  }
 }
 
 
 h1 {
-  font-size: 55px;
+  font-size: 35px;
+  @include wide-device {
+    font-size: 55px;
+  }
+
   margin-bottom: 0.2em;
 }
 
 h2 {
-  font-size: 27px;
+  font-size: 24px;
+  @include wide-device {
+    font-size: 27px;
+  }
+  
   margin-top: 1em;
   margin-bottom: 0;
   font-weight: 300;
@@ -57,10 +84,21 @@ section {
 }
 
 .itemgroup {
-  @include align-items(stretch);
   @include display(flex);
-  @include flex-direction(row);
-  @include justify-content(space-around);
+  @include flex-direction(column);
+
+  @include narrow-device {
+    > div {
+      margin-bottom: 0.6em;
+    }
+  }
+
+  @include wide-device {
+    @include align-items(stretch);
+    @include display(flex);
+    @include flex-direction(row);
+    @include justify-content(space-around);
+  }
 }
 
 a.inline svg {
