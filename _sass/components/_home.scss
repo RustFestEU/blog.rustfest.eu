@@ -1,5 +1,11 @@
 section.twitter {
-  padding: 3em 5em;
+  padding: 1em 2em;
+  text-align: center;
+
+  @include wide-device {
+    padding: 3em 5em;
+  }
+
   font-size: 1.3em;
   background-image: url(../assets/backdrops/logo.svg);
   background-position: 75% -25%;
@@ -7,7 +13,10 @@ section.twitter {
 }
 
 .whitewithwheel {
-  padding: 2em 0 4em 0;
+  padding: {
+    top: 2em;
+    bottom: 4em;
+  };
   font-size: 1.3em;
   background-image: url(../assets/backdrops/logo.svg);
   background-position: 95% -100%;
