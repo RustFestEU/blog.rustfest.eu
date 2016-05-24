@@ -5,10 +5,19 @@ title: Call for Papers
 ---
 
 
-We're opening a total of **5 speaker slots**. Talks are 30 minutes long, including Q&A.
+We're opening a total of **5-6 speaker slots**. Talks are 30 minutes long, including Q&A.
 
 Rust is a new language so all papers are welcome. If you have been working on something for only 6 months, but it's interesting, then apply!
 
+## Where do I head to?
+
+Read the [Submission Guide](https://cfp.rustfest.eu/guide) and submit.
+
+In the first instance our CFP selection process is based only on title and abstract.
+
+## Mentorship
+
+Rustfest has a Mentorship program. You will have a mentor assigned to you for your talk. See our [Mentorship Guide](https://cfp.rustfest.eu/mentorship) for details. To register as a mentor, just sign up and tick the box in your profile.
 
 ## Ideas
 
@@ -32,12 +41,8 @@ Check out this [Rust Community Talks repository](https://github.com/rust-communi
 
 We will give more details once CFP opens.
 
-## Anonymized Selection Process
-
-In the first instance our CFP selection process is based only on title and abstract.
 
 ## What we cover if you are selected
 
 - Free conference ticket
 - Accommodation
-- We intend to pay travel support if needed
