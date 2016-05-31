@@ -1,12 +1,15 @@
-.sponsors {
+#sponsors {
   @include linear-gradient(to right, $brand_green, $brand_blue);
+}
+.sponsors {
   color: white;
+  margin: 0;
+  font-size: 0.9em;
+
   padding: {
     top: 2em;
     bottom: 2em;
   };
-  margin: 0;
-  font-size: 0.9em;
   img {
     max-height: 25vh;
     max-width: 25vw;
