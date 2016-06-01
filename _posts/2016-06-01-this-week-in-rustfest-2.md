@@ -4,9 +4,9 @@ title: "This Week in RustFest 2"
 ---
 
 
-Hello Rustceans. Here's our weekly update of what happens at Rustfest!
+Hello Rustaceans. Here's our weekly update of what happens at Rustfest!
 
-First of all, we finally opened our [Call for Papers](https://cfp.rustfest.eu) last week. Take special note that we have an [extensive Guide](https://cfp.rustfest.eu/guide) and a [Mentorship Programme](https://cfp.rustfest.eu/mentorship). Please [write to us](info@rustfest.eu) if you have any questions or suggestions.
+First of all, we finally opened our [Call for Papers](https://cfp.rustfest.eu) last week. Take special note that we have an [extensive guide](https://cfp.rustfest.eu/guide) and a [mentorship programme](https://cfp.rustfest.eu/mentorship). Please [write to us](info@rustfest.eu) if you have any questions or suggestions.
 
 We finally have our [sponsoring info](http://www.rustfest.eu/sponsoring/) online, you can [read about the packages here](http://www.rustfest.eu/assets/downloads/rustfest_2016_sponsorship.pdf).
 
