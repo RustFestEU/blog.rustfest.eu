@@ -1,3 +1,6 @@
+- name: "1aim"
+  thumbnailUrl: 1aim.png
+  link: "https://1aim.com"
 - name: "asquera GmbH"
   thumbnailUrl: asquera.svg
   link: "http://asquera.de"
