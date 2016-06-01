@@ -15,3 +15,7 @@ We also have our first sponsor to announce: [https://1aim.com/](1aim.com) is our
 We made our rounds to find an initial set of speakers and will announce soon!
 
 Finally, we are close to committing on a venue, we found a nice one that is flexible and allows us to implement many of our plans.
+
+# How you can help
+
+Currently, you can help us by propagating the CFP announcement to as many people as possibly, especially to outreach groups, if you have context to any. We'd be happy to have as many people submit as possible!
