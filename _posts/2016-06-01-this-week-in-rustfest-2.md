@@ -10,7 +10,7 @@ First of all, we finally opened our [Call for Papers](https://cfp.rustfest.eu) l
 
 We finally have our [sponsoring info](http://www.rustfest.eu/sponsoring/) online, you can [read about the packages here](http://www.rustfest.eu/assets/downloads/rustfest_2016_sponsorship.pdf).
 
-We also have our first sponsor to announce: [https://1aim.com/](1aim.com) is our first Gold sponsor!
+We also have our first sponsor to announce: [1aim](https://1aim.com/) is our first Gold sponsor!
 
 We made our rounds to find an initial set of speakers and will announce soon!
 
