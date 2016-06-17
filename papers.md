@@ -47,3 +47,8 @@ We will give more details once CFP opens.
 - Free conference ticket
 - Accommodation
 - We will attempt to cover travel costs, people in need first
+
+
+<p>
+  <a class="cfp-button button primary" href="https://cfp.rustfest.eu">Send paper now</a>
+</p>
