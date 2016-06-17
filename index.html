@@ -48,6 +48,9 @@ bodytags: with-hero
 </div>
 
 <div class="popout">
+</div>
+
+<div id="call-for-papers">
   <section>
     <div class="itemgroup">
       <div>
@@ -56,7 +59,7 @@ bodytags: with-hero
           We have a total of 5 speaker slots. Talks are 30 minutes long, including Q&A. Rust is a new language so all papers are welcome. If you have been working on something for only 6 months, but it's interesting, then apply!
         </p>
         <p>
-          <a class="cfp-button button primary" href="https://cfp.rustfest.eu">Call for papers open</a>
+          <a class="cfp-button button" href="https://cfp.rustfest.eu">Call for papers open</a>
         </p>
       </div>
       <div class="timeline">
@@ -68,6 +71,23 @@ bodytags: with-hero
           <span class="highlight">Sept 17th</span>: Conference
         </p>
       </div>
+    </div>
+  </section>
+</div>
+
+
+<div id="sponsors" class="sponsors">
+  <section>
+    <h2>Sponsors</h2>
+    <ul>
+      {% for sponsor in site.data.sponsors %}
+        <li><a href="{{sponsor.link}}" title="{{sponsor.name}}"><img src="/assets/sponsors/{{sponsor.thumbnailUrl}}" /></a></li>
+      {% endfor %}
+    </ul>
+    <div style="text-align: right">
+      <a class="button primary" href="/sponsoring/">
+        Want to sponsor?
+      </a>
     </div>
   </section>
 </div>
@@ -87,7 +107,7 @@ bodytags: with-hero
 </div>
 {% endif %}
 
-<div class="whitewithwheel" id="newsletter">
+<div id="newsletter">
   <section>
     <h2>Stay up to date</h2>
     <form id="mailchimpForm" class="formInput"  action="https://{{site.mailchimp.server}}/subscribe/post" method="POST">
@@ -102,28 +122,11 @@ bodytags: with-hero
       </div>
     </form>
   </section>
-</div>
 
-<div id="sponsors" class="sponsors">
-  <section>
-    <h2>Sponsors</h2>
-    <ul>
-      {% for sponsor in site.data.sponsors %}
-        <li><a href="{{sponsor.link}}" title="{{sponsor.name}}"><img src="/assets/sponsors/{{sponsor.thumbnailUrl}}" /></a></li>
-      {% endfor %}
-    </ul>
-    <div style="text-align: right">
-      <a class="button primary" href="/sponsoring/">
-        Want to sponsor?
-      </a>
-    </div>
+  <section class="twitter">
+    <h2>Follow us on twitter</h2>
+    <a class="inline" href="https://www.twitter.com/{{site.twitter_username}}" >
+      {% include icons/twitter.svg %} @{{site.twitter_username}}
+    </a>
   </section>
 </div>
-
-
-<section class="twitter">
-  <h2>Follow us on twitter</h2>
-  <a class="inline" href="https://www.twitter.com/{{site.twitter_username}}" >
-    {% include icons/twitter.svg %} @{{site.twitter_username}}
-  </a>
-</section>
