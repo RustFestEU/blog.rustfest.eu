@@ -41,6 +41,6 @@ Felix Klock is a research engineer at Mozilla, where he works on the Rust compil
 
 ### And You !!!
 
-We are still looking for more speakers. Have an idea or proposal? Our CfP is still open!
+We are still looking for more speakers. And we can't stress this enough: If you have questions or want input on or help with your proposal, **let us help you**: You can send an email to <team@rustfest.eu> or send us a [direct message via twitter](https://twitter.com/rustfest) (DM's are open to the public). If you are unsure, **please submit** or at least tell us.
 
 <a class="cfp-button button" href="http://www.rustfest.eu/papers/">Apply now!</a>
