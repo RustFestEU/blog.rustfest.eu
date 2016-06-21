@@ -72,6 +72,47 @@ bodytags: with-hero
   </section>
 </div>
 
+<div>
+  <section id="speakers">
+    <h2>Speakers</h2>
+    <ul class="speakers">
+      {% for speaker in site.data.speakers %}
+        <li class="speaker-box">
+          <div  class="portrait">
+            <img src="/assets/speakers/{{speaker.thumbnailUrl}}" />
+          </div>
+          <div class="info">
+            <span class="name">{{speaker.name}}</span>
+            <ul class="links">
+              {% for link in speaker.links %}
+                <li><a href="{{link.link}}" target="_blank" title="{{link.title}}">{% include icons/{{link.icon}}.svg %}</a></li>
+              {% endfor %}
+            </ul>
+          </div>
+          <div class="desc">
+            {{speaker.desc}}
+          </div>
+        </li>
+      {% endfor %}
+
+        <li class="speaker-box">
+          <div  class="portrait">
+            <img src="/assets/speakers/rustacean-flat-happy.png" />
+          </div>
+          <div class="info">
+            <span class="name">Your Name</span>
+          </div>
+          <div class="desc">
+            We are still looking for more speakers. Have an idea or proposal? Our CfP is still open!
+            <p style="text-align: center">
+                <a class="cfp-button button" href="/papers/">Learn more</a>
+            </p>
+          </div>
+        </li>
+    </ul>
+  </section>
+</div>
+
 
 <div id="sponsors" class="sponsors">
   <section>
