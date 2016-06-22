@@ -15,7 +15,7 @@ As before, if you have questions or want input on or help with your proposal, **
 
 ## Announcing Speakers
 
-Even though we are extending the Call for Papers, there are already two speaker we are very excited to have on board:
+Even though we are extending the Call for Papers, there are already two speakers we are very excited to have on board:
 
 <br />
 
@@ -23,7 +23,7 @@ Even though we are extending the Call for Papers, there are already two speaker 
 
 ### Hanneli Tavante
 
-Hanneli Tavante is a Brazilian developer working at Codemine42. She's addicted to code, loves to learn new programming languages, frameworks, blowing up capacitors, do some C programming to relax and commit useful (or unuseful) code for random Open Source Projects that she finds at Github.
+Hanneli Tavante is a Brazilian developer working at Codemine42. She's addicted to code, loves to learn new programming languages, frameworks, blowing up capacitors, do some C programming to relax and commit useful (or unuseful) code for random Open Source Projects that she finds at Github. She also part of Rust São Paulo.
 
 <span style="clear: both">&nbsp;</span>
 
