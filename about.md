@@ -4,7 +4,7 @@ permalink: /about/
 title: About
 ---
 
-RustConf is Europe’s first Rust-dedicated conference. The one day, single track event will take place in Berlin.
+RustFest is Europe’s first Rust-dedicated conference. The one day, single track event will take place in Berlin.
 
 We care about diversity and accessibility at this conference.
 
