@@ -18,7 +18,7 @@ Though the Call for Papers is closed, the app isn't yet. We have a strong mentor
 
 ## Coaching at Workshops
 
-We are in talks with the venue and were hoping to confirm with you this week that we can host workshops there, too. But we aren't quite there yet, however, there will be workshops around RustFest – even if not at our venue directly – and for that we'll need Coaches. So if you have an idea for a workshop you'd like to give, coordinate or help in the making of the material or just want to help coach at a workshop itself, please email us at: <team@rustfest.eu> !
+We are in talks with the venue and were hoping to confirm with you this week that we can host workshops there, too. But we aren't quite there yet, however, there will be workshops around RustFest – even if not at our venue directly – and for that we'll need Coaches. So if you have an idea for a workshop you'd like to give, coordinate or help in the making of the material or just want to help coach at a workshop itself, please email us at: <coaching@rustfest.eu> !
 
 
 That's it from here, stay tuned to learn more about the venue, future sponsors and the final schedule soon!
