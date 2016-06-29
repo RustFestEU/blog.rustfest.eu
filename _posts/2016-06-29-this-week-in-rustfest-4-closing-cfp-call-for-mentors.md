@@ -6,7 +6,7 @@ socialImageSrc: '/assets/posts/twirf-4-mentors.png'
 
 ## CfP closed
 
-Last weeks announcement to extend the call for Papers was a big success. At closing time this Monday we had a total of <strong>30 valid</strong>  by <strong>29 awesome people</strong> 🎉🎊🎉, who want to present at the first RustFest in September. Unfortunately we don't have nearly enough time to have all talks presenting at the event, so the team will spend this week on the tough job of selecting talks and inform all speakers by July 7th.
+Last weeks announcement to extend the call for Papers was a big success. At closing time this Monday we had a total of <strong>30 submissions</strong> by <strong>29 awesome people</strong> 🎉🎊🎉, who want to present at the first RustFest in September. Unfortunately we don't have nearly enough time to have all talks presenting at the event, so the team will spend this week on the tough job of selecting talks and inform all speakers by July 7th.
 
 Whether your talk will be selected or not, we want to reiterate how awesome it is that you applied. We know it isn't always easy to get the courage to put yourself out there. Thank you for doing it. [You are awesome!](http://weareallaweso.me/)
 
