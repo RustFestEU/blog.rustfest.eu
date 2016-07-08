@@ -6,7 +6,7 @@ socialImageSrc: '/assets/posts/twirf-5-locations.png'
 
 ## Berlin, Capital of the Rust Community
 
-A short while back the Rust Community Team ran a survey asking the participants about all sorts of things. Among others they asked about the demographics, where someone is living and that sort of thing. Just one day [after last weeks TWIRF](http://localhost:4000/blog/this-week-in-rustfest-4-closing-cfp-call-for-mentors) they [published the results on the Rust blog](http://blog.rust-lang.org/2016/06/30/State-of-Rust-Survey-2016.html). With some remarkable results: a third of participants (1000 of 3000) said they are living in Europe and a whopping 40% **want a conference to take place in Berlin**. Whooot?
+A short while back the Rust Community Team ran a survey asking the participants about all sorts of things. Among others they asked about the demographics, where someone is living and that sort of thing. Just one day [after last weeks TWIRF](/blog/this-week-in-rustfest-4-closing-cfp-call-for-mentors) they [published the results on the Rust blog](http://blog.rust-lang.org/2016/06/30/State-of-Rust-Survey-2016.html). With some remarkable results: a third of participants (1000 of 3000) said they are living in Europe and a whopping 40% **want a conference to take place in Berlin**. Whooot?
 
 ![Demographics](/assets/posts/twirf-5-locations.png)
 
