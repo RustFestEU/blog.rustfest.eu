@@ -24,7 +24,7 @@ We also contacted a few speakers to clarify some information. Once they got back
 
 ![Take my money](/assets/posts/twirf-5-take-my-money.gif)
 
-We understand you are psyched about all this. So are we. And in our original plan we wanted to have ticket sales going at this point in time already. As this is the first RustFest, however, there is a lot more administrative overhead this time around (legal entity, bank account and alike) and unfortunately KUI-XING, the [Chinese God of Bureaucracy]((http://www.godchecker.com/pantheon/chinese-mythology.php?deity=KUI-XING)), decided to play games with us: Certain things have been delayed more than necessary, other things become more complicated.
+We understand you are psyched about all this. So are we. And in our original plan we wanted to have ticket sales going at this point in time already. As this is the first RustFest, however, there is a lot more administrative overhead this time around (legal entity, bank account and alike) and unfortunately KUI-XING, the [Chinese God of Bureaucracy](http://www.godchecker.com/pantheon/chinese-mythology.php?deity=KUI-XING), decided to play games with us: Certain things have been delayed more than necessary, other things become more complicated.
 
 Not to worry though, we have already kicked in our backup plan and are trying to catch up on things. There is no reason to worry, we just can't sell tickets just yet. And we ask you:
 
