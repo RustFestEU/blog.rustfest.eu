@@ -15,7 +15,7 @@ We knew that there was a need, but seeing these clear results... What can we say
 
 ## Reviewing Speaker Submissions
 
-As reported already last week, we were stunned by the submissions for talks, as well as for workshops and coaching (keep those coming!). The review panel has been busy going through all of them and we've established a short list already. A very exciting list, covering everything from hardware and hard algorithms, over real-world application of Rust all the way to important discussions about Rust as community and project of human beings. Unfortunately we still have to cut a few talks – there are just too many interesting topics and awesome proposals!!!
+As reported already last week, we were stunned by the submissions for talks, as well as for workshops and coaching (keep those coming!). The review panel has been busy going through all of them and we've established a short list already. A very exciting list, covering everything from hardware and hard algorithms, over real-world application of Rust all the way to important discussions about Rust as community and project of human beings. Unfortunately we still have to cut a few talks – there are just too many interesting topics and awesome proposals!
 
 We also contacted a few speakers to clarify some information. Once they got back to us, we'll compile a final schedule. We hope to have all speakers informed by mid next Week (the 14th) and will take logistics from there. We'll announce the first speakers soon after.
 
