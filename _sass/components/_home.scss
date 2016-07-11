@@ -30,6 +30,13 @@ section.twitter {
   padding: 3em 0;
 }
 
+.location {
+  a, a:hover, a:visited {
+    color: $brand_yellow;
+    font-weight: bold;
+  }
+}
+
 #news {
   h2 {
     margin: 0;
