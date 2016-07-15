@@ -28,7 +28,7 @@ You know what that means? Well, for once, **WE WILL HAVE WORKSHOPS**. With the v
 
 ## More sponsors
 
-Aside from [Microsoft Berlin](https://www.microsoft-berlin.de/de-de/berlin/), two other organisations decided to join the list of sponsors of RustFest this week. The always awesome [Mozillians](https://www.mozilla.org/en-US/) and [QiTASC](http://www.qitasc.at/), a Quality Assurance Provider for mobile from Vienna, decided to join the ranks. The website has been updated accordingly.
+Aside from [Microsoft Berlin](https://www.microsoft-berlin.de/de-de/berlin/), two other organisations decided to join the list of sponsors of RustFest this week. The always awesome [Mozilla](https://www.mozilla.org/en-US/) and [QiTASC](http://www.qitasc.at/), a Quality Assurance Provider for mobile from Vienna, decided to join the ranks. The website has been updated accordingly.
 
 ![New Sponsors](/assets/posts/twirf-6/new-sponsors.png)
 
