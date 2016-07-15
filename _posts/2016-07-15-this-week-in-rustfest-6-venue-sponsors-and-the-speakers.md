@@ -21,7 +21,7 @@ We got the pleasure to visit the "Atrium", their newly equipped conference setti
 ![RustFest Venue 2016](/assets/posts/twirf-6/venue-room.png)
 
 
-But wait, there's more. Microsoft Berlin was so impressed with RustFest and what we are up to, they decided to sponsor the event. WHAAA? Yes, Microsoft Berlin let's use the venue _for both days_ free of charge! Our dreams come true.
+But wait, there's more. Microsoft Berlin was so impressed with RustFest and what we are up to, they decided to sponsor the event. WHAAA? Yes, Microsoft Berlin let us use the venue _for both days_ free of charge! Our dreams come true.
 
 You know what that means? Well, for once, **WE WILL HAVE WORKSHOPS**. With the venue being sponsored by awesome Microsoft, we have at least one awesome workshop room right on side. Further more we will convert the big room we have for talks on the first day to a big meet-n-greet-n-hack area during the second. So for everyone, who's just happy to finally meet other community members in person and just want to hang out and chat, we'll have space for that, too. Oh, my. This is shaping up to be quite awesome!
 
