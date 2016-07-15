@@ -8,7 +8,7 @@ Oh, what a great week for RustFest!
 
 ## Venue, in the center of Berlin
 
-Earlier this week really great news arrived us: **our most anticipated venue confirmed they will host RustFest 2016!**
+Earlier this week really great news arrived: **our most anticipated venue confirmed they will host RustFest 2016!**
 
 At Unter den Linden 17, just steps from to the Brandenburg Gate, **Microsoft Berlin** entertains an amazing conference and event venue in an iconic corner building:
 
