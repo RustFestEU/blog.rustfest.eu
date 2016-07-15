@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This Week in RustFest 5: Announcing the venue, more awesome sponsors and first CfP speaker confirmed"
+title: "This Week in RustFest 6: Announcing the venue, more awesome sponsors and first CfP speakers"
 socialImageSrc: '/assets/posts/twirf-6/new-sponsors.png'
 ---
 
