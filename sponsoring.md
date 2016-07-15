@@ -13,7 +13,7 @@ title: Sponsoring
     </p>
     <ul>
       {% for sponsor in site.data.sponsors %}
-        <li><a href="{{sponsor.link}}" title="{{sponsor.name}}"><img src="/assets/sponsors/{{sponsor.thumbnailUrl}}" /></a></li>
+        <li><a href="{{sponsor.link}}" title="{{sponsor.name}}"><img src="/assets/sponsors/{{sponsor.logoName}}" /></a></li>
       {% endfor %}
     </ul>
   </section>

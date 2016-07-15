@@ -1,9 +1,21 @@
+- name: "Microsoft Berlin"
+  logoName: Microsoft.svg
+  link: "https://www.microsoft-berlin.de/de-de/berlin/"
+  featured: true
+- name: "Mozilla"
+  logoName: "mozilla.png"
+  link: "https://www.mozilla.org"
+  featured: true
 - name: "1aim"
-  thumbnailUrl: 1aim.png
+  logoName: 1aim.png
   link: "https://1aim.com"
+- name: "QiTASC"
+  link: "http://www.qitasc.com/"
+  logoName: qitasc.png
+  featured: true
 - name: "asquera GmbH"
-  thumbnailUrl: asquera.svg
+  logoName: asquera.svg
   link: "http://asquera.de"
 - name: "Honeypot"
-  thumbnailUrl: honeypot.png
+  logoName: honeypot2.png
   link: "https://www.honeypot.io/"

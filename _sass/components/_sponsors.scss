@@ -20,7 +20,11 @@
     @include display(flex);
     @include align-items(center);
     @include flex-direction(row);
-    @include justify-content(space-around);
+    @include justify-content(space-between);
+    @include flex-wrap(wrap);
+    > li {
+      margin: 1em;
+    }
   }
 
   .button {
