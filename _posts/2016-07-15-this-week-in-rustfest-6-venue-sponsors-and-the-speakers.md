@@ -37,7 +37,7 @@ Welcome aboard, and thank you very much!
 
 ## First CfP speakers confirmed
 
-As promised last week already, we've also selected the first few speaker from the CfP and informed them about our decision. And we are very happy to hear back from so many already, that they can indeed make it. We'll share the first few names and talk descriptions starting next week, but I can already tell you that you'll see some familiar faces as well as complete new comers to public speaking with topics ranging from hardware, testing over concurrency and disassemblers all the way to community, learning and empathy. We are very happy with the set of talks and can't wait to inform you about them.
+As promised last week already, we've also selected the first few speaker from the CfP and informed them about our decision. And we are very happy to hear back from so many already, that they can indeed make it. We'll share the first few names and talk descriptions starting next week, but I can already tell you that you'll see some familiar faces as well as complete newcomers to public speaking with topics ranging from hardware, testing over concurrency and disassemblers all the way to community, learning and empathy. We are very happy with the set of talks and can't wait to inform you about them.
 
 Note: if you haven't heard from us yet, that's because we haven't made up our minds fully yet. You'll hear from us within the next few days for sure.
 
