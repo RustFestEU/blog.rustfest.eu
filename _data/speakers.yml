@@ -34,7 +34,7 @@ sonja:
   name: "Sonja Heinen"
   nick: sonjaheinen
   featured: true
-  desc: "Sonja is a semi-nomadic visual designer interested in the space where technology, art and society collide. In October 2014 she earned a Master‘s in Sustainable Design from Kingston University in London, then relocated to Berlin. She currently works as a Frontend developer and roams through open source communities."
+  desc: "Sonja is a semi-nomadic visual designer interested in the space where technology, art and society collide. In October 2014 she earned a Master's Degree in Sustainable Design from Kingston University in London, then relocated to Berlin. She currently works as a Frontend developer and roams through open source communities."
   thumbnailUrl: sonja.jpg
   links:
     - icon: "twitter"
