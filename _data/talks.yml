@@ -26,15 +26,15 @@ In this talk, I'll present concrete examples that I've used when developing a We
 When Rust hit 1.0 last year, I decided to write a library to convert from latitude and longitude coordinates to [British National Grid](https://en.wikipedia.org/wiki/Ordnance_Survey_National_Grid) eastings and northings, in order to learn the language. The result is the [lonlat_bng](https://github.com/urschrei/lonlat_bng) crate and the [convertbng](https://github.com/urschrei/convertbng) Python package.
 \n\n
 This talk will focus on several areas:
-
-- Experiences from learning a systems programming language for someone coming from dynamic languages
-- Evolving code from single-threaded to multi-threaded, and how to use tests and benchmarks to get there
-- Comparing the performance of the Crossbeam and Rayon libraries for parallel execution
-- Using Perfect Hashing for fast access to large (300K+ members) HashMaps
-- Detecting numerical instability using [Herbie](https://github.com/mcarton/rust-herbie-lint), and using Clippy to catch common mistakes and style errors
-- Implementing generic functions to keep your code clean and DRY-conformant
-- Writing a lot of docs and examples, so people can get going quickly
-- Integrating your Rust binary with your dynamic code, and [making it available to the rest of the world](https://pypi.python.org/pypi/convertbng), including discussion of linking to system libraries, and the intricacies of building cross-platform libraries."
+\n
+\n  - Experiences from learning a systems programming language for someone coming from dynamic languages
+\n  - Evolving code from single-threaded to multi-threaded, and how to use tests and benchmarks to get there
+\n  - Comparing the performance of the Crossbeam and Rayon libraries for parallel execution
+\n  - Using Perfect Hashing for fast access to large (300K+ members) HashMaps
+\n  - Detecting numerical instability using [Herbie](https://github.com/mcarton/rust-herbie-lint), and using Clippy to catch common mistakes and style errors
+\n  - Implementing generic functions to keep your code clean and DRY-conformant
+\n  - Writing a lot of docs and examples, so people can get going quickly
+\n  - Integrating your Rust binary with your dynamic code, and [making it available to the rest of the world](https://pypi.python.org/pypi/convertbng), including discussion of linking to system libraries, and the intricacies of building cross-platform libraries."
 
 - title: "Hobby-oriented programming"
   public: true
