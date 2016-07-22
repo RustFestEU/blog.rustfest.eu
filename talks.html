@@ -1,0 +1,47 @@
+---
+layout: default
+permalink: /talks/
+title: Talks
+---
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <div class="popout">
+    <section>
+        <h1>Rust 2016 Talks</h1>
+    </section>
+  </div>
+
+  <section>
+    <ul class="talks">
+      {% for talk in site.data.talks %}
+        {% assign speaker = site.data.speakers[talk.by] %}
+        {% if talk.public %}
+          <li>
+            <h2 class="title" id="{{talk.title | slugify}}">{{talk.title}}</h2>
+            <div class="wrap">
+              <div class="speaker">
+                <div class="portrait">
+                  <img src="/assets/speakers/{{speaker.thumbnailUrl}}" />
+                </div>
+                <div class="desc">
+                  <h3 class="name">{{speaker.name}}</h3>
+                  {{speaker.desc | markdownify }}
+
+                  <ul class="links">
+                    {% for link in speaker.links %}
+                      <li><a href="{{link.link}}" target="_blank" title="{{link.title}}">{% include icons/{{link.icon}}.svg %}</a></li>
+                    {% endfor %}
+                  </ul>
+                </div>
+              </div>
+              <div class="abstract">
+                {{talk.desc | markdownify}}
+              </div>
+            </div>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </section>
+</div>

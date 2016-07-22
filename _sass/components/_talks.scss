@@ -1,0 +1,104 @@
+
+
+.talks {
+  @include display(flex);
+  // @include align-items(top);
+  @include flex-direction(column);
+  // @include flex-wrap(wrap);
+  @include justify-content(space-around);
+
+  list-style: none;
+  padding: 0;
+
+  $base-background-color: white !default;
+  $base-border-color: gainsboro !default;
+  $base-border-radius: 3px !default;
+  $base-background-color: white !default;
+  $base-spacing: 1.5em !default;
+  $action-color: #477DCA !default;
+  $dark-gray: #333 !default;
+  $base-font-color: $dark-gray !default;
+  $card-border-color: $base-border-color;
+  $card-border: 1px solid $card-border-color;
+  $card-background: lighten($card-border-color, 10%);
+
+  > li {
+    padding-top: 3em;
+    padding-bottom: 5em;
+    &::after {
+      display: block;
+      content : " ";
+      width: 50%;
+      border-bottom: $card-border;
+      margin: 0 auto;
+    }
+    > h2 {
+      width: 100%;
+      display: block;
+    }
+  }
+
+  .wrap {
+    @include display(flex);
+    @include flex-direction(column-reverse);
+    @include flex-wrap(nowrap);
+  }
+
+
+  .abstract {
+    @include flex-grow(2);
+  }
+
+  .speaker {
+    @include display(flex);
+    // @include flex-direction(row);
+    @include flex-wrap(nowrap);
+    text-align: center;
+    margin: 2em 1em;
+
+
+    .portrait {
+      @include flex-basis(15em);
+      img {
+        width: 80%;
+        display: inline-block;
+        margin: 0.5em auto;
+      }
+    }
+
+    .desc {
+      @include flex-grow(4);
+      text-transform: none;
+      padding: 8px;
+      color: $base-font-color;
+      text-align: justify;
+      font-size: 0.65em;
+      font-weight: normal;
+    }
+
+    .links {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      line-height: 1.25em;
+      font-size: 2em;
+      li {
+        display: inline;
+        margin: 0 3px;
+      }
+    }
+  }
+
+  svg {
+    height: 0.75em;
+    width: 0.75em;
+    vertical-align: middle;
+    path {
+      fill: $base-font-color;
+    }
+  }
+
+  .name {
+    font-size: 1.2em
+  }
+}

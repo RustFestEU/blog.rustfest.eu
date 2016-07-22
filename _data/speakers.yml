@@ -1,4 +1,6 @@
-- name: "Hanneli Tavante"
+hanneli:
+  name: "Hanneli Tavante"
+  featured: true
   nick: "hannelita"
   desc: "is a Brazilian developer working at Codemine42. She's addicted to code, loves to learn new programming languages, frameworks, blowing up capacitors, do some C programming to relax and commit useful (or unuseful) code for random Open Source Projects that she finds at Github. "
   thumbnailUrl: hanneli.jpg
@@ -15,14 +17,28 @@
     - icon: "slides"
       title: "hannelita"
       link: "http://slides.com/hannelitavante-hannelita"
-- name: "Felix Klock"
+felix:
+  name: "Felix Klock"
+  featured: true
   nick: "pnkfelix"
   desc: "Felix Klock is a research engineer at Mozilla, where he works on the Rust compiler, runtime libraries, and language design. He previously worked on the ActionScript Virtual Machine for the Adobe Flash runtime. Felix obtained his PhD in Computer Science from Northeastern University, and is also one of the developers of the Larceny Scheme language runtime."
   thumbnailUrl: felix.jpg
   links:
     - icon: "twitter"
       title: "pnkfelix"
-      link: "https://github.com/pnkfelix"
+      link: "https://twitter.com/pnkfelix"
     - icon: "github"
-      title: "hannelita"
+      title: "pnkfelix"
       link: "https://github.com/pnkfelix"
+sonja:
+  name: "Sonja Heinen"
+  nick: sonjaheinen
+  desc: "Sonja is a semi-nomadic visual designer interested in the space where technology, art and society collide. In October 2014 she earned a Master‘s in Sustainable Design from Kingston University in London, then relocated to Berlin. She currently works as a Frontend developer and roams through open source communities."
+  thumbnailUrl: sonja.jpg
+  links:
+    - icon: "twitter"
+      title: "sonjaheinen"
+      link: "https://twitter.com/sonjaheinen"
+    - icon: "github"
+      title: "sonjaheinen"
+      link: "https://github.com/sonjaheinen"
