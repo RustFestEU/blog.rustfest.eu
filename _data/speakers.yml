@@ -33,6 +33,7 @@ felix:
 sonja:
   name: "Sonja Heinen"
   nick: sonjaheinen
+  featured: true
   desc: "Sonja is a semi-nomadic visual designer interested in the space where technology, art and society collide. In October 2014 she earned a Master‘s in Sustainable Design from Kingston University in London, then relocated to Berlin. She currently works as a Frontend developer and roams through open source communities."
   thumbnailUrl: sonja.jpg
   links:
@@ -44,6 +45,7 @@ sonja:
       link: "https://github.com/sonjaheinen"
 stephan:
   name: "Stephan Hügel"
+  featured: true
   thumbnailUrl: stephan.jpg
   desc: "I'm a PhD candidate at the [UCL Centre for Advanced Spatial Analysis](http://www.bartlett.ucl.ac.uk/casa), in London. My research is focused on the \"smart cities\" movement, and socio-technical urban systems.  \r\n\r\nI'm the co-author of a [book chapter](http://www.amazon.com/Environmental-Sustainability-Development-Engineering-Technologies/dp/1466682825) on urban data visualisation, a [popular blog post on making maps with Python](http://sensitivecities.com/so-youd-like-to-make-a-map-using-python-EN.html), and [several in-depth data analysis and visualisation tutorials](https://github.com/urschrei/Geopython), as well as Tweet City, a visualisation project using tweets and buildings, which was [featured in Fast Company](http://www.fastcoexist.com/3017517/visualized/visualizing-londons-skyline-with-a-3-d-map-of-tweets).\r\n\r\nI've been teaching programming and data visualisation to undergraduates and postgraduates for three years, and have given talks at the Royal Geographic Society and the Bloomsbury festival. This is my first ever talk about programming languages!"
   links:

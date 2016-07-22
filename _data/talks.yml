@@ -36,15 +36,13 @@ This talk will focus on several areas:
 - Writing a lot of docs and examples, so people can get going quickly
 - Integrating your Rust binary with your dynamic code, and [making it available to the rest of the world](https://pypi.python.org/pypi/convertbng), including discussion of linking to system libraries, and the intricacies of building cross-platform libraries."
 
-- title: "Going All In On Rust: Reflections A Year Later"
-  public: false
-  by: paige
-  desc: "In early 2015, a small team with big ambitions decided to make the switch from continuing development in C++ to a complete rewrite into Rust.
+- title: "Hobby-oriented programming"
+  public: true
+  by: "sonja"
+  desc: "A hobby can be defined as any regular activity, that someone engages in for enjoyment. Activities range from artistic crafts, playing an instrument, making homemade food and drink to collecting strange items …or experimenting with code.
+With continuous practice the hobbyist will acquire significant skill and knowledge in a particular field, which allows him or her to apply it in a serious manner.
 \n\n
-Many said it was a mistake to start from scratch and prolong the product launch with such a new language while others praised the decision for committing to a long-term vision and leading by example.
-\n\n
-This talk will highlight obstacles and breakthroughs of one team going all in on Rust over the past year and a half including effects on development, hiring and the software itself. While all teams and software have varied needs, this presentation will offer general insights to other companies looking to use Rust in production software."
-
+Hobby-oriented programming not only defines developer types (amateur and professional), but furthermore explores the correlation between a programmer’s happiness and leisure time activities."
 
 - title: "Panopticon - A Libre Cross-Platform Disassembler in Rust"
   public: false
@@ -89,21 +87,23 @@ Exploring new languages can be toilsome. Rust is no different. You'll find new i
 \n\n
 We will learn to navigate your transition into the Rust landscape. Introduce practices that might not make sense at first. See comparisons of how you may have done things, and how we can improve those practices with Rust."
 
+- title: "Going All In On Rust: Reflections A Year Later"
+  public: false
+  by: paige
+  desc: "In early 2015, a small team with big ambitions decided to make the switch from continuing development in C++ to a complete rewrite into Rust.
+\n\n
+Many said it was a mistake to start from scratch and prolong the product launch with such a new language while others praised the decision for committing to a long-term vision and leading by example.
+\n\n
+This talk will highlight obstacles and breakthroughs of one team going all in on Rust over the past year and a half including effects on development, hiring and the software itself. While all teams and software have varied needs, this presentation will offer general insights to other companies looking to use Rust in production software."
+
+
 - title: "Sensors, Servos, and Signals with Rust"
   public: true
   by: tim
   desc: "Rust is a systems language ready for IoT. In this talk, we'll learn how move servos, make sensor measurements, and speak low-level communication protocols like SPI and I2C. When joined with high-level HTTP libraries, audiences will leave knowing how to create a fault-tolerant embedded device that's accessible from the cloud. Examples use the Rust language and target the Tessel microcontroller platform."
 
-- title: "Hobby-oriented programming"
-  public: true
-  by: "sonja"
-  desc: "A hobby can be defined as any regular activity, that someone engages in for enjoyment. Activities range from artistic crafts, playing an instrument, making homemade food and drink to collecting strange items …or experimenting with code.
-With continuous practice the hobbyist will acquire significant skill and knowledge in a particular field, which allows him or her to apply it in a serious manner.
-\n\n
-Hobby-oriented programming not only defines developer types (amateur and professional), but furthermore explores the correlation between a programmer’s happiness and leisure time activities."
-
 
 - title: "The Rust That Could Have Been"
-  public: true
+  public: false
   by: marijn
   desc: "This talk will describe a number of language concepts and features that were in the pre-1.0 Rust language at some point but were ultimately abandoned, such as typestate, garbage collection, structural types, and a more or less classical object system. I'll go over the reasons they were abandoned, and try to convince you that the Rust we have now is the best Rust yet."

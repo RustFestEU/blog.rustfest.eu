@@ -81,7 +81,8 @@ bodytags: with-hero
   <section id="speakers">
     <h2>Speakers</h2>
     <ul class="speakers">
-      {% for speaker in site.data.speakers %}
+      {% for item in site.data.speakers %}
+        {% assign speaker = item[1] %}
         {% if speaker.featured %}
           <li class="speaker-box">
             <div  class="portrait">
@@ -96,7 +97,7 @@ bodytags: with-hero
               </ul>
             </div>
             <div class="desc">
-              {{speaker.desc}}
+              {{speaker.desc | markdownify | truncatewords: 50}}
             </div>
           </li>
         {% endif %}
