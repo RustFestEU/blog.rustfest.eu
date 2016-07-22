@@ -81,36 +81,27 @@ bodytags: with-hero
   <section id="speakers">
     <h2>Speakers</h2>
     <ul class="speakers">
-      {% for speaker in site.data.speakers %}
-        <li class="speaker-box">
-          <div  class="portrait">
-            <img src="/assets/speakers/{{speaker.thumbnailUrl}}" />
-          </div>
-          <div class="info">
-            <span class="name">{{speaker.name}}</span>
-            <ul class="links">
-              {% for link in speaker.links %}
-                <li><a href="{{link.link}}" target="_blank" title="{{link.title}}">{% include icons/{{link.icon}}.svg %}</a></li>
-              {% endfor %}
-            </ul>
-          </div>
-          <div class="desc">
-            {{speaker.desc}}
-          </div>
-        </li>
+      {% for item in site.data.speakers %}
+        {% assign speaker = item[1] %}
+        {% if speaker.featured %}
+          <li class="speaker-box">
+            <div  class="portrait">
+              <img src="/assets/speakers/{{speaker.thumbnailUrl}}" />
+            </div>
+            <div class="info">
+              <span class="name">{{speaker.name}}</span>
+              <ul class="links">
+                {% for link in speaker.links %}
+                  <li><a href="{{link.link}}" target="_blank" title="{{link.title}}">{% include icons/{{link.icon}}.svg %}</a></li>
+                {% endfor %}
+              </ul>
+            </div>
+            <div class="desc">
+              {{speaker.desc | markdownify | truncatewords: 50}}
+            </div>
+          </li>
+        {% endif %}
       {% endfor %}
-
-        <li class="speaker-box">
-          <div  class="portrait">
-            <img src="/assets/speakers/rustacean-flat-happy.png" />
-          </div>
-          <div class="info">
-            <span class="name">Ferris</span>
-          </div>
-          <div class="desc">
-            The Call for papers has commenced and we are reviewing and selecting the other talks. Stay tuned to hear the announcements soon.
-          </div>
-        </li>
     </ul>
   </section>
 </div>

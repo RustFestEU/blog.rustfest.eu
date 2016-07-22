@@ -1,0 +1,109 @@
+- title: "Subtyping in Rust and Clarke's Third Law"
+  public: false
+  by: felix
+  desc: "
+  \"Any sufficiently advanced technology is indistinguishable from magic.\"
+  -- Arthur C Clarke\n\n\n
+This is a talk about magic. In particular: Rust has subtyping, but it may not be in the place where you thought it was. My primary goal is to explain that metaphorical sleight-of-hand, in two parts. My secondary goal is to convey that most of the time you need not think about subtyping, except when doing particularly hairy data structure development where questions arise around \"variance.\"
+\n\n
+Part 1 is dedicated to examples of Rust that might look like subtyping but are not. It will spend some time on how generics can be used for parametric polymorphism and how that differs from subtype polymorphism. However, most of the examples will be of things like coercions (e.g. `&Vec<T>` to `&[T]`) and autoref/autoderef, which look very similar to subtyping, and thus require more scrutiny to differentiate them.
+\n\n
+Part 2 is dedicated to where Rust *does* have subtyping: references and their lifetimes. I will describe how the partial ordering on references naturally yields a subtyping relationship. The existence of a subtyping relationship, combined with type-parametric polymorphism, implies that we sometimes (*) need to think about *variance*. I will explain the roles of covariance and invariance, putting particular focus on how the selection of covariance over invariance in some cases has caused soundness holes (or at least warts) in other languages such as Eiffel and Java.
+\n\n
+(*): \"sometimes\" here means either 1. when we are writing unsafe data structures or 2. when we are trying to understand certain compiler error messages. Not everyone falls into category 1, but I think everyone cares about category 2."
+
+- title: "Techniques for writing concurrent applications with asynchronous I/O"
+  public: false
+  by: matthieu
+  desc: "There is a fundamental difference between the traditional synchronous approach and the asynchronous approach to networking. Forget about locks and mutexes, (almost) forget about threads; use lock-free structures and callbacks instead. Learn how this can lead to a more ergonomic API, especially in terms of lifetimes.
+\n\n
+In this talk, I'll present concrete examples that I've used when developing a Web framework on top of asynchronous Hyper, the de facto HTTP server for Rust. Principles should apply to lower-level libraries and other protocol stacks."
+
+- title: "Teaching myself Rust through the medium of coordinate system transforms and FFI"
+  public: true
+  by: stephan
+  desc: "Transforming coordinates from one [coordinate reference system](https://en.wikipedia.org/wiki/Spatial_reference_system) to another is slow, and usually done in bulk, so it's a great candidate for low-level, multithreaded code, accessed via [FFI](https://github.com/shepmaster/rust-ffi-omnibus) from higher-level languages to facilitate easy I/O and visualisation.
+When Rust hit 1.0 last year, I decided to write a library to convert from latitude and longitude coordinates to [British National Grid](https://en.wikipedia.org/wiki/Ordnance_Survey_National_Grid) eastings and northings, in order to learn the language. The result is the [lonlat_bng](https://github.com/urschrei/lonlat_bng) crate and the [convertbng](https://github.com/urschrei/convertbng) Python package.
+\n\n
+This talk will focus on several areas:
+\n
+\n  - Experiences from learning a systems programming language for someone coming from dynamic languages
+\n  - Evolving code from single-threaded to multi-threaded, and how to use tests and benchmarks to get there
+\n  - Comparing the performance of the Crossbeam and Rayon libraries for parallel execution
+\n  - Using Perfect Hashing for fast access to large (300K+ members) HashMaps
+\n  - Detecting numerical instability using [Herbie](https://github.com/mcarton/rust-herbie-lint), and using Clippy to catch common mistakes and style errors
+\n  - Implementing generic functions to keep your code clean and DRY-conformant
+\n  - Writing a lot of docs and examples, so people can get going quickly
+\n  - Integrating your Rust binary with your dynamic code, and [making it available to the rest of the world](https://pypi.python.org/pypi/convertbng), including discussion of linking to system libraries, and the intricacies of building cross-platform libraries."
+
+- title: "Hobby-oriented programming"
+  public: true
+  by: "sonja"
+  desc: "A hobby can be defined as any regular activity, that someone engages in for enjoyment. Activities range from artistic crafts, playing an instrument, making homemade food and drink to collecting strange items …or experimenting with code.
+With continuous practice the hobbyist will acquire significant skill and knowledge in a particular field, which allows him or her to apply it in a serious manner.
+\n\n
+Hobby-oriented programming not only defines developer types (amateur and professional), but furthermore explores the correlation between a programmer’s happiness and leisure time activities."
+
+- title: "Panopticon - A Libre Cross-Platform Disassembler in Rust"
+  public: false
+  by: kai
+  desc: "Panopticon[1] is a libre cross-platform disassembler written in Rust. The project aims to develop a free replacement for tools like IDA Pro and Hopper. What sets Panopticon apart from other free disassembler is that we believe a graphical user interface is crucial in helping analysts understand  binary code. Panopticon implements semantic-based analysis to aid reverse engineering and vulnerability discovery. The project started in 2012 but was rewritten in Rust in June 2015 and has grown to 25k lines of code since.
+\n\n
+The talk will be about the architecture, vision and feature set of Panopticon as well as how Rust specific features helped to find bugs and accelerate development. I will also talk about my experience building a 25k LOC project as a complete Rust newbie. The talk will touch on the language itself as well as the availability (or lack) of tooling.
+1: https://panopticon.re/"
+
+- title: "Rust in Translation"
+  public: false
+  by: ashley
+  desc: "> Bob: Can you keep a secret? I'm trying to organize a language break. I'm looking for, like, an accomplice. We have to first get out of this domain, then the style, then the paradigm, and then the runtime. Are you in or you out?
+> Charlotte: I'm in. I'll go pack my stuff.
+> Bob: I hope that you've had enough to drink. It's going to take courage.
+\n\n
+I've written a lot of languages in my lifetime, and probably so have you. In this talk, I'll tell my story of translating, a small, but epic, declarative Ruby DSL to a ES6 parser in Rust. Along the way, I'll share the lessons I've learned about developer experience, language design, open source communities, and most importantly the value of translation as a learning and teaching tool. "
+
+- title: "Why you'd be better off using QuickCheck when porting to Rust"
+  public: true
+  by: martin
+  desc: "For about half a year I've been doing a Rust port of a CPU emulator library written in C. This talk will tell you why on earth someone would want to do that, and why the effort likely would have failed without the use of QuickCheck, which has enabled me to thoroughly compare and test that the port has identical behavior to the original (as well as the CPU spec).
+\n\n
+It will also tell the tale of macro madness, the discovery of a O(n²) bug in the Rust compiler, and why I think most Rust tradeoffs are near-optimal, seen from someone with years of experience with C/C++, C#, Scala and Clojure. It will also explain the complications when using Cargos multi-threaded testing model interfacing a single-threaded C library, and some potential solutions."
+
+- title: "Empathetic communication: why vulnerability is the key to collaboration"
+  public: false
+  by: sharon
+  desc: "In business as well as in life, few things are more important to your success than building relationships. But so often, relationships fail before they get solid footing because we as humans sometimes have a difficult time connecting. That connection begins with empathy. And the key to empathy? Vulnerability. Sharon is a stutterer, and she knows how valuable one's voice is. She also knows how it feels to attempt to share an idea only to fail miserably as a result of a communications breakdown. After years of struggling to join the conversation, she finally learned how communicate her ideas in a way that forced people to listen. And that's what she's going to discuss with you. The takeaways from this talk will be learning how to value the listener, improved collaboration at the office and becoming a master at building a relationship quickly and effectively."
+
+- title: "Linux USB HID Interfacing in Userspace"
+  public: false
+  by: william
+  desc: "Detailing the process of writing a userspace driver for a USB human-interface device in Rust using mio. Will briefly touch on reverse-engineering undocumented HID protocols and MIDI devices.
+  "
+
+- title: "Learning to Love the Unfamiliar"
+  public: true
+  by: brian
+  desc: "Coming from Ruby, JS, Python or another language?
+Exploring new languages can be toilsome. Rust is no different. You'll find new idioms and features that could be unfamiliar to navigate. You might even detest them at first; comparing it to how you'd prefer it in your favourite language.
+\n\n
+We will learn to navigate your transition into the Rust landscape. Introduce practices that might not make sense at first. See comparisons of how you may have done things, and how we can improve those practices with Rust."
+
+- title: "Going All In On Rust: Reflections A Year Later"
+  public: false
+  by: paige
+  desc: "In early 2015, a small team with big ambitions decided to make the switch from continuing development in C++ to a complete rewrite into Rust.
+\n\n
+Many said it was a mistake to start from scratch and prolong the product launch with such a new language while others praised the decision for committing to a long-term vision and leading by example.
+\n\n
+This talk will highlight obstacles and breakthroughs of one team going all in on Rust over the past year and a half including effects on development, hiring and the software itself. While all teams and software have varied needs, this presentation will offer general insights to other companies looking to use Rust in production software."
+
+
+- title: "Sensors, Servos, and Signals with Rust"
+  public: true
+  by: tim
+  desc: "Rust is a systems language ready for IoT. In this talk, we'll learn how to move servos, make sensor measurements, and speak low-level communication protocols like SPI and I2C. When joined with high-level HTTP libraries, audiences will leave knowing how to create a fault-tolerant embedded device that's accessible from the cloud. Examples use the Rust language and target the Tessel microcontroller platform."
+
+
+- title: "The Rust That Could Have Been"
+  public: false
+  by: marijn
+  desc: "This talk will describe a number of language concepts and features that were in the pre-1.0 Rust language at some point but were ultimately abandoned, such as typestate, garbage collection, structural types, and a more or less classical object system. I'll go over the reasons they were abandoned, and try to convince you that the Rust we have now is the best Rust yet."

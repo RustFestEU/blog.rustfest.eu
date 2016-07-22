@@ -1,4 +1,6 @@
-- name: "Hanneli Tavante"
+hanneli:
+  name: "Hanneli Tavante"
+  featured: true
   nick: "hannelita"
   desc: "is a Brazilian developer working at Codemine42. She's addicted to code, loves to learn new programming languages, frameworks, blowing up capacitors, do some C programming to relax and commit useful (or unuseful) code for random Open Source Projects that she finds at Github. "
   thumbnailUrl: hanneli.jpg
@@ -15,14 +17,138 @@
     - icon: "slides"
       title: "hannelita"
       link: "http://slides.com/hannelitavante-hannelita"
-- name: "Felix Klock"
+felix:
+  name: "Felix Klock"
+  featured: true
   nick: "pnkfelix"
   desc: "Felix Klock is a research engineer at Mozilla, where he works on the Rust compiler, runtime libraries, and language design. He previously worked on the ActionScript Virtual Machine for the Adobe Flash runtime. Felix obtained his PhD in Computer Science from Northeastern University, and is also one of the developers of the Larceny Scheme language runtime."
   thumbnailUrl: felix.jpg
   links:
     - icon: "twitter"
       title: "pnkfelix"
-      link: "https://github.com/pnkfelix"
+      link: "https://twitter.com/pnkfelix"
     - icon: "github"
-      title: "hannelita"
+      title: "pnkfelix"
       link: "https://github.com/pnkfelix"
+sonja:
+  name: "Sonja Heinen"
+  nick: sonjaheinen
+  featured: true
+  desc: "Sonja is a semi-nomadic visual designer interested in the space where technology, art and society collide. In October 2014 she earned a Master's Degree in Sustainable Design from Kingston University in London, then relocated to Berlin. She currently works as a Frontend developer and roams through open source communities."
+  thumbnailUrl: sonja.jpg
+  links:
+    - icon: "twitter"
+      title: "sonjaheinen"
+      link: "https://twitter.com/sonjaheinen"
+    - icon: "github"
+      title: "sonjaheinen"
+      link: "https://github.com/sonjaheinen"
+stephan:
+  name: "Stephan Hügel"
+  featured: true
+  thumbnailUrl: stephan.jpg
+  desc: "I'm a PhD candidate at the [UCL Centre for Advanced Spatial Analysis](http://www.bartlett.ucl.ac.uk/casa), in London. My research is focused on the \"smart cities\" movement, and socio-technical urban systems.  \r\n\r\nI'm the co-author of a [book chapter](http://www.amazon.com/Environmental-Sustainability-Development-Engineering-Technologies/dp/1466682825) on urban data visualisation, a [popular blog post on making maps with Python](http://sensitivecities.com/so-youd-like-to-make-a-map-using-python-EN.html), and [several in-depth data analysis and visualisation tutorials](https://github.com/urschrei/Geopython), as well as Tweet City, a visualisation project using tweets and buildings, which was [featured in Fast Company](http://www.fastcoexist.com/3017517/visualized/visualizing-londons-skyline-with-a-3-d-map-of-tweets).\r\n\r\nI've been teaching programming and data visualisation to undergraduates and postgraduates for three years, and have given talks at the Royal Geographic Society and the Bloomsbury festival. This is my first ever talk about programming languages!"
+  links:
+    - icon: "twitter"
+      title: "urschrei"
+      link: "https://twitter.com/urschrei"
+    - icon: "github"
+      title: "urschrei"
+      link: "https://github.com/urschrei"
+marijn:
+  name: Marijn Haverbeke
+  desc: "Open source monster in the editor and programming language space. Worked on the Rust compiler and language in 2011/12. Partly responsible for the trait and impl system and monomorphized generics (and a number of really bad ideas that ended up being removed from the language again)."
+  thumbnailUrl: marijn.jpg
+  links:
+    - icon: "twitter"
+      title: "marijnjh"
+      link: "https://twitter.com/marijnjh"
+    - icon: "github"
+      title: "marijnjh"
+      link: "https://github.com/marijnh"
+martin:
+  name: "Martin Hellspong"
+  desc: "Martin is a developer and consultant at factor10 Solutions AB, and holds
+    a Master's degree in Software Engineering. He has spent almost two decades designing award winning systems and ERP integration solutions for the Retail industry, Food industry, Insurance sector and Military training systems, in roles ranging from architecture to managing terabyte-sized relational databases to hardware integration.\r\n\r\nThe last four years has included a lot of Scala and C#, CQRS/EventSourcing, Actor systems, Microservices, Cloud and Container technologies. He loves functional programming, and the clarity of thought in languages like Scala, Rust, F# and Clojure."
+  thumbnailUrl: martin.jpg
+  links:
+    - icon: "twitter"
+      title: "MartinHellspong"
+      link: "https://twitter.com/MartinHellspong"
+    - icon: "github"
+      title: "marhel"
+      link: "https://github.com/marhel"
+tim:
+  name: Tim Cameron Ryan
+  desc: "Tim Ryan reinvents wheels. He is a engineer on the Tessel Project, vintage video games enthusiast, and thinks your favorite band's early albums were \"totally better\". Find him in Berkeley, Boston, and the WWW."
+  thumbnailUrl: tim.jpg
+  links:
+    - icon: "github"
+      title: "tcr"
+      link: "https://github.com/tcr"
+    - icon: "twitter"
+      title: "timcameronryan"
+      link: "https://twitter.com/timcameronryan"
+william:
+  name: William Light
+  thumbnailUrl: wrl.jpg
+  desc: "William is a freelance software developer with experience in everything from kernel drivers to audio DSP and OpenGL user interfaces. He has a keen interest in lockand wait-free data structures, actor model concurrency, and low-latency realtime applications."
+  links:
+    - icon: "twitter"
+      title: "wrl"
+      link: "https://twitter.com/wrl"
+    - icon: "github"
+      title: "wrl"
+      link: "https://github.com/wrl"
+kai:
+  name: Kai Michaelis
+  desc: "test"
+  links:
+    - icon: "github"
+      title: "flanfly"
+      link: "https://github.com/flanfly"
+paige:
+  thumbnailUrl: paige.jpg
+  name: Paige Peterson
+  desc: "Paige is a technologist interested in the freedom enabled by various crypto and decentralised technologies. She has been working with MaidSafe for over two years doing outreach and communication in the US and at events around the world. She has a unique perspective of the moderately small team's switch to Rust for production code and communicating that decision to other tech related communities."
+  links:
+    - icon: "twitter"
+      title: "ioptio"
+      link: "https://twitter.com/ioptio"
+    - icon: "github"
+      title: "ioptio"
+      link: "https://github.com/ioptio"
+sharon:
+  name: Sharon Steed
+  desc: "Sharon is a speaker and founder of Communilogue, an agency specializing in helping teams foster greater collaboration.  A life-long stutterer, she uses her style of speech to teach conference audiences as well as teams at companies about the value of empathy and vulnerability when it comes to communication. A background in marketing, she''s worked with companies across the globe on identifying their ideal audience and creating content geared specifically towards who that audience is. Her clients have included financial planners, estate attorneys, startups, insurance companies and retail corporations. You can learn more about her work at communilogue.com."
+  links:
+    - icon: "twitter"
+      title: "sharonsteed"
+      link: "https://twitter.com/sharonsteed"
+matthieu:
+  name: Matthieu Wipliez
+  desc: "Author of [edge](https://github.com/matt2xu/edge-rs). Rustacean since 2016. Links to LinkedIn and Github at [http://matt2xu.com](http://matt2xu.com)."
+
+  links:
+    - icon: "github"
+      title: "matt2xu"
+      link: "https://github.com/matt2xu"
+brian:
+  thumbnailUrl: brian.jpg
+  name: Brian Pearce
+  desc: "A dad joke teller, cyclist, and software service developer. Brian has been in development since the age of 14 and professionally for the last 7 years. Primarily building web applications, and has begun diving into systems programming with Rust."
+  links:
+    - icon: "github"
+      title: "brianp"
+      link: "https://github.com/brianp"
+ashley:
+  name: ashley williams
+  desc: "engineer, [npmjs](http://www.npmjs.com)\r\nboard of directors, [nodejs](http://www.nodejs.org)\r\nfounder,
+    [node_together](https://twitter.com/node_together)\r\ncollaborator, [intermezzos](https://intermezzos.github.io/)"
+  links:
+    - icon: "twitter"
+      title: "ag_dubs"
+      link: "https://twitter.com/ag_dubs"
+    - icon: "github"
+      title: "ashleygwilliams"
+      link: "https://github.com/ashleygwilliams"
