@@ -66,7 +66,7 @@ I've written a lot of languages in my lifetime, and probably so have you. In thi
   by: martin
   desc: "For about half a year I've been doing a Rust port of a CPU emulator library written in C. This talk will tell you why on earth someone would want to do that, and why the effort likely would have failed without the use of QuickCheck, which has enabled me to thoroughly compare and test that the port has identical behavior to the original (as well as the CPU spec).
 \n\n
-It will also tell the tale of macro madness, the discovery of a O(n^2) bug in the Rust compiler, and why I think most Rust tradeoffs are near-optimal, seen from someone with years of experience with C/C++, C#, Scala and Clojure. It will also explain the complications when using Cargos multi-threaded testing model interfacing a single-threaded C library, and some potential solutions."
+It will also tell the tale of macro madness, the discovery of a O(n²) bug in the Rust compiler, and why I think most Rust tradeoffs are near-optimal, seen from someone with years of experience with C/C++, C#, Scala and Clojure. It will also explain the complications when using Cargos multi-threaded testing model interfacing a single-threaded C library, and some potential solutions."
 
 - title: "Empathetic communication: why vulnerability is the key to collaboration"
   public: false
@@ -100,7 +100,7 @@ This talk will highlight obstacles and breakthroughs of one team going all in on
 - title: "Sensors, Servos, and Signals with Rust"
   public: true
   by: tim
-  desc: "Rust is a systems language ready for IoT. In this talk, we'll learn how move servos, make sensor measurements, and speak low-level communication protocols like SPI and I2C. When joined with high-level HTTP libraries, audiences will leave knowing how to create a fault-tolerant embedded device that's accessible from the cloud. Examples use the Rust language and target the Tessel microcontroller platform."
+  desc: "Rust is a systems language ready for IoT. In this talk, we'll learn how to move servos, make sensor measurements, and speak low-level communication protocols like SPI and I2C. When joined with high-level HTTP libraries, audiences will leave knowing how to create a fault-tolerant embedded device that's accessible from the cloud. Examples use the Rust language and target the Tessel microcontroller platform."
 
 
 - title: "The Rust That Could Have Been"
