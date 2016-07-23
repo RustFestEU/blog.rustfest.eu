@@ -119,9 +119,13 @@ paige:
       title: "ioptio"
       link: "https://github.com/ioptio"
 sharon:
+  thumbnailUrl: sharon.jpg
   name: Sharon Steed
-  desc: "Sharon is a speaker and founder of Communilogue, an agency specializing in helping teams foster greater collaboration.  A life-long stutterer, she uses her style of speech to teach conference audiences as well as teams at companies about the value of empathy and vulnerability when it comes to communication. A background in marketing, she''s worked with companies across the globe on identifying their ideal audience and creating content geared specifically towards who that audience is. Her clients have included financial planners, estate attorneys, startups, insurance companies and retail corporations. You can learn more about her work at communilogue.com."
+  desc: "Sharon is a speaker and founder of Communilogue, a digital marketing agency specializing in content. She's worked with companies across the globe on identifying their ideal audience and creating content geared specifically towards who that audience is. Her clients have included financial planners, estate attorneys, startups, insurance companies and retail corporations. She speaks on marketing and communication. A life-long stutterer, she uses her speech limitation to teach audiences about the value empathy and vulnerability in business and in life."
   links:
+    - icon: "website"
+      title: "communilogue.com"
+      link: "https://www.communilogue.com"
     - icon: "twitter"
       title: "sharonsteed"
       link: "https://twitter.com/sharonsteed"
