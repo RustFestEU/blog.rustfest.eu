@@ -21,7 +21,7 @@ We will complete this list over the next week or so. So keep an eye out for upda
 
 ## Collaborating with View Source
 
-We are super please to announced we'll be collaborating with the awesome View Source Conference, which takes place earlier the same week as RustFest – 12-14th of September. Check it out here:
+We are super pleased to announce we'll be collaborating with the awesome View Source Conference, which takes place earlier the same week as RustFest – 12-14th of September. Check it out here:
 
 <div markdown="1" style="text-align: center; min-width: 220px; width: 25vw; margin: 0 auto">
 [![](/assets/sponsors/viewsource.png)](https://viewsourceconf.org/berlin-2016/)
