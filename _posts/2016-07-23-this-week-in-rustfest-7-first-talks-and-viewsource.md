@@ -6,7 +6,7 @@ socialImageSrc: '/assets/posts/twirf-7-speakers.png'
 
 ## First talks up
 
-As already mentioned last week, we've closed the CfP and by now informed everyone about their participation. At the moment we are still in process to gathering all details and ensuring the logistics for everyone, but the basic talk schedule is clear now. Which allows us to announce the first set of  confirmed speakers and their [talks](/talks/): 🎉
+As already mentioned last week, we've closed the CfP and by now informed everyone about their participation. At the moment we are still in process of gathering all details and ensuring the logistics for everyone, but the basic talk schedule is clear now. Which allows us to announce the first set of  confirmed speakers and their [talks](/talks/): 🎉
 
 <div markdown="1" style="text-align: center; margin: 2.5em auto">
   <span style="height:15vw; width:15vw; display: inline-block; vertical-align: middle" markdown="1">![](/assets/speakers/stephan.jpg)</span> <span style="height:15vw; width:15vw; display: inline-block; vertical-align: middle" markdown="1">![](/assets/speakers/sonja.jpg)</span> <span style="height:15vw; width:15vw; display: inline-block; vertical-align: middle" markdown="1">![](/assets/speakers/martin.jpg)</span> <span style="height:15vw; width:15vw; display: inline-block; vertical-align: middle" markdown="1">![](/assets/speakers/brian.jpg)</span> <span style="height:15vw; width:15vw; display: inline-block; vertical-align: middle" markdown="1">![](/assets/speakers/tim.jpg)</span>
