@@ -130,6 +130,7 @@ sharon:
       title: "sharonsteed"
       link: "https://twitter.com/sharonsteed"
 matthieu:
+  thumbnailUrl: matthieu.jpg
   name: Matthieu Wipliez
   desc: "Author of [edge](https://github.com/matt2xu/edge-rs). Rustacean since 2016. Links to LinkedIn and Github at [http://matt2xu.com](http://matt2xu.com)."
 
