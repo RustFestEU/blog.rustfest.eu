@@ -13,7 +13,7 @@ Part 2 is dedicated to where Rust *does* have subtyping: references and their li
 (*): \"sometimes\" here means either 1. when we are writing unsafe data structures or 2. when we are trying to understand certain compiler error messages. Not everyone falls into category 1, but I think everyone cares about category 2."
 
 - title: "Techniques for writing concurrent applications with asynchronous I/O"
-  public: false
+  public: true
   by: matthieu
   desc: "This talk is about asynchronous I/O: how asynchronous compares to the traditional synchronous approach, how this changes the architecture of applications, and how to do asynchronous I/O in a concurrent multi-threaded application. Starting from a high-level view, we will then dive into code to explore useful code idioms and how to design ergonomic Rust APIs. This will include for instance how to store callbacks with unique types and call them from different threads, how to get lifetimes shorter than 'static in threads and the associated benefits.
   \n\n
@@ -69,7 +69,7 @@ I've written a lot of languages in my lifetime, and probably so have you. In thi
 It will also tell the tale of macro madness, the discovery of a O(n²) bug in the Rust compiler, and why I think most Rust tradeoffs are near-optimal, seen from someone with years of experience with C/C++, C#, Scala and Clojure. It will also explain the complications when using Cargos multi-threaded testing model interfacing a single-threaded C library, and some potential solutions."
 
 - title: "Empathetic communication: why vulnerability is the key to collaboration"
-  public: false
+  public: true
   by: sharon
   desc: "In business as well as in life, few things are more important to your success than building relationships. But so often, relationships fail before they get solid footing because we as humans sometimes have a difficult time connecting. That connection begins with empathy. And the key to empathy? Vulnerability. Sharon is a stutterer, and she knows how valuable one's voice is. She also knows how it feels to attempt to share an idea only to fail miserably as a result of a communications breakdown. After years of struggling to join the conversation, she finally learned how communicate her ideas in a way that forced people to listen. And that's what she's going to discuss with you. The takeaways from this talk will be learning how to value the listener, improved collaboration at the office and becoming a master at building a relationship quickly and effectively."
 
