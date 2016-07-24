@@ -132,8 +132,7 @@ sharon:
 matthieu:
   thumbnailUrl: matthieu.jpg
   name: Matthieu Wipliez
-  desc: "Author of [edge](https://github.com/matt2xu/edge-rs). Rustacean since 2016. Links to LinkedIn and Github at [http://matt2xu.com](http://matt2xu.com)."
-
+  desc: "A software developer and geek, Matthieu has been writing code since he was a teenager. He holds a PhD on compilation of dataflow programs, and co-founded a company called Synflow where he created a new language for chip design. He is now working at Harmonic, Inc. doing proof-of-concept of new applications related to video. After a decade of Java, Matthieu switched to Rust as his language of choice in 2016. He has developed an open-source Web framework in Rust and is also contributing to other open-source Rust crates."
   links:
     - icon: "github"
       title: "matt2xu"

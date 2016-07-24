@@ -15,9 +15,9 @@ Part 2 is dedicated to where Rust *does* have subtyping: references and their li
 - title: "Techniques for writing concurrent applications with asynchronous I/O"
   public: false
   by: matthieu
-  desc: "There is a fundamental difference between the traditional synchronous approach and the asynchronous approach to networking. Forget about locks and mutexes, (almost) forget about threads; use lock-free structures and callbacks instead. Learn how this can lead to a more ergonomic API, especially in terms of lifetimes.
-\n\n
-In this talk, I'll present concrete examples that I've used when developing a Web framework on top of asynchronous Hyper, the de facto HTTP server for Rust. Principles should apply to lower-level libraries and other protocol stacks."
+  desc: "This talk is about asynchronous I/O: how asynchronous compares to the traditional synchronous approach, how this changes the architecture of applications, and how to do asynchronous I/O in a concurrent multi-threaded application. Starting from a high-level view, we will then dive into code to explore useful code idioms and how to design ergonomic Rust APIs. This will include for instance how to store callbacks with unique types and call them from different threads, how to get lifetimes shorter than 'static in threads and the associated benefits.
+  \n\n
+I am doing this talk based on the experience I gained developing a Web framework on top of the asynchronous version of Hyper, the most used HTTP library for Rust. Principles should apply to lower-level libraries and other protocol stacks as well."
 
 - title: "Teaching myself Rust through the medium of coordinate system transforms and FFI"
   public: true
