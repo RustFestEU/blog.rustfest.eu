@@ -149,6 +149,7 @@ brian:
       link: "https://github.com/brianp"
 ashley:
   name: ashley williams
+  thumbnailUrl: ashley-williams.jpg
   desc: "engineer, [npmjs](http://www.npmjs.com)\r\nboard of directors, [nodejs](http://www.nodejs.org)\r\nfounder,
     [node_together](https://twitter.com/node_together)\r\ncollaborator, [intermezzos](https://intermezzos.github.io/)"
   links:
