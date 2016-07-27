@@ -80,7 +80,7 @@ martin:
       link: "https://github.com/marhel"
 tim:
   name: Tim Cameron Ryan
-  featured: true
+  featured: false
   desc: "Tim Ryan reinvents wheels. He is a engineer on the Tessel Project, vintage video games enthusiast, and thinks your favorite band's early albums were \"totally better\". Find him in Berkeley, Boston, and the WWW."
   thumbnailUrl: tim.jpg
   links:
@@ -103,7 +103,9 @@ william:
       link: "https://github.com/wrl"
 kai:
   name: Kai Michaelis
-  desc: "test"
+  featured: true
+  desc: "Hey I'm Kai, I'm studying IT-Security at the Ruhr-University Bochum, but you will more likely find me at the local hackerspace @dasLabor. Aside from Rust, I'm interested in program analysis, reverse engineering and cryptography."
+  thumbnailUrl: kai.jpg
   links:
     - icon: "github"
       title: "flanfly"
@@ -140,7 +142,7 @@ matthieu:
       link: "https://github.com/matt2xu"
 brian:
   thumbnailUrl: brian.jpg
-  featured: true
+  featured: false
   name: Brian Pearce
   desc: "A dad joke teller, cyclist, and software service developer. Brian has been in development since the age of 14 and professionally for the last 7 years. Primarily building web applications, and has begun diving into systems programming with Rust."
   links:
@@ -149,6 +151,7 @@ brian:
       link: "https://github.com/brianp"
 ashley:
   name: ashley williams
+  featured: true
   thumbnailUrl: ashley-williams.jpg
   desc: "engineer, [npmjs](http://www.npmjs.com)\r\nboard of directors, [nodejs](http://www.nodejs.org)\r\nfounder,
     [node_together](https://twitter.com/node_together)\r\ncollaborator, [intermezzos](https://intermezzos.github.io/)"

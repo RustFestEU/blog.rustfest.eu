@@ -45,12 +45,11 @@ With continuous practice the hobbyist will acquire significant skill and knowled
 Hobby-oriented programming not only defines developer types (amateur and professional), but furthermore explores the correlation between a programmer’s happiness and leisure time activities."
 
 - title: "Panopticon - A Libre Cross-Platform Disassembler in Rust"
-  public: false
+  public: true
   by: kai
-  desc: "Panopticon[1] is a libre cross-platform disassembler written in Rust. The project aims to develop a free replacement for tools like IDA Pro and Hopper. What sets Panopticon apart from other free disassembler is that we believe a graphical user interface is crucial in helping analysts understand  binary code. Panopticon implements semantic-based analysis to aid reverse engineering and vulnerability discovery. The project started in 2012 but was rewritten in Rust in June 2015 and has grown to 25k lines of code since.
+  desc: "[Panopticon](https://panopticon.re/) is a libre cross-platform disassembler written in Rust. The project aims to develop a free replacement for tools like IDA Pro and Hopper. What sets Panopticon apart from other free disassembler is that we believe a graphical user interface is crucial in helping analysts understand  binary code. Panopticon implements semantic-based analysis to aid reverse engineering and vulnerability discovery. The project started in 2012 but was rewritten in Rust in June 2015 and has grown to 25k lines of code since.
 \n\n
-The talk will be about the architecture, vision and feature set of Panopticon as well as how Rust specific features helped to find bugs and accelerate development. I will also talk about my experience building a 25k LOC project as a complete Rust newbie. The talk will touch on the language itself as well as the availability (or lack) of tooling.
-1: https://panopticon.re/"
+The talk will be about the architecture, vision and feature set of Panopticon as well as how Rust specific features helped to find bugs and accelerate development. I will also talk about my experience building a 25k LOC project as a complete Rust newbie. The talk will touch on the language itself as well as the availability (or lack) of tooling."
 
 - title: "Why you'd be better off using QuickCheck when porting to Rust"
   public: true
