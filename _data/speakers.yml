@@ -110,17 +110,6 @@ kai:
     - icon: "github"
       title: "flanfly"
       link: "https://github.com/flanfly"
-paige:
-  thumbnailUrl: paige.jpg
-  name: Paige Peterson
-  desc: "Paige is a technologist interested in the freedom enabled by various crypto and decentralised technologies. She has been working with MaidSafe for over two years doing outreach and communication in the US and at events around the world. She has a unique perspective of the moderately small team's switch to Rust for production code and communicating that decision to other tech related communities."
-  links:
-    - icon: "twitter"
-      title: "ioptio"
-      link: "https://twitter.com/ioptio"
-    - icon: "github"
-      title: "ioptio"
-      link: "https://github.com/ioptio"
 sharon:
   thumbnailUrl: sharon.jpg
   name: Sharon Steed
