@@ -44,17 +44,20 @@ section.twitter {
   .headline {
     margin: 1em 0 2em 0;
   }
+
+  svg {
+    path {
+      fill: $brand_dark_blue;
+    }
+  }
+}
+
+#news, #tickets {
   &::after {
     margin: 5em auto 2em auto;
     border-top: 1px solid transparentize($brand_dark_blue, 0.5);
     content: " ";
     display: block;
     width: 50%;
-  }
-
-  svg {
-    path {
-      fill: $brand_dark_blue;
-    }
   }
 }
