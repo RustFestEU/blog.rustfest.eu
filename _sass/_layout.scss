@@ -11,6 +11,7 @@
   "components/sponsors",
   "components/ml_form",
   "components/blog",
+  "components/tickets",
   "components/footer"
 ;
 
@@ -51,7 +52,7 @@
   font-size: 0.75em;
   min-width: 15em;
 
-  @incude wide-device {
+  @include wide-device {
     margin: 0 2em 0 4em;
   }
 

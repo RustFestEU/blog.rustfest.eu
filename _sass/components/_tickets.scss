@@ -1,0 +1,87 @@
+.tickets {
+  @include display(flex);
+  @include align-items(center);
+  @include justify-content(center);
+  @include flex-direction(column);
+  @include flex-wrap(nowrap);
+
+  @include wide-device($min-width: 800px) {
+    @include flex-direction(row);
+  }
+
+
+
+  > li {
+    display: block;
+    border: 1px $brand_blue solid;
+    z-index: 2;
+    position: relative;
+    overflow: hidden;
+    margin-top: 5px;
+
+    .ribbon {
+      position: absolute;
+      top: 25px;
+      right: -45px;
+      background: $brand_dark_blue;
+      color: white;
+      -webkit-transform: rotate(45deg);
+      -ms-transform: rotate(45deg);
+      transform: rotate(45deg);
+      padding: 0 2em;
+    }
+
+    h3, h4 {
+      text-align: center;
+      padding: 0.5em 1.5em;
+      background: #f2f2f2;
+      color: $brand_dark_blue;
+      margin-bottom: 0;
+    }
+
+    h4 {
+      font-weight: 300;
+    }
+
+    .price {
+      display: block;
+      text-align: center;
+      font-size: 3em;
+      padding: 1.5em;
+      position: relative;
+      &::after {
+        content: "€";
+        font-size: 0.65em;
+        opacity: 0.45;
+      }
+    }
+
+
+    &.hl {
+      border-color: $brand_blue;
+      font-size: 1.2em;
+      z-index: 10;
+      h3 {
+        background: $brand_blue;
+        color: white;
+      }
+      h4 {
+        background: $brand_green;
+        color: white;
+      }
+      .price {
+        color: $brand_blue;
+      }
+    }
+
+    &.unavailable {
+      opacity: 0.56;
+    }
+  }
+}
+
+.smallprint {
+  font-size: 0.75em;
+  width: 80%;
+  margin: 2em auto;
+}
