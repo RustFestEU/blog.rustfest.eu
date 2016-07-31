@@ -16,7 +16,6 @@ Secondly, View Source combo tickets, priced at 350€ (excl. VAT) for early-bird
 
 ## More Talks announced
 
-The
 As already mentioned last week, we've closed the CfP and by now informed everyone about their participation. At the moment we are still in process of gathering all details and ensuring the logistics for everyone, but the basic talk schedule is clear now. Which allows us to announce the first set of  confirmed speakers and their [talks](/talks/): 🎉
 
 <div markdown="1" style="text-align: center; margin: 2.5em auto">
