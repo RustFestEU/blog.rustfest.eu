@@ -10,7 +10,7 @@ As announced on Friday, we will have the first batch of tickets sales start tomo
 
 This batch will exclusively sell the supporter and View Source combo tickets, regular tickets will be made available one week after, August 8th, at the same time. By buying a supporter ticket for 250€ (excl. VAT) you directly support the diversity efforts by the team, including directly increasing the amount of diversity and student tickets we can offer. If your company will be paying for your ticket, please consider these tickets – you'd help us and the community as a whole A LOT.
 
-Secondly View Source combo ticket, priced at 350€ (excl. VAT) for early-birds, allow you to visit [View Source Conf](https://viewsourceconf.org/berlin-2016/) in addition to RustFest. It's a 3-day single-track conference about the the future of the open web platform and related technologies that Mozilla organises earlier that same week in Berlin. Regular tickets will be available from August 8th at 125€ (excl. VAT).
+Secondly, View Source combo tickets, priced at 350€ (excl. VAT) for early-birds, allow you to visit [View Source Conf](https://viewsourceconf.org/berlin-2016/) in addition to RustFest. It's a 3-day single-track conference about the future of the open web platform and related technologies that Mozilla organises earlier that same week in Berlin. Regular tickets will be available from August 8th at 125€ (excl. VAT).
 
 ![](/assets/posts/transparenttickets.png)
 
