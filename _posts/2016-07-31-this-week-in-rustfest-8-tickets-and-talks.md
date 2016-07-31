@@ -16,7 +16,7 @@ Secondly, View Source combo tickets, priced at 350€ (excl. VAT) for early-bird
 
 ## More Talks announced
 
-Following last weeks announcements and as planned, we announced a few more [talks](/talks/): 🎉 this week. Among others we are able to confirm:
+Following last weeks announcements and as planned, we announced a few more [talks](/talks/) this week 🎉. Among others we are able to confirm the following talks:
 
 <div markdown="1" style="text-align: center; margin: 2.5em auto">
   <span style="height:15vw; width:15vw; display: inline-block; vertical-align: middle" markdown="1">![](/assets/speakers/matthieu.jpg)</span> <span style="height:15vw; width:15vw; display: inline-block; vertical-align: middle" markdown="1">![](/assets/speakers/sharon.jpg)</span> <span style="height:15vw; width:15vw; display: inline-block; vertical-align: middle" markdown="1">![](/assets/speakers/kai.jpg)</span> <span style="height:15vw; width:15vw; display: inline-block; vertical-align: middle" markdown="1">![](/assets/speakers/ashley-williams.jpg)</span>
