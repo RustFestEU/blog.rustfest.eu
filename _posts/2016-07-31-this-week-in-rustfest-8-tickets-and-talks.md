@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This Week in RustFest 7: Tickets and Talks"
+title: "This Week in RustFest 8: Tickets and Talks"
 socialImageSrc: '/assets/posts/twirf-8-speakers.png'
 ---
 
