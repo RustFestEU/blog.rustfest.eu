@@ -1,16 +1,17 @@
 - title: "Subtyping in Rust and Clarke's Third Law"
-  public: false
+  public: true
+  special: "keynote"
   by: felix
   desc: "
-  \"Any sufficiently advanced technology is indistinguishable from magic.\"
-  -- Arthur C Clarke\n\n\n
+> \"Any sufficiently advanced technology is indistinguishable from magic.\" -- Arthur C Clarke\n\n\n
 This is a talk about magic. In particular: Rust has subtyping, but it may not be in the place where you thought it was. My primary goal is to explain that metaphorical sleight-of-hand, in two parts. My secondary goal is to convey that most of the time you need not think about subtyping, except when doing particularly hairy data structure development where questions arise around \"variance.\"
 \n\n
 Part 1 is dedicated to examples of Rust that might look like subtyping but are not. It will spend some time on how generics can be used for parametric polymorphism and how that differs from subtype polymorphism. However, most of the examples will be of things like coercions (e.g. `&Vec<T>` to `&[T]`) and autoref/autoderef, which look very similar to subtyping, and thus require more scrutiny to differentiate them.
 \n\n
-Part 2 is dedicated to where Rust *does* have subtyping: references and their lifetimes. I will describe how the partial ordering on references naturally yields a subtyping relationship. The existence of a subtyping relationship, combined with type-parametric polymorphism, implies that we sometimes (*) need to think about *variance*. I will explain the roles of covariance and invariance, putting particular focus on how the selection of covariance over invariance in some cases has caused soundness holes (or at least warts) in other languages such as Eiffel and Java.
+Part 2 is dedicated to where Rust *does* have subtyping: references and their lifetimes. I will describe how the partial ordering on references naturally yields a subtyping relationship. The existence of a subtyping relationship, combined with type-parametric polymorphism, implies that we sometimes\\* need to think about *variance*. I will explain the roles of covariance and invariance, putting particular focus on how the selection of covariance over invariance in some cases has caused soundness holes (or at least warts) in other languages such as Eiffel and Java.
 \n\n
-(*): \"sometimes\" here means either 1. when we are writing unsafe data structures or 2. when we are trying to understand certain compiler error messages. Not everyone falls into category 1, but I think everyone cares about category 2."
+\n\n
+\\*: \"sometimes\" here means either 1. when we are writing unsafe data structures or 2. when we are trying to understand certain compiler error messages. Not everyone falls into category 1, but I think everyone cares about category 2."
 
 - title: "Techniques for writing concurrent applications with asynchronous I/O"
   public: true
