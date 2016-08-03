@@ -38,6 +38,14 @@
     }
   }
 
+  .badge {
+    padding: 0 0.5em;
+    border: 1px solid $brand_blue;
+    margin-right: 0.5em;
+    background: $brand_blue;
+    color: white;
+  }
+
   .wrap {
     @include display(flex);
     @include flex-direction(column-reverse);
