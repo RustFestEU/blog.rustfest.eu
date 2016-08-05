@@ -6,7 +6,7 @@ socialImageSrc: '/assets/posts/keynote-felix.png'
 
 ## Ticket sales
 
-Since Monday you can get early access to the conference by purchasing a supporter or View Source Conf combo ticket. Many have taken that opportunity to support us in our diversity efforts. Thanks to you and your generousity, we can offer even more tickets through diversitytickets.org (apply here if you want one) – and we can't thank you enough. But we will try, once again: THANK YOU!
+Since Monday you can get early access to the conference by purchasing a supporter or View Source Conf combo ticket. Many have taken that opportunity to support us in our diversity efforts. Thanks to you and your generosity, we can offer even more tickets through diversitytickets.org (apply here if you want one) – and we can't thank you enough. But we will try, once again: THANK YOU!
 
 ![](http://replygif.net/i/1572.gif)
 
@@ -16,7 +16,7 @@ A quick reminder that the first batch of for regular tickets will be up on **Mon
 
 **Clarification on student proof**
 
-We've also been approached a few times now, whether we meant you need to proof your studentship via the International Student Identity Card or if another form of proof is also sufficient. While the ISIC definitely works, we also accept any proof of matriculation our team can understand and verify, so any that is in German, English, Hungarian or Ukranian – like a German Studentenausweis. Don't forget to put in the discount code _STUDENT_ when buying your regular ticket (it is only applicable there).
+We've also been approached a few times now, whether we meant you need to proof your studentship via the International Student Identity Card or if another form of proof is also sufficient. While the ISIC definitely works, we also accept any proof of matriculation our team can understand and verify, so any that is in German, English, Hungarian or Ukrainian – like a German Studentenausweis. Don't forget to put in the discount code _STUDENT_ when buying your regular ticket (it is only applicable there).
 
 
 ## Keynote by Felix Klock: Subtyping in Rust and Clarke's Third Law
