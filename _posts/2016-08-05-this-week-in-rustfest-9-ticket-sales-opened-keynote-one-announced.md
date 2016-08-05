@@ -6,7 +6,7 @@ socialImageSrc: '/assets/posts/keynote-felix.png'
 
 ## Ticket sales
 
-Since Monday you can get early access to the conference by purchasing a supporter or View Source Conf combo ticket. Many have taken that opportunity to support us in our diversity efforts. Thanks to you and your generosity, we can offer even more tickets through diversitytickets.org (apply here if you want one) – and we can't thank you enough. But we will try, once again: THANK YOU!
+Since Monday you can get early access to the conference by purchasing a supporter or View Source Conf combo ticket. Many have taken that opportunity to support us in our diversity efforts. Thanks to you and your generosity, we can offer even more tickets through [diversitytickets.org](https://diversitytickets.org/events/35) ([apply here](https://diversitytickets.org/events/35) if you want one) – and we can't thank you enough. But we will try, once again: THANK YOU!
 
 ![](http://replygif.net/i/1572.gif)
 
