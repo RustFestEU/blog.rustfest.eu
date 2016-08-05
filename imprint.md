@@ -9,8 +9,7 @@ title: Imprint
 
 <p>
 <address>
-<h2>Rust Community Europe e.V.</h2>
-c/o asquera GmbH <br>
+<h2>asquera Event UG i.G. </h2>
 Ohlauer Straße 43 <br>
 10999 Berlin
 </address>
