@@ -13,6 +13,25 @@ Part 2 is dedicated to where Rust *does* have subtyping: references and their li
 \n\n
 \\*: \"sometimes\" here means either 1. when we are writing unsafe data structures or 2. when we are trying to understand certain compiler error messages. Not everyone falls into category 1, but I think everyone cares about category 2."
 
+- title: Science tools borrow Rust
+  public: true
+  special: keynote
+  by: hanneli
+  desc: "The reasons you need a software to perform calculations may vary, but if you come from a science or engineering background, you might need results to project electric circuits, process data or try to predict an output. There are several open source tools to help you with calculations - one of them is [Octave](https://www.gnu.org/software/octave), written mostly in C++.
+  \n\n
+> \"What if we rewrite some of this functions using Rust to see what happens?\"
+
+\n\nThis talk will answer this question, showing an interesting journey to rewrite linear algebra functions, complex functions and structures often used into Digital Circuit processing or circuit schematics (such as FFT).\n\n
+Topics:\n \n
+ - Some inconveniences of C/C++ \n
+ - Rust as a possible solution to improve collaboration on tools like Octave\n
+ - First big challenge - I don't know math\n
+ - Rewriting basic matrix functions with Rust\n
+ - Some functions involving complex numbers and Rust\n
+ - Attempts of FFT\n
+ - Lessons learned on types, safety and Rust Language\n
+ - Epilogue\n"
+
 - title: "Techniques for writing concurrent applications with asynchronous I/O"
   public: true
   by: matthieu
