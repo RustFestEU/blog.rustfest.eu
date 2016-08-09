@@ -45,7 +45,7 @@ sonja:
       link: "https://github.com/sonjaheinen"
 stephan:
   name: "Stephan Hügel"
-  featured: false
+  featured: true
   thumbnailUrl: stephan.jpg
   desc: "I'm a PhD candidate at the [UCL Centre for Advanced Spatial Analysis](http://www.bartlett.ucl.ac.uk/casa), in London. My research is focused on the \"smart cities\" movement, and socio-technical urban systems.  \r\n\r\nI'm the co-author of a [book chapter](http://www.amazon.com/Environmental-Sustainability-Development-Engineering-Technologies/dp/1466682825) on urban data visualisation, a [popular blog post on making maps with Python](http://sensitivecities.com/so-youd-like-to-make-a-map-using-python-EN.html), and [several in-depth data analysis and visualisation tutorials](https://github.com/urschrei/Geopython), as well as Tweet City, a visualisation project using tweets and buildings, which was [featured in Fast Company](http://www.fastcoexist.com/3017517/visualized/visualizing-londons-skyline-with-a-3-d-map-of-tweets).\r\n\r\nI've been teaching programming and data visualisation to undergraduates and postgraduates for three years, and have given talks at the Royal Geographic Society and the Bloomsbury festival. This is my first ever talk about programming languages!"
   links:
@@ -103,7 +103,7 @@ william:
       link: "https://github.com/wrl"
 kai:
   name: Kai Michaelis
-  featured: true
+  featured: false
   desc: "Hey I'm Kai, I'm studying IT-Security at the Ruhr-University Bochum, but you will more likely find me at the local hackerspace @dasLabor. Aside from Rust, I'm interested in program analysis, reverse engineering and cryptography."
   thumbnailUrl: kai.jpg
   links:
@@ -113,6 +113,7 @@ kai:
 sharon:
   thumbnailUrl: sharon.jpg
   name: Sharon Steed
+  featured: true
   desc: "Sharon is a speaker and founder of Communilogue, a digital marketing agency specializing in content. She's worked with companies across the globe on identifying their ideal audience and creating content geared specifically towards who that audience is. Her clients have included financial planners, estate attorneys, startups, insurance companies and retail corporations. She speaks on marketing and communication. A life-long stutterer, she uses her speech limitation to teach audiences about the value empathy and vulnerability in business and in life."
   links:
     - icon: "website"
@@ -140,7 +141,7 @@ brian:
       link: "https://github.com/brianp"
 ashley:
   name: ashley williams
-  featured: true
+  featured: false
   thumbnailUrl: ashley-williams.jpg
   desc: "engineer, [npmjs](http://www.npmjs.com)\r\nboard of directors, [nodejs](http://www.nodejs.org)\r\nfounder,
     [node_together](https://twitter.com/node_together)\r\ncollaborator, [intermezzos](https://intermezzos.github.io/)"
