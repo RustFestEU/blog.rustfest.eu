@@ -2,6 +2,9 @@
 layout: post
 title: "Ticket Sales Start Monday August 1st - Save the Date!"
 socialImageSrc: '/assets/posts/tickets.png'
+authors:
+ - ben
+ - badboy
 ---
 
 The news you've all been waiting for: you can finally secure your seats at RustFest in September.

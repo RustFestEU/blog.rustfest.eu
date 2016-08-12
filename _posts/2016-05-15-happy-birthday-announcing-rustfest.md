@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Our Birthday present: Announcing Rustfest"
+authors:
+  - skade
+  - ben
 ---
 
 What a year! Rust 1.0 is turning 1! To add to the numeric confusion, there's a whole lot of announcements around the date. Here's ours:

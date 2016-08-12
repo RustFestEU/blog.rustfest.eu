@@ -2,6 +2,9 @@
 layout: post
 title: "This Week in RustFest 3: Extending the CfP, Announcing first Speakers"
 socialImageSrc: '/assets/posts/twirf-3-speakers.png'
+authors:
+ - ben
+ - skade
 ---
 
 

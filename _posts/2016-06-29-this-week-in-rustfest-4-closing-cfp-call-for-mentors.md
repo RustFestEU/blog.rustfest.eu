@@ -2,6 +2,9 @@
 layout: post
 title: "This Week in RustFest 4: CfP closed, but we are still looking for mentors"
 socialImageSrc: '/assets/posts/twirf-4-mentors.png'
+authors:
+ - ben
+ - badboy
 ---
 
 ## CfP closed

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "This Week in RustFest 2"
+authors:
+ - skade
+ - badboy
 ---
 
 

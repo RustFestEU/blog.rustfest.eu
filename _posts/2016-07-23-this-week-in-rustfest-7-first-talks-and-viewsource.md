@@ -2,6 +2,9 @@
 layout: post
 title: "This Week in RustFest 7: first talks announced, collaborating with viewsource"
 socialImageSrc: '/assets/posts/twirf-7-speakers.png'
+authors:
+ - ben
+ - badboy
 ---
 
 ## First talks up

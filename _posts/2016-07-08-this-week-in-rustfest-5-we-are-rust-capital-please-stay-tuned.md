@@ -2,6 +2,9 @@
 layout: post
 title: "This Week in RustFest 5: Capital of the Rust Community, Speaker submissions and updates on tickets sales"
 socialImageSrc: '/assets/posts/twirf-5-locations.png'
+authors:
+ - ben
+ - skade
 ---
 
 ## Berlin, Capital of the Rust Community

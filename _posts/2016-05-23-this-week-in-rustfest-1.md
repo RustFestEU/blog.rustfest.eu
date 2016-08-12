@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "This Week in RustFest 1: Introduction"
+authors:
+ - ben
+ - skade
 ---
 
 With RustFest, we're trying to change a few things that nag us about conferences. One of these is that it's hard to communicate how an event works and how decisions are made. We believe that transparency is helpful here.

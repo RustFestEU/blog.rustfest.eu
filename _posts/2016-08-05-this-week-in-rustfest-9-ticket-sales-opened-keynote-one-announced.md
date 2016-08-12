@@ -2,6 +2,9 @@
 layout: post
 title: "This Week in RustFest 9: Ticket Sales opened, first Keynote announced"
 socialImageSrc: '/assets/posts/keynote-felix.png'
+authors:
+ - ben
+ - badboy
 ---
 
 ## Ticket sales
