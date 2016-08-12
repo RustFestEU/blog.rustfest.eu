@@ -1,4 +1,5 @@
-- name: "István Szmozsánszky"
+flaki:
+  name: "István Szmozsánszky"
   nick: "Flaki"
   desc: ""
   thumbnailUrl: flaki.png
@@ -12,7 +13,8 @@
     - icon: "medium"
       title: "slsoftworks"
       link: "https://medium.com/@slsoftworks"
-- name: "Jan-Erik Rediger"
+badboy:
+  name: "Jan-Erik Rediger"
   nick: "BadBoy"
   desc: ""
   thumbnailUrl: badboy.jpg
@@ -26,7 +28,8 @@
     - icon: "website"
       title: "fnordig.de"
       link: "https://fnordig.de/"
-- name: "Emma Tracey"
+emma:
+  name: "Emma Tracey"
   nick: "emma"
   desc: ""
   title: "HoneyPot.IO"
@@ -41,7 +44,8 @@
   - icon: "website"
     title: "Honeypot.io"
     link: "https://Honeypot.IO/"
-- name: "Benjamin Kampmann"
+ben:
+  name: "Benjamin Kampmann"
   nick: "Ben"
   desc: ""
   thumbnailUrl: ben.jpg
@@ -55,7 +59,8 @@
     - icon: "website"
       title: "create-build-execute.com"
       link: "http://www.create-build-execute.com/"
-- name: Johanna Dahlroos
+johanna:
+  name: Johanna Dahlroos
   nick: "Johanna"
   desc: ""
   thumbnailUrl: johanna.jpg
@@ -66,7 +71,8 @@
     - icon: "website"
       title: johannadahlroos.com
       link: "https://johannadahlroos.com/"
-- name: "Florian Gilcher"
+skade:
+  name: "Florian Gilcher"
   nick: "skade"
   desc: ""
   thumbnailUrl: florian.png
@@ -80,7 +86,8 @@
     - icon: "website"
       title: "asquera.de"
       link: "http://asquera.de/"
-- name: "Andrey Listochkin"
+andrey:
+  name: "Andrey Listochkin"
   nick: "listochkin"
   desc: ""
   thumbnailUrl: andrey.jpg
@@ -94,7 +101,8 @@
     - icon: "website"
       title: "dev-ua"
       link: "https://gitter.im/dev-ua"
-- name: "Yenna Listochkina"
+tektonna:
+  name: "Yenna Listochkina"
   nick: "tektonna"
   desc: ""
   thumbnailUrl: yenna.jpg
@@ -102,7 +110,8 @@
     - icon: "twitter"
       title: "tektonna"
       link: "https://twitter.com/tektonna"
-- name: "Andrew Hobden"
+hoverbear:
+  name: "Andrew Hobden"
   nick: "hoverbear"
   desc: "Explorer of distributed systems."
   thumbnailUrl: andrew.jpg

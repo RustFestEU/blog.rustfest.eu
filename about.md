@@ -11,7 +11,8 @@ We care about diversity and accessibility at this conference.
 <section>
   <h2>Team</h2>
   <ul class="team">
-    {% for member in site.data.team %}
+    {% for entry in site.data.team %}
+      {% assign member=entry[1] %}
       <li>
         <img src="/assets/team/{{member.thumbnailUrl}}" />
         <div class="info">
