@@ -5,7 +5,7 @@ title: Code of Conduct
 ---
 
 This Code of Conduct is also available in German, Polish, Spanish and French on:
-http://berlincodeofconduct.org/
+[berlincodeofconduct.org](http://berlincodeofconduct.org/)
 
 Purpose
 -------
