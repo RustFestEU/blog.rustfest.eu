@@ -113,6 +113,7 @@ I've written a lot of languages in my lifetime, and probably so have you. In thi
 
 
 - title: "The Rust That Could Have Been"
-  public: false
+  public: true
+  special: "special guest"
   by: marijn
   desc: "This talk will describe a number of language concepts and features that were in the pre-1.0 Rust language at some point but were ultimately abandoned, such as typestate, garbage collection, structural types, and a more or less classical object system. I'll go over the reasons they were abandoned, and try to convince you that the Rust we have now is the best Rust yet."
