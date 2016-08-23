@@ -20,8 +20,21 @@
     @include display(flex);
     @include align-items(center);
     @include flex-direction(row);
-    @include justify-content(space-between);
+    @include justify-content(space-around);
     @include flex-wrap(wrap);
+
+    &.primary {
+      > li {
+        width: 45%;
+        font-size: 0.8em;
+        img {
+          width: 100%;
+          max-height: unset;
+          max-width: unset;
+        }
+
+      }
+    }
     > li {
       margin: 1em;
     }
