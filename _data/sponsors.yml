@@ -9,6 +9,9 @@
 - name: "1aim"
   logoName: 1aim.png
   link: "https://1aim.com"
+- name: "ETHCORE"
+  logoName: ethcore-black-horizontal.png
+  link: "https://ethcore.io/"
 - name: "QiTASC"
   link: "http://www.qitasc.com/"
   logoName: qitasc.png
