@@ -11,17 +11,41 @@ title: Sponsoring
     <p>
       RustConf wouldn't be possible without the generous support of these fine folks:
     </p>
-      <ul>
+      <ul class="primary">
         {% for sponsor in site.data.sponsors %}
-          <li><a href="{{sponsor.link}}" title="{{sponsor.name}}"><img src="/assets/sponsors/{{sponsor.logoName}}" /></a></li>
+          {% if sponsor.group == 'sponsor' %}
+            <li><a href="{{sponsor.link}}" title="{{sponsor.name}}"><img src="/assets/sponsors/{{sponsor.logoName}}" /></a></li>
+            {% if sponsor.desc %}
+            <li><p>{{sponsor.desc}}</p></li>
+            {% endif %}
+          {% endif %}
         {% endfor %}
       </ul>
   </section>
 
-  <section style="text-align:center">
-    <h2>Organised in partnership with</h2>
-    <a title="view source by Mozilla" href="https://viewsourceconf.org/berlin-2016/"><img src="/assets/sponsors/viewsource.png" style="min-height: 220px; min-width: 220px; width: 30vw; height: 30vw; max-height: 30vw; max-width: 30vw;">
-    </a>
+  <section>
+    <h2>Partners</h2>
+    <hr />
+      <ul>
+        {% for sponsor in site.data.sponsors %}
+          {% if sponsor.group == 'partner' %}
+            <li><a href="{{sponsor.link}}" title="{{sponsor.name}}"><img src="/assets/sponsors/{{sponsor.logoName}}" /></a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+  </section>
+
+
+  <section>
+    <h2>Venues</h2>
+    <hr />
+      <ul>
+        {% for sponsor in site.data.sponsors %}
+          {% if sponsor.group == 'venue' %}
+            <li><a href="{{sponsor.link}}" title="{{sponsor.name}}"><img src="/assets/sponsors/{{sponsor.logoName}}" /></a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
   </section>
 </div>
 

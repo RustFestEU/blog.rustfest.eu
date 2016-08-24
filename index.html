@@ -41,7 +41,7 @@ bodytags: with-hero
     </div>
 
     <div class="disclaimer">
-      * We are still looking for venues to host more workshops. <a href="mailto:team@rustfest.eu">Get in touch!</a>
+      * See below
     </div>
 
   </section>
@@ -51,18 +51,18 @@ bodytags: with-hero
   <section>
     <div class="itemgroup">
       <div style="margin-right: 5em;">
-        <h2>Call for mentors</h2>
+        <h2>Workshops</h2>
         <p>
-          Call for papers has closed but we are still looking for mentors for our speakers and at workshop venues:
+          We are organising one RustBridge Beta-Run (<a href="http://discourse.opentechschool.org/t/rustbridge-workshop-sept-18th-berlin-together-with-rustfest/1849/1">sign up here</a>) and three workshop topic rooms during Sunday. See the <a href="/blog/let-there-be-workshops/">announcement blog post for details</a>.
         </p>
         <ul>
-          <li>
-            If you want to <strong>help speakers</strong>, please sign up on <a href="https://cfp.rustfest.eu">call for papers app</a> and click that check mark.
-          </li>
-          <li>
-            If you have an office or meeting room <strong>close to our venue</strong> and would be able to <strong>host a workshop there on Sunday</strong>, please shoot us an email to <a href="mailto:coaching@rustfest.eu">coaching@rustfest.eu</a>!
-          </li>
+          <li><a href="https://github.com/RustFestEU/conf-2016/issues/1">📟 Embedded</a>: an obvious playing field for Rust are embedded devices and the Internet of Things. This room is dedicated to this topic.</li>
+          <li><a href="https://github.com/RustFestEU/conf-2016/issues/2">🔐 Crypto (and ⛓blockchain)</a>: this room will focus on crypto and blockchain technology and their implementations in Rust.</li>
+          <li><a href="https://github.com/RustFestEU/conf-2016/issues/3">⌨ Low Stack</a>: ever build your own parser? How about your own language? In this room you can take your first steps!</li>
         </ul>
+        <p>
+          Please take part in the discussion about the topics you are most interested in (via those tickets) and press the 👍-button to indicate that you'll join.
+        </p>
       </div>
       <div class="timeline">
         <h3>Timeline</h3>
@@ -113,12 +113,14 @@ bodytags: with-hero
     <h2>Sponsors</h2>
     <ul>
       {% for sponsor in site.data.sponsors %}
+        {% if sponsor.featured %}
         <li><a href="{{sponsor.link}}" title="{{sponsor.name}}"><img src="/assets/sponsors/{{sponsor.logoName}}" /></a></li>
+        {% endif %}
       {% endfor %}
     </ul>
     <div style="text-align: right">
       <a class="button primary" href="/sponsoring/">
-        Want to sponsor?
+        See all sponsors
       </a>
     </div>
   </section>
