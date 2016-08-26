@@ -9,7 +9,7 @@ authors:
 
 ## Workshops 🎉
 
-Just earlier this week we've made a big announcement: [the organisation of the Workshop day](/blog/let-there-be-workshops). Aside from organising a RustBridge for beginners in collaboration with the OpenTechSchool Berlin (infos and signup here), we will have three topic-rooms.
+Just earlier this week we've made a big announcement: [the organisation of the Workshop day](/blog/let-there-be-workshops). Aside from organising a RustBridge for beginners in collaboration with the OpenTechSchool Berlin ([infos and signup here](http://discourse.opentechschool.org/t/rustbridge-workshop-sept-18th-berlin-together-with-rustfest/1849)) we will have three topic-rooms.
 
 Essentially the idea is that there will be specific places where you'll find people discussing and working on a dedicated topic. For now, these topics will be:
 
