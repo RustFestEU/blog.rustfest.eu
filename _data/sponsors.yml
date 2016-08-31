@@ -24,6 +24,10 @@
   logoName: qitasc.png
   featured: true
   group: sponsor
+- name: "factor10"
+  logoName: "factor10.png"
+  link: "http://factor10.com"
+  group: "sponsor"
 - name: "ViewSource"
   logoName: viewsource.png
   link: "https://viewsourceconf.org/berlin-2016/"
