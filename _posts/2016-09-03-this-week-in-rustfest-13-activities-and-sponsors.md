@@ -25,12 +25,11 @@ So please, feel welcome to start posting and planning events! They don't need to
 
 ## Schedule In Progress
 
-This week we drafted up a schedule for all of our [super speakers](/talks/) and we're now reaching out to them to ensure that everything sounds great to them.
+This week we drafted up a schedule for all of our [super speakers](/talks/) and we're now reaching out to them to ensure that everything sounds great to them. While we are still sussing out the details, we can give you an indication of the overall time span.
 
+Saturday will start not earlier than 9am with a welcome, and the first keynote. As we have many talks to cover we will do them in blocks of three back-to-back with 10-15min breaks in between those blocks. Of course, there will be lunch served at the venue around mid-day within a longer break before we go on with the next blocks of talks. In the evening the [Digital Eatery](https://www.microsoft-berlin.de/de-de/berlin/the-digital-eatery/) (the café in the front) will convert to a nice hang out for us, serve dinner will and invite all participants to relax, chat and hang out (yes, it will have the XBoxes hooked up for us).
 
-What we can tell you is the rough start/end times of each day, as well as the fact that there will be time to get tea, coffee, and snacks at least twice without missing anything.
-
-TODO: What is "Bounding box schedule?"
+Sunday starts a little later, more towards 10am, with a talk by Sonja Heinen. In "Hobby oriented programming" she will set the mode for the day, before everyone is off to their rooms and workshops. Don't worry we've planned in some travel time, so you won't be late from the talk. In the evening we invite everyone back to the venue to listen to the last talk. After a full weekend of looking into the current state and future of Rust, Marijn Haverbeke will close the conference by looking with us back to "The rust that could have been".
 
 
 ## Thank You Factor10!
@@ -42,7 +41,6 @@ We have so many amazing sponsors, and Factor10 is no different!
 </p>
 
 Thank you Factor10 for your support of this community event!
-
 
 
 Getting to go over the CFP applications one more time made me both excited and sad again! We had so many great applications and so little time to fill! Hopefully next year we'll get to say "Yes!!!" more!
