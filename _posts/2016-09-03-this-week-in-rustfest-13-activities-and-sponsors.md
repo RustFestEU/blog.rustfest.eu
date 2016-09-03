@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This Week in RustFest 13: A preliminary schdeule, a sponsor, and activities!"
+title: "This Week in RustFest 13: A preliminary schedule, a sponsor, and activities!"
 socialImageSrc: '/assets/posts/twirf-13-workshops.png'
 authors:
  - hoverbear
