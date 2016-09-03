@@ -7,7 +7,7 @@ authors:
  - ben
 ---
 
-As things get ramping up for Viewsource, and more importantly (for us!) RustFest we're happy to say we've had a busy, productive week!
+As things get ramping up for ViewSource, and more importantly (for us!) RustFest we're happy to say we've had a busy, productive week!
 
 ## RustBridge
 
@@ -37,7 +37,7 @@ Thank you Factor10 for your support of this community event!
 
 ## Schedule In Progress
 
-This week we drafted up a schedule for all of our [super speakers](www.rustfest.eu/talks/) and we're now reaching out to them to ensure that everything sounds great to them.
+This week we drafted up a schedule for all of our [super speakers](/talks/) and we're now reaching out to them to ensure that everything sounds great to them.
 
 Getting to go over the CFP applications one more time made me both excited and sad again! We had so many great applications and so little time to fill! Hopefully next year we'll get to say "Yes!!!" more!
 
