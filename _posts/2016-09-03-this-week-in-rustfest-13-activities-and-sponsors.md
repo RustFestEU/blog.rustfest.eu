@@ -11,15 +11,13 @@ As things get ramping up for ViewSource, and more importantly (for us!) RustFest
 
 ## RustBridge
 
-As some of you may have noticed the [RustBridge signup post](http://discourse.opentechschool.org/t/rustbridge-workshop-sept-18th-berlin-together-with-rustfest/1849) both had a broken poll... and that was unclear about whether you needed a ticket to RustFest to join us.
+As some of you may have noticed the description of [RustBridge signup post](http://discourse.opentechschool.org/t/rustbridge-workshop-sept-18th-berlin-together-with-rustfest/1849) wasn't really clear whether you needed a ticket to RustFest to join us, well and that the sign up buttons were broken.
 
-Well, **you don't**! You just need to sign up for the workshop! We're looking forward to seeing you there, it'll be grand.
+Well, **you don't** need a ticket and the **sign up is fixed**! You just need to sign up for the workshop! We're looking forward to seeing you there, it'll be grand.
 
 ## Activities
 
-Conferences are made alive by the people who attend them, and as a community conference we want to ensure our attendees have an opportunity to plan their own activities and invite others.
-
-So this week we set up an instance of the Eurucamp Activities scheduler on Heroku! It's already under a [Heroku domain here](https://rustfest-activities.herokuapp.com/). It will live at [https://activities.rustfest.eu](https://activities.rustfest.eu) as soon as we get an SSL certificate.
+Conferences are made alive by the people who attend them, and as a community conference we want to ensure our attendees have an opportunity meet each other inside and outside of the venue. So this week we set up an instance of the Eurucamp Activities scheduler on Heroku so everyone can propose and organise their own activities invite others. It's already available under a [Heroku domain here](https://rustfest-activities.herokuapp.com/), and will finally live at [https://activities.rustfest.eu](https://activities.rustfest.eu) as soon as we get an SSL certificate.
 
 Our lovely friends at Heroku offered to let us play in one of their labs so we're going to be doing and experiment with them around SSL certificates! So cool! Sorry for the wait, though! Experiments are fun, but take time. We expect this SSL certificate to be working by Wednesday.
 
