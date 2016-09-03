@@ -23,6 +23,16 @@ Our lovely friends at Heroku offered to let us play in one of their labs so we'r
 
 So please, feel welcome to start posting and planning events! They don't need to be Rust related, and psst... You don't even need a ticket!
 
+## Schedule In Progress
+
+This week we drafted up a schedule for all of our [super speakers](/talks/) and we're now reaching out to them to ensure that everything sounds great to them.
+
+
+What we can tell you is the rough start/end times of each day, as well as the fact that there will be time to get tea, coffee, and snacks at least twice without missing anything.
+
+TODO: What is "Bounding box schedule?"
+
+
 ## Thank You Factor10!
 
 We have so many amazing sponsors, and Factor10 is no different!
@@ -33,12 +43,6 @@ We have so many amazing sponsors, and Factor10 is no different!
 
 Thank you Factor10 for your support of this community event!
 
-## Schedule In Progress
 
-This week we drafted up a schedule for all of our [super speakers](/talks/) and we're now reaching out to them to ensure that everything sounds great to them.
 
 Getting to go over the CFP applications one more time made me both excited and sad again! We had so many great applications and so little time to fill! Hopefully next year we'll get to say "Yes!!!" more!
-
-What we can tell you is the rough start/end times of each day, as well as the fact that there will be time to get tea, coffee, and snacks at least twice without missing anything.
-
-TODO: What is "Bounding box schedule?"
