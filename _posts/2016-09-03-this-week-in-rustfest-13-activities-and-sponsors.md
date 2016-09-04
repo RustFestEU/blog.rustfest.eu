@@ -37,7 +37,7 @@ Sunday starts a little later, more towards 10am, with a talk by Sonja Heinen. In
 We have so many amazing sponsors, and Factor10 is no different!
 
 <p style="text-align: center" markdown="1">
-[![Factor10 logo](/assets/sponsors/factor10.png)](http://www.factor10.io/)
+[![Factor10 logo](/assets/sponsors/factor10.png)](http://www.factor10.com/)
 </p>
 
 Thank you Factor10 for your support of this community event!
