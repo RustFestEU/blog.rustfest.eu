@@ -1,17 +1,12 @@
-- name: "Microsoft Berlin"
-  logoName: Microsoft.svg
-  link: "https://www.microsoft-berlin.de/de-de/berlin/"
-  featured: true
-  group: sponsor
-- name: "Mozilla"
-  logoName: "mozilla.png"
-  link: "https://www.mozilla.org"
-  featured: true
-  group: sponsor
 - name: "ETHCORE"
   logoName: ethcore-black-horizontal.png
   link: "https://ethcore.io/"
   desc: "Ethcore’s mission is to enable businesses and organisations to capitalise on blockchain technology and benefit from the new opportunities it presents. We develop cutting-edge software solutions for enterprises and industries to unlock the full value of decentralised technology. We believe that decentralised technology has the power to fundamentally change and enhance the systems used by businesses, consumers, and governments every day."
+  featured: true
+  group: sponsor
+- name: "Microsoft Berlin"
+  logoName: Microsoft.svg
+  link: "https://www.microsoft-berlin.de/de-de/berlin/"
   featured: true
   group: sponsor
 - name: "1aim"
@@ -19,6 +14,12 @@
   link: "https://1aim.com"
   featured: true
   group: sponsor
+- name: "Mozilla"
+  logoName: "mozilla.png"
+  link: "https://www.mozilla.org"
+  featured: true
+  group: sponsor
+  desc: "At Mozilla, we’re a global community of technologists, thinkers and builders working together so people worldwide can be informed contributors and creators of the Web. Our mission is to ensure the Internet is a global public resource, open and accessible to all, where individuals can shape their own experience and are empowered, safe and independent."
 - name: "QiTASC"
   link: "http://www.qitasc.com/"
   logoName: qitasc.png
