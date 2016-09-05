@@ -84,10 +84,9 @@ It will also tell the tale of macro madness, the discovery of a O(n²) bug in th
   desc: "In business as well as in life, few things are more important to your success than building relationships. But so often, relationships fail before they get solid footing because we as humans sometimes have a difficult time connecting. That connection begins with empathy. And the key to empathy? Vulnerability. Sharon is a stutterer, and she knows how valuable one's voice is. She also knows how it feels to attempt to share an idea only to fail miserably as a result of a communications breakdown. After years of struggling to join the conversation, she finally learned how communicate her ideas in a way that forced people to listen. And that's what she's going to discuss with you. The takeaways from this talk will be learning how to value the listener, improved collaboration at the office and becoming a master at building a relationship quickly and effectively."
 
 - title: "Linux USB HID Interfacing in Userspace"
-  public: false
+  public: true
   by: william
-  desc: "Detailing the process of writing a userspace driver for a USB human-interface device in Rust using mio. Will briefly touch on reverse-engineering undocumented HID protocols and MIDI devices.
-  "
+  desc: "Detailing the process of writing a userspace driver for a USB human-interface device in Rust using mio. Will briefly touch on reverse-engineering undocumented HID protocols and MIDI devices."
 
 - title: "Learning to Love the Unfamiliar"
   public: true
