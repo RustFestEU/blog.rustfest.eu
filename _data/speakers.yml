@@ -93,7 +93,7 @@ tim:
 william:
   name: William Light
   thumbnailUrl: wrl.jpg
-  desc: "William is a freelance software developer with experience in everything from kernel drivers to audio DSP and OpenGL user interfaces. He has a keen interest in lockand wait-free data structures, actor model concurrency, and low-latency realtime applications."
+  desc: "William is a freelance software developer with experience in everything from kernel drivers to audio DSP and OpenGL user interfaces. He has a keen interest in lock- and wait-free data structures, actor model concurrency, and low-latency realtime applications."
   links:
     - icon: "twitter"
       title: "wrl"
