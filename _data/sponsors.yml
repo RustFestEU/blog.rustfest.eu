@@ -29,6 +29,12 @@
   logoName: "factor10.png"
   link: "http://factor10.com"
   group: "sponsor"
+- name: "ThoughtWorks Berlin"
+  logoName: TW_Logo_black.png
+  link: "https://www.thoughtworks.com/"
+  featured: false
+  group: sponsor
+  desc: "We are a software company and a community of passionate, purpose-led individuals. We think disruptively to deliver technology to address our clients' toughest challenges, all while seeking to revolutionize the IT industry and create positive social change."
 - name: "ViewSource"
   logoName: viewsource.png
   link: "https://viewsourceconf.org/berlin-2016/"
