@@ -1,0 +1,66 @@
+
+
+.schedule {
+  @include display(flex);
+  // @include align-items(top);
+  @include flex-direction(column);
+  // @include flex-wrap(wrap);
+  @include justify-content(space-around);
+
+  list-style: none;
+  padding: 0;
+
+  $base-background-color: white !default;
+  $base-border-color: gainsboro !default;
+  $base-border-radius: 3px !default;
+  $base-background-color: white !default;
+  $base-spacing: 1.5em !default;
+  $action-color: #477DCA !default;
+  $dark-gray: #333 !default;
+  $base-font-color: $dark-gray !default;
+  $card-border-color: $base-border-color;
+  $card-border: 1px solid $card-border-color;
+  $card-background: lighten($card-border-color, 10%);
+
+  td {
+    vertical-align: top;
+    padding: 5px;
+  }
+  td.time {
+    width: 100px;
+    font-size: 40px;
+    text-align: center;
+  }
+  td.time span {
+    font-size: 20px;
+  }
+
+  tr:nth-child(even) { background: #f7f7f7; }
+  tr:nth-child(odd) { background: #FFF; }
+
+  a {
+    color: black;
+  }
+
+  h2 {
+    padding-left: 10px;
+  }
+
+  .centered {
+    vertical-align: middle;
+  }
+
+  .speaker {
+    /*margin: 2em 1em;*/
+
+      img {
+        border-radius: 50%;
+        width: 40px;
+        height: 40px;
+        border: 2px solid #fff;
+        box-shadow: 0 1px 0 rgba(0,0,0,0.15),0 1px 2px rgba(0,0,0,0.2);
+        vertical-align: middle;
+      }
+  }
+
+}
