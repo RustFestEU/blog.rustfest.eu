@@ -28,7 +28,7 @@ Berlin has some fantastic public transit that breaks down into four major servic
 
 You can use Google Maps or the [BVG](http://www.bvg.de/de/Fahrinfo/Jederzeit-mobil) app to plan your trips. **With one important note: The U1 is currently down.** Please keep this in mind when referring to Google Maps.
 
-We suggest reviewing the [BVG Tickets page](https://shop.bvg.de/index.php/tickets) for your planning. We suggest getting getting the [**Day Ticket Berlin AB**](https://shop.bvg.de/index.php/product/235/show/0/0/0/0/buy) each day. The total cost for both says is 14 Euro and means you can travel the whole day both days.
+We suggest reviewing the [BVG Tickets page](https://shop.bvg.de/index.php/tickets) for your planning. We suggest getting getting the [**Day Ticket Berlin AB**](https://shop.bvg.de/index.php/product/235/show/0/0/0/0/buy) each day. The total cost for both days is 14 Euro and means you can travel the whole day both days.
 
 Here are some good trip plans between venues:
 
