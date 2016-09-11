@@ -17,7 +17,7 @@ Well, **you don't** need a ticket and the **sign up is fixed**! You just need to
 
 ## Activities
 
-Conferences are made alive by the people who attend them, and as a community conference we want to ensure our attendees have an opportunity meet each other inside and outside of the venue. So this week we set up an instance of the Eurucamp Activities scheduler on Heroku so everyone can propose and organise their own activities invite others. It's already available under a [Heroku domain here](https://rustfest-activities.herokuapp.com/), and will finally live at [https://activities.rustfest.eu](https://activities.rustfest.eu) as soon as we get an SSL certificate.
+Conferences are made alive by the people who attend them, and as a community conference we want to ensure our attendees have an opportunity meet each other inside and outside of the venue. So this week we set up an instance of the Eurucamp Activities scheduler at [https://activities.rustfest.eu](https://activities.rustfest.eu).
 
 Our lovely friends at Heroku offered to let us play in one of their labs so we're going to be doing and experiment with them around SSL certificates! So cool! Sorry for the wait, though! Experiments are fun, but take time. We expect this SSL certificate to be working by Wednesday.
 
