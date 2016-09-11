@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "This Week in RustFest 14: One more week!"
-socialImageSrc: '/assets/posts/twirf-13-workshops.png'
 authors:
  - hoverbear
  - ben
