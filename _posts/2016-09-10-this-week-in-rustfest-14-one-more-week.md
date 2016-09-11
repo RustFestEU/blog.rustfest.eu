@@ -12,7 +12,7 @@ Next week starts with Viewsource and ends with RustFest! What a busy week! We've
 ## A New Sponsor!
 
 <p style="text-align: center" markdown="1">
-[![Thoughtworks logo](/assets/sponsors/thoughtworks.png)](http://thoughtworks.com/)
+[![Thoughtworks logo](/assets/sponsors/TW_Logo_black.png)](http://thoughtworks.com/)
 </p>
 
 Thank you ThoughtWorks for your support of this community event!
