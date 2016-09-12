@@ -1,5 +1,7 @@
 - title: "News"
   link: "/blog"
+- title: "Schedule"
+  link: "/schedule/"
 - title: "Talks"
   link: "/talks"
 - title: "Activities"
