@@ -47,6 +47,18 @@ title: Sponsoring
         {% endfor %}
       </ul>
   </section>
+
+  <section>
+    <h2>Media Partner</h2>
+    <hr />
+      <ul>
+        {% for sponsor in site.data.sponsors %}
+          {% if sponsor.group == 'media' %}
+            <li><a href="{{sponsor.link}}" title="{{sponsor.name}}"><img src="/assets/sponsors/{{sponsor.logoName}}" /></a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+  </section>
 </div>
 
 
