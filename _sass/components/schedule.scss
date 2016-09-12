@@ -22,6 +22,9 @@
   $card-border: 1px solid $card-border-color;
   $card-background: lighten($card-border-color, 10%);
 
+  table {
+    margin-bottom: 3em;
+  }
   td {
     vertical-align: top;
     padding: 5px;
