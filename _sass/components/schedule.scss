@@ -71,3 +71,27 @@
   }
 
 }
+
+@media print {
+  header, footer,
+  .popout,
+  .speaker img { display: none; }
+
+  .schedule {
+    h2 { margin-top: 0; }
+    td.time { font-size: 20px; }
+    td.time span { font-size: 12px; }
+    section {
+      max-width: none;
+      margin: initial;
+    }
+    td {
+      font-size: 20px;
+      line-height: initial;
+      padding: 1px 10px;
+    }
+    table {
+      margin-bottom: 150px;
+    }
+  }
+}
