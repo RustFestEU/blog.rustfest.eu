@@ -75,6 +75,14 @@ Scope
 
 We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues—online and in-person—as well as in all one-on-one communications pertaining to community business.
 
+Contact
+-------
+
+In case you can't find a staff member or want to contact us via email or phone directly, we are always there for you:
+
+Mail: <coc@rustfest.eu>  
+Phone: (+49) (0)30 69208875
+
 
 License and attribution
 -----------------------
