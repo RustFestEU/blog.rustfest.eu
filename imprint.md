@@ -9,9 +9,10 @@ title: Imprint
 
 <p>
 <address>
-<h2>asquera Event UG i.G. </h2>
+<h2>asquera Event UG (haftungsbeschränkt)</h2>
 Ohlauer Straße 43 <br>
-10999 Berlin
+10999 Berlin<br>
+HRB 179436
 </address>
 </p>
 
