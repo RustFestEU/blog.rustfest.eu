@@ -18,7 +18,7 @@ bodytags: with-hero
       </div>
 
       <div title="Pending the necessary funds">
-        <p class="desc">Workshops <span style="color:white">*</span></p>
+        <p class="desc">Workshops</p>
         <p>
           Sunday,<br/>
           Sept 18th, 2016
@@ -35,40 +35,20 @@ bodytags: with-hero
         </p>
       </div>
 
+      <!--
       <div class="callout">
         <a href="#tickets" class="button primary js-smoothscroll">Get your tickets</a>
-      </div>
-    </div>
-
-    <div class="disclaimer">
-      * See below
+      </div> -->
     </div>
 
   </section>
 </div>
-
+<!-- 
 <div class="popout">
   <section>
     <div class="itemgroup">
       <div style="margin-right: 5em;">
-        <h2>Workshops</h2>
-        <p>
-          We are organising one RustBridge Beta-Run (<a href="http://discourse.opentechschool.org/t/rustbridge-workshop-sept-18th-berlin-together-with-rustfest/1849/1">sign up here</a>) and three workshop topic rooms during Sunday. See the <a href="/blog/let-there-be-workshops">announcement blog post for details</a>.
-        </p>
-        <ul>
-          <li>
-            <a href="https://activities.rustfest.eu/activities/1">Crypto and Blockchain Workshop</a> organised by Ethcore in the <a href="https://github.com/RustFestEU/conf-2016/issues/2">🔐 Crypto (and ⛓blockchain) Room</a>.
-          </li>
-
-          <li>
-            <a href="https://activities.rustfest.eu/activities/2">Web Development Workshop</a> organised by 1aim in the <a href="https://github.com/RustFestEU/conf-2016/issues/5">🕸 Web Room</a>.
-          </li>
-          <li>
-            Further we are still looking content for the <a href="https://github.com/RustFestEU/conf-2016/issues/1">📟 Embedded Room</a> and the <a href="https://github.com/RustFestEU/conf-2016/issues/3">⌨ Low Stack Room</a>.
-        </ul>
-        <p>
-          Please sign up to the workshops/rooms you are planning to attend.
-        </p>
+        <h1>Schedule</h1>
       </div>
       <div class="timeline">
         <h3>Timeline</h3>
@@ -77,14 +57,25 @@ bodytags: with-hero
           ✓<span style="text-decoration: line-through"><span class="highlight">June 27th</span>: Call for papers closes</span><br>
           ✓<span style="text-decoration: line-through"><span class="highlight">July 14th</span>: Speakers notified </span><br>
           ✓<span style="text-decoration: line-through" ><span class="highlight">Aug 1st</span>: Start ticket-sales </span><br />
-          ➨ <span class="highlight">Sept 9th</span>: Close ticket-sales <br />
-          - <span class="highlight">Sept 17th</span>: Conference
+          ✓<span style="text-decoration: line-through" ><span class="highlight">Sept 9th</span>: Close ticket-sales</span> <br />
+          ➲ <span class="highlight">Sept 17th</span>: 🎉 Conference 🎉
         </p>
       </div>
     </div>
   </section>
+</div> -->
+
+
+<div class='popout'>
+  <section>
+    <h1>RustFest 2016 - Schedule</h1>
+  </section>
 </div>
 
+{% include _schedule.html %}
+
+
+{% comment %}
 <div>
   <section id="speakers">
     <h2>Speakers</h2>
@@ -114,6 +105,8 @@ bodytags: with-hero
   </section>
 </div>
 
+{% endcomment %}
+
 
 <div id="sponsors" class="sponsors">
   <section>
@@ -133,7 +126,7 @@ bodytags: with-hero
   </section>
 </div>
 
-
+{% comment %}
 <div id="tickets">
   <section>
     <h2>Get your ticket</h2>
@@ -179,6 +172,8 @@ bodytags: with-hero
   </section>
 </div>
 
+{% endcomment %}
+
 {% assign post = site.posts[0] %}
 {% if post %}
 <div id="news">
@@ -193,6 +188,7 @@ bodytags: with-hero
   </section>
 </div>
 {% endif %}
+
 
 <div id="newsletter">
   <section>
