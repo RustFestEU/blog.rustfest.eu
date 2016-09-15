@@ -55,3 +55,11 @@
   logoName: default_coup_logo_wide.png
   link: "http://co-up.de/"
   group: venue
+- name: "rrbone"
+  logoName: rrbone.png
+  link: "https://www.rrbone.net/de/"
+  group: media
+- name: "Drunken Records"
+  logoName: drunkenrecords.png
+  link: "https://www.drunkenrecords.de/"
+  group: media
