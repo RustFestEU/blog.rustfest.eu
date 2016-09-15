@@ -101,15 +101,10 @@ We will learn to navigate your transition into the Rust landscape. Introduce pra
   by: tim
   desc: "Rust is a systems language ready for IoT. In this talk, we'll learn how to move servos, make sensor measurements, and speak low-level communication protocols like SPI and I2C. When joined with high-level HTTP libraries, audiences will leave knowing how to create a fault-tolerant embedded device that's accessible from the cloud. Examples use the Rust language and target the Tessel microcontroller platform."
 
-- title: "Rust in Translation"
+- title: "intermezzOS: a teaching operating system "
   public: true
   by: ashley
-  desc: " > **Bob**: Can you keep a secret? I'm trying to organize a language break. I'm looking for, like, an accomplice. We have to first get out of this domain, then the style, then the paradigm, and then the runtime. Are you in or you out? \n\n
-> **Charlotte**: I'm in. I'll go pack my stuff. \n\n
-> **Bob**: I hope that you've had enough to drink. It's going to take courage.
-\n\n
-I've written a lot of languages in my lifetime, and probably so have you. In this talk, I'll tell my story of translating, a small, but epic, declarative Ruby DSL to a ES6 parser in Rust. Along the way, I'll share the lessons I've learned about developer experience, language design, open source communities, and most importantly the value of translation as a learning and teaching tool. "
-
+  desc: "_to be announced_"
 
 - title: "The Rust That Could Have Been"
   public: true
