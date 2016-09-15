@@ -56,6 +56,16 @@
     font-style: italic;
   }
 
+  .workshops {
+
+    ul {
+      list-style: none;
+    }
+    a {
+      color: $brand_blue;
+    }
+  }
+
   .speaker {
     /*margin: 2em 1em;*/
 
