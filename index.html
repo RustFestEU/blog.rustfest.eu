@@ -1,208 +1,37 @@
 ---
 layout: default
-bodytags: with-hero
 ---
-<div class="hero">
-  <section>
-    <h1>RustFest</h1>
-    <p>Join us for Europe's first conference dedicated to the Rust programming language</p>
-
-    <div class="itemgroup">
-
-      <div>
-        <p class="desc">Talks</p>
-        <p>
-          Saturday,<br/>
-          Sept 17th, 2016
-        </p>
-      </div>
-
-      <div title="Pending the necessary funds">
-        <p class="desc">Workshops</p>
-        <p>
-          Sunday,<br/>
-          Sept 18th, 2016
-        </p>
-      </div>
-
-      <div class="location">
-        <p class="desc">Location</p>
-        <p>
-          <address title="Unter den Linden 17, 10117 Berlin">
-            <a href="https://www.microsoft.com/de-de/berlin/atrium/">Microsoft Atrium</a><br />
-            Berlin, Germany<br/>
-          </address>
-        </p>
-      </div>
-
-      <!--
-      <div class="callout">
-        <a href="#tickets" class="button primary js-smoothscroll">Get your tickets</a>
-      </div> -->
-    </div>
-
-  </section>
-</div>
-<!--
 <div class="popout">
   <section>
-    <div class="itemgroup">
-      <div style="margin-right: 5em;">
-        <h1>Schedule</h1>
-      </div>
-      <div class="timeline">
-        <h3>Timeline</h3>
-        <p>
-          ✓<span style="text-decoration: line-through"><span class="highlight">May 24th</span>: Call for paper opens</span> <br>
-          ✓<span style="text-decoration: line-through"><span class="highlight">June 27th</span>: Call for papers closes</span><br>
-          ✓<span style="text-decoration: line-through"><span class="highlight">July 14th</span>: Speakers notified </span><br>
-          ✓<span style="text-decoration: line-through" ><span class="highlight">Aug 1st</span>: Start ticket-sales </span><br />
-          ✓<span style="text-decoration: line-through" ><span class="highlight">Sept 9th</span>: Close ticket-sales</span> <br />
-          ➲ <span class="highlight">Sept 17th</span>: 🎉 Conference 🎉
-        </p>
-      </div>
-    </div>
-  </section>
-</div> -->
-
-{% include _schedule.html %}
-
-
-{% comment %}
-<div>
-  <section id="speakers">
-    <h2>Speakers</h2>
-    <ul class="speakers">
-      {% for item in site.data.speakers %}
-        {% assign speaker = item[1] %}
-        {% if speaker.featured %}
-          <li class="speaker-box">
-            <div  class="portrait">
-              <img src="/assets/speakers/{{speaker.thumbnailUrl}}" />
-            </div>
-            <div class="info">
-              <span class="name">{{speaker.name}}</span>
-              <ul class="links">
-                {% for link in speaker.links %}
-                  <li><a href="{{link.link}}" target="_blank" title="{{link.title}}">{% include icons/{{link.icon}}.svg %}</a></li>
-                {% endfor %}
-              </ul>
-            </div>
-            <div class="desc">
-              {{speaker.desc | markdownify | truncatewords: 50}}
-            </div>
-          </li>
-        {% endif %}
-      {% endfor %}
-    </ul>
+    <h1>{{ page.title }} <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank">{% include icons/rss-square.svg %}</a></h1>
+    <hr />
   </section>
 </div>
 
-{% endcomment %}
-
-
-<div id="sponsors" class="sponsors">
-  <section>
-    <h2>Sponsors</h2>
-    <ul>
-      {% for sponsor in site.data.sponsors %}
-        {% if sponsor.featured %}
-        <li><a href="{{sponsor.link}}" title="{{sponsor.name}}"><img src="/assets/sponsors/{{sponsor.logoName}}" /></a></li>
-        {% endif %}
-      {% endfor %}
-    </ul>
-    <div style="text-align: right">
-      <a class="button primary" href="/sponsoring/">
-        See all sponsors
-      </a>
-    </div>
-  </section>
-</div>
-
-{% comment %}
-<div id="tickets">
-  <section>
-    <h2>Get your ticket</h2>
-    <ul class="tickets">
+<section>
+  <ul class="post-list">
+    {% for post in site.posts %}
       <li>
-        <h3>Regular</h3>
-        <span class="price">125</span>
-        <p class="smallprint">
-          Regular conference ticket: get access to both days of conference and workshops. Student discount available*.
-        </p>
-        <a href="https://ti.to/mdn/rustfest-2016/?nl-cnbo23h0=1">
-          <h4>Join now</h4>
-        </a>
+        {% include post_excerpt.html post=post %}
       </li>
-      <li class="hl">
-        <h3>✨ Supporter ✨</h3>
-        <span class="price">250</span>
-        <p class="smallprint">
-          Full access to the conference and support the diversity efforts: Every supporter ticket sold allows the team to offer more student and diversity tickets.
-        </p>
-        <a href="https://ti.to/mdn/rustfest-2016/?wq4umnqw4w0=1">
-          <h4>Become a Supporter</h4>
-        </a>
-      </li>
-      <li>
-        <h3>View Source Combo</h3>
-        <div class="price">450</div>
-        <p class="smallprint">
-          Get full access to both RustFest and <a href="https://viewsourceconf.org/berlin-2016/">View Source</a> taking place in the same week in Berlin with the combo ticket.
-        </p>
-        <a href="https://ti.to/mdn/rustfest-2016/?jmgespnso-i=1">
-          <h4>Buy now</h4>
-        </a>
-      </li>
+    {% endfor %}
+  </ul>
+</section>
 
-    </ul>
-    <p class="smallprint">
-      * For a 20%-student discount please use the <em>STUDENT</em>-code at checkout. You will have to provide a proof in form of an <a href="https://www.isic.org/">International Student Identity Card</a> or proof of matriculation in German, English, Hungarian or Ukrainian (a <a href="https://de.wikipedia.org/wiki/Studierendenausweis">Studentenausweis</a> is sufficient) when picking up your conference badge.
-    </p>
-    <p class="smallprint">
-      Prices are advertised excluding VAT (where applicable). All sales are final. Tickets grant access to the conference, including food and drinks. The <a href="/code-of-conduct/">Code of Conduct</a> applies. Sales are awarded on a first-come-first-serve basis, but are sold in batches. We also have diversity tickets available – you can <a href="https://diversitytickets.org/events/35">apply here</a>. Registration for workshops will be handled separately.
-    </p>
-  </section>
-</div>
-
-{% endcomment %}
-
-{% assign post = site.posts[0] %}
-{% if post %}
-<div id="news">
+{% if paginator.total_pages > 1 %}
   <section>
-    <h2 class="headline">Latest news <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank">{% include icons/rss-square.svg %}</a></h2>
-    <div class="post">
-      {% include post_excerpt.html post=post %}
-    </div>
-    <div style="text-align: right">
-      <a href="/blog/">» more news</a>
+    <div class="pagination">
+      {% if paginator.previous_page %}
+      <a href="/page{{ paginator.previous_page }}" class="previous">⎗</a>
+      {% else %}
+      <span class="previous">⎗</span>
+      {% endif %}
+      <span class="page-number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+      {% if paginator.next_page %}
+      <a href="/page{{ paginator.next_page }}" class="next">⎘</a>
+      {% else %}
+      <span class="next ">⎘</span>
+      {% endif %}
     </div>
   </section>
-</div>
 {% endif %}
-
-
-<div id="newsletter">
-  <section>
-    <h2>Stay up to date</h2>
-    <form id="mailchimpForm" class="formInput"  action="https://{{site.mailchimp.server}}/subscribe/post" method="POST">
-      <p>
-        Join our mailing list to always receive the latest infos:
-      </p>
-      <input type="hidden" value="{{site.mailchimp.user}}" name="u" />
-      <input type="hidden" value="{{site.mailchimp.id}}" name="id" />
-      <div class="group">
-        <input type="email" id="js-email" name="EMAIL" required placeholder="your.email@example.org" />
-        <button type="submit">Sign up</button>
-      </div>
-    </form>
-  </section>
-
-  <section class="twitter">
-    <h2>Follow us on twitter</h2>
-    <a class="inline" href="https://www.twitter.com/{{site.twitter_username}}" >
-      {% include icons/twitter.svg %} @{{site.twitter_username}}
-    </a>
-  </section>
-</div>

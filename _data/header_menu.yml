@@ -1,8 +1,6 @@
+- title: "RustFest"
+  link: "http://rustfest.eu"
 - title: "News"
-  link: "/blog"
-- title: "Schedule"
-  link: "/schedule/"
-- title: "Talks"
-  link: "/talks"
-- title: "Activities"
-  link: "https://activities.rustfest.eu/"
+  link: "/"
+- title: About
+  link: /about

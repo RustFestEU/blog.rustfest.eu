@@ -1,17 +1,16 @@
-title: RustFest.EU
+title: blog.RustFest.EU
 email: team@rustfest.eu
-description: > # this means to ignore newlines until "baseurl:"
-  A Community Rust conference for the Rusty folks all around Europe. Mark your
-  calendars, September 17!
+description: >
+  A Community Rust conference for the Rusty folks all around Europe.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.rustfest.eu" # the base hostname & protocol for your site
+url: "http://blog.rustfest.eu" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
 
 # Page Settings
 owner: "asquera Event UG"
-permalink: "/blog/:title"
+permalink: ":title"
 
 
 # social stuff:
