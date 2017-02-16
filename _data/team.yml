@@ -51,14 +51,14 @@ ben:
   thumbnailUrl: ben.jpg
   links:
     - icon: "twitter"
-      title: "SirDonQui"
-      link: "https://twitter.com/SirDonQui"
+      title: "gnunicorn"
+      link: "https://twitter.com/gnunicorn"
     - icon: "github"
-      title: "ligthyear"
-      link: "https://github.com/ligthyear"
+      title: "gnunicorn"
+      link: "https://github.com/gnunicorn"
     - icon: "website"
-      title: "create-build-execute.com"
-      link: "http://www.create-build-execute.com/"
+      title: "gnunicorn.org"
+      link: "http://www.gnunicorn.org/"
 johanna:
   name: Johanna Dahlroos
   nick: "Johanna"
