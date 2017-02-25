@@ -4,7 +4,7 @@ title: "Supporter Tickets on Sale, prices and timeline"
 socialImageSrc: '/assets/posts/2017-tickets.png'
 authors:
   - ben
-  - andrew
+  - flaki
 ---
 
 We hadn't fully announced the new website yet, and people already asked about when they can buy the tickets. Well, you are in luck, because as off today you can 
