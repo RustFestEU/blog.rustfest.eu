@@ -4,7 +4,7 @@ title: "This Week in RustFest -8: Tickets on Sale, more information on Kyiv"
 socialImageSrc: '/assets/posts/2017-tickets-full.png'
 authors:
   - ben
-  - andrey
+  - badboy
 ---
 
 It's just eight more weeks to go for RustFest 2017 in Kyiv. Time to get started with our regular compilations of updates in any given week. And what a week this was.
