@@ -9,18 +9,19 @@ authors:
 
 It's just eight more weeks to go for RustFest 2017 in Kyiv. Time to get started with our regular compilations of updates in any given week. And what a week this was.
 
-### Buy your Regular Ticktes now
+### Buy your Regular Tickets now
 
-First and foremost, we've opened ticket sales. Since last friday anyone can get their very own admission ticket to the conference for a limited time offer of 89EUR.
+First and foremost, we've opened ticket sales. Since last friday anyone can get their very own admission ticket to the conference for a limited time offer of 89EUR. We are also preparing a diversity support program, more on that soon.
 
-[![Tickets are on sale](/assets/posts/2017-tickets-full.png)](http://2017.rustfest.eu/)
+[![Tickets are on sale](/assets/posts/2017-tickets-full.png)](http://2017.rustfest.eu/#tickets)
+
 
 ### CfP and Keynotes
 
-On Sunday we've closed our CfP and have started the proposals. Once again we got many more proposals than we can accommodate, but it will be tougher than ever as the submissions are very impressive and diverse. We've left the question of length per talk a bit more open this time, allowing the authors to suggest whether they'll need 15 or 30minutes and we are tinkering with the idea of presenting a lightning-talk like section of those 15min talks. More on all that once we've decided on the final schedule.
+On Sunday we've closed our CfP and have started the review process. Once again we got many more proposals than we can accommodate, but it will be tougher than ever as the submissions are very impressive and diverse. We've left the question of length per talk a bit more open this time, allowing the authors to suggest whether they'll need 15 or 30 minutes and we are tinkering with the idea of presenting a lightning-talk like section of those 15 min talks. More on all that once we've decided on the final schedule.
 
 We've also gotten word back from our keynote speakers and are very excited they've agreed to come. We'll announce them during the next few days, so stay tuned.
 
 ### About Kyiv
 
-In the mean time, you can take a look at the [article Andrey published giving you some more information about Kiyv](http://2017.rustfest.eu/location/) and some travel tips. We'll extend it soon with some more pictures of kyiv and the venue itself. 
+In the mean time, you can take a look at the [article Andrey published giving you some more information about Kyiv](http://2017.rustfest.eu/location/) and some travel tips. We'll extend it soon with some more pictures of Kyiv and the venue itself. 
