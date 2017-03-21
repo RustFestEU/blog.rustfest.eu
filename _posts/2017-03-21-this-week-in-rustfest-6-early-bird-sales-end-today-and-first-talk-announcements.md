@@ -7,9 +7,9 @@ authors:
   - badboy
 ---
 
-## Last day of early birds
+## Don't be late for early birds!
 
-Just a quick reminder that our _early bird sale_ (tickets at 89EUR) _ends today_ at 7pm GMT. From then on, tickets will be sold at the regular price until April 9th. If you were tentative about coming, here are some good reasons:
+Just a quick reminder that our [early bird sale ends today](https://ti.to/asquera-event-ug/rustfest-kyiv) at 7pm GMT. From then on, tickets will be sold at the regular price until April 9th. If you were tentative about coming, here are some good reasons:
 
 ## Announcing the first talks
 
