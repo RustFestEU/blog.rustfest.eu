@@ -16,6 +16,6 @@ Once again, big thanks to 1aim and we're very excited to see them (and you!) at 
 
 ![1aim](/assets/sponsors/1aim.png)
 
-> 1aim is a Berlin-based startup, that develops access control solutions. All our products allow users to unlock doors and manage access rights and open doors with smart phones. Keys and RFID cards are difficult to manage, with lost keys or cards requiring locks to be changed and/or new keys to be issued.
+> 1aim is a Berlin-based startup that develops access control systems. In layman's terms, they build a system that can open any door with any phone. Gone are the days of RFID cards and unwieldy keychains. Instead, keys are sent digitally, making remote management a snap and temporary access simple. 
 >
-> All our hardware and software is developed in-house, at the 1aim offices in Berlin. Yann Leretaille and Torben Friehe, 1aim’s co-founders, believe that the best products are created when engineers with different technical backgrounds work together. This is why mechanical engineers, electrical engineers, embedded software developers, software developers and industrial designers work together at 1aim.
+> 1aim develops all of its hardware and software in-house at their offices in Berlin. In addition to 1aim's sponsorship of last year's Rust Fest, the company's CTO and system architect Yann Leretaille delivered a keynote presentation. 1aim develops all of its hardware and software in-house at their offices in Berlin. They're actively looking to expand their team of developers to support their Rust-powered backend. 
