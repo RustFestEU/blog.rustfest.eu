@@ -18,4 +18,4 @@ Once again, big thanks to 1aim and we're very excited to see them (and you!) at 
 
 > 1aim is a Berlin-based startup that develops access control systems. In layman's terms, they build a system that can open any door with any phone. Gone are the days of RFID cards and unwieldy keychains. Instead, keys are sent digitally, making remote management a snap and temporary access simple. 
 >
-> 1aim develops all of its hardware and software in-house at their offices in Berlin. In addition to 1aim's sponsorship of last year's Rust Fest, the company's CTO and system architect Yann Leretaille delivered a keynote presentation. 1aim develops all of its hardware and software in-house at their offices in Berlin. They're actively looking to expand their team of developers to support their Rust-powered backend. 
+> In addition to 1aim's sponsorship of last year's Rust Fest, the company's CTO and system architect Yann Leretaille delivered a keynote presentation. 1aim develops all of its hardware and software in-house at their offices in Berlin. They're actively looking to expand their team of developers to support their Rust-powered backend.
