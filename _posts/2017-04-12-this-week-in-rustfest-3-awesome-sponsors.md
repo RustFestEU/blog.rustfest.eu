@@ -13,7 +13,7 @@ Thanks to our amazing sponsors we were able to announce two really awesome thing
 
 ## Workshops
 
-One request we heard quite often, was whether we'll be hosting workshops again. And while we always wanted to do it - they have been very popular in the last iteration - we were simply missing the space for it. Until our awesome sponsor Bitfury stepped up. So inspired by the idea of showcasing their Rust and giving others the opportunity to learn Rust to others, they went scouting for a venue and offered to host the full workshop day.
+One request we heard quite often, was whether we'll be hosting workshops again. And while we always wanted to do it - they have been very popular in the last iteration - we were simply missing the space for it... until our awesome sponsor Bitfury stepped up! So inspired by the idea of showcasing their Rust and giving others the opportunity to learn Rust, they went scouting for a venue and offered to host the full workshop day.
 
 Thanks to them, we'll now have four 4h-Workshops (of 25ppl each) during Saturday - light catering included. Bitfury will host one and we intend to have another iteration of RustBridge again. And the best part: **it will be at no extra cost, but is all included in your current ticket**. We'll make an official announcement once all of them are ready to be booked, giving all ticket holders a short advance on picking your favorite workshop. So [better get your ticket now!](https://ti.to/asquera-event-ug/rustfest-kyiv)
 
