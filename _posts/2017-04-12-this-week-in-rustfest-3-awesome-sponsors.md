@@ -22,9 +22,13 @@ Thanks to them, we'll now have four 4h-Workshops (of 25ppl each) during Saturday
 
 Meanwhile, our friends at 1aim also came up with a very special offer. As crossing that distance is a bit more expensive for many than it was last time, we are organising [a ticket raffle with travel sponsorship by 1aim](http://localhost:4000/ticket-raffle): You can enter the raffle by [filling out this form](https://docs.google.com/forms/d/e/1FAIpQLSeGlcRG1ya-g6QwaaWKycppNu4cGW5Yv_IjRxuDVq-K1F1eMQ/viewform) before Monday, April 17th, to get your chance of a free ticket and2200€ of travel expenses. How awesome is that? Pretty darn awesome!
 
+
+### So, please give an extra hand of applause to them awesome sponsors for being awesome!
+
 ---
 
-So, please give an extra hand of applause to them awesome sponsors for being awesome:
+## More Travel Info & Hotel Coupon Code
 
-[![](/assets/posts/2017-sponsors-are-awesome.png)](http://2017.rustfest.eu/sponsoring/)
+Lastly, we've also updated our [travel information and added a more comprehensive hotel section](http://2017.rustfest.eu/travel/#accommodation) to help you pick the right hotel for your budget. And additionally added some more [pictures about kyiv and the venue](http://2017.rustfest.eu/location/) so you can get an impression of the place we are heading to:
 
+[![](/assets/posts/2017-kyiv.png)](http://2017.rustfest.eu/location/)
