@@ -125,3 +125,15 @@ hoverbear:
     - icon: "website"
       title: "hoverbear.org"
       link: "https://hoverbear.org"
+gandro:
+  name: "Sebastian Wicki"
+  nick: "gandro"
+  desc: ""
+  thumbnailUrl: sebastian.png
+  links:
+    - icon: "twitter"
+      title: "gandro23"
+      link: "https://twitter.com/gandro23"
+    - icon: "github"
+      title: "gandro"
+      link: "https://github.com/gandro"
