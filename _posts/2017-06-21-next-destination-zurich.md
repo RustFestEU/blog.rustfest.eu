@@ -9,7 +9,7 @@ authors:
 
 It's time to begin another adventure! After previous fun in Berlin and Kyiv, we're getting ready for Zürich, Switzerland! We hope you'll join us on **September 30th and October 1st, 2017** at [the NO building of ETH](https://www.erdw.ethz.ch/en/department/location.html#no) (follow the "focusTerra" signs!)
 
-<!-- TODO: Insert some cool picture of Zürich -->
+![ETH's NO building in Zürich](/assets/posts/zurich-building.jpg)
 
 **What is Rustfest again?** It's a two day conference involving one day of workshops, and one day of talks! We aim for a diverse set of talks: technical and non-technical, advanced and beginner friendly, live coding and slide based. If you like Rust, the community, or just hacking in general we aim to have something to appeal to you. This year the conference will host up to 300 awesome folks.
 
