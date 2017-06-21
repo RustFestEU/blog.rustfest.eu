@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Next stop: Zürich!"
-socialImageSrc: 'A BIG FAT TODO RIGHT HERE'
+socialImageSrc: "/assets/posts/zurich-building.jpg"
 authors:
   - andrew
   - gandro
