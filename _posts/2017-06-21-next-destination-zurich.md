@@ -7,7 +7,7 @@ authors:
   - gandro
 ---
 
-It's time to begin another adventure! After previous fun in Berlin and Kyiv, we're getting ready for Zürich, Switzerland! We hope you'll join us on **September 30th and October 1st, 2017** at [focusTerra](https://goo.gl/maps/cPY6GJoF8Hm) near ETH.
+It's time to begin another adventure! After previous fun in Berlin and Kyiv, we're getting ready for Zürich, Switzerland! We hope you'll join us on **September 30th and October 1st, 2017** at [the NO building of ETH](https://www.erdw.ethz.ch/en/department/location.html#no) (follow the "focusTerra" signs!)
 
 <!-- TODO: Insert some cool picture of Zürich -->
 
