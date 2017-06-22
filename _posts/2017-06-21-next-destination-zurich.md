@@ -3,13 +3,13 @@ layout: post
 title: "Next stop: Zürich!"
 socialImageSrc: "/assets/posts/zurich-building.jpg"
 authors:
-  - andrew
+  - hoverbear
   - gandro
 ---
 
 It's time to begin another adventure! After previous fun in Berlin and Kyiv, we're getting ready for Zürich, Switzerland! We hope you'll join us on **September 30th and October 1st, 2017** at [the NO building of ETH](https://www.erdw.ethz.ch/en/department/location.html#no) (follow the "focusTerra" signs!)
 
-![ETH's NO building in Zürich](/assets/posts/zurich-building.jpg)
+[![Zurich the city](/assets/posts/zurich-city.jpg)](https://www.flickr.com/photos/lschlagenhauf/16988250961/in/album-72157664912678546/)
 
 **What is Rustfest again?** It's a two day conference involving one day of workshops, and one day of talks! We aim for a diverse set of talks: technical and non-technical, advanced and beginner friendly, live coding and slide based. If you like Rust, the community, or just hacking in general we aim to have something to appeal to you. This year the conference will host up to 300 awesome folks.
 
@@ -32,6 +32,6 @@ It's time to begin another adventure! After previous fun in Berlin and Kyiv, we'
 
 **Want to help organize?** If you'd like to be part of our organizing team please introduce yourself and let us know at [team@rustfest.eu](mailto:team@rustfest.eu). We prefer it if team members are interested in helping for multiple events, especially if you might be interested in helping bring a Rustfest to your area.
 
-<!-- TODO: Another cool Zürich picture -->
+![ETH's NO building in Zürich](/assets/posts/zurich-building.jpg)
 
 So, we hope to see you soon in Zürich! Keep hacking and remember that the compiler is your friend!
