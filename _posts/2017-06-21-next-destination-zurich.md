@@ -24,8 +24,6 @@ It's time to begin another adventure! After previous fun in Berlin and Kyiv, we'
 
 **Want to volunteer?** It's great to have a few locals who'd like to help attendees enjoy the experience. If you'd like to help guide a cohort of fellow hackers to your favorite restaurant, give directions, or just generally help out and make a bunch of awesome friends please [let us know here](https://github.com/RustFestEU/blog.rustfest.eu/issues/12).
 
-<!-- TODO: Insert thing from our friends -->
-
 **Barriers to participating?** Not all of us can easily attend these events for a variety of reasons. Shortly after the CFP is released we'll be working with [Diversity Tickets](https://diversitytickets.org/) again, as well as holding an event (above) which you could participate in. If the ticket cost itself is your only barrier, let us know. Want to sponsor someone?
 
 **Want to help someone else attend? Company with a budget??** We will be issuing supporter tickets as well, which will mean a second ticket is allocated to someone who could use help attending. If you can, consider helping our fellow community members.
