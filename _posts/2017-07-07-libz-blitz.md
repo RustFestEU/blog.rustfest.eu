@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Get In the swing with the Libz Blitz Contest: Win Free Tickets to Zurich!"
+title: "Get in the Swing with the Libz Blitz Contest: Win Free Tickets to Zurich!"
 authors:
   - hoverbear
 ---
