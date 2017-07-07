@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "TWIRF: CFP Open and Lib Blitz Contest"
+title: "TWIRF: CFP Open and Libz Blitz Contest"
 authors:
   - hoverbear
+  - dns2utf8
 ---
 
 After our meeting this week we finally made the big step: **Releasing the CFP**. How awesome is that!? Now you can submit your creative, original, and fun talk!
@@ -12,10 +13,10 @@ After our meeting this week we finally made the big step: **Releasing the CFP**.
 Some ideas to talk about:
 
 * Your favorite project.
-* The time you found a nasty bug (and fixed it!)
+* The time you found a nasty bug (and fixed it!).
 * How to approach common problems.
 * How to **avoid** common problems.
-* Explain something most people don't understand (lifetimes? burritos?)
+* Explain something most people don't understand (lifetimes? burritos?).
 
 First time speaking? That's OK! We'd love to have you. Nervous? It's ok, we get nervous too. It'll be awesome, no worries.
 
