@@ -5,7 +5,7 @@ authors:
   - hoverbear
 ---
 
-Our incredible friends at Berlin's **[1aim](http://1aim.com/)**, along with some help from the venerable **Rust core team** member **[Brian Anderson (brson)](https://github.com/brson/)**, are at it again with another way to help you get your butt to **Rustfest**, so you can mix, mingle and learn with other members of our community.
+Our incredible friends at Berlin's **[1aim](http://1aim.com/)**, along with some help from the venerable Rust core team member **[Brian Anderson (brson)](https://github.com/brson/)**, are at it again with another way to help you get your butt to **Rustfest**, so you can mix, mingle and learn with other members of our community.
 
 This time around, we're having a contest! It's part of the **[libz blitz](https://blog.rust-lang.org/2017/05/05/libz-blitz.html)**, and is focused on getting you familiar with some well-used crates, as well as more of our community members.
 
