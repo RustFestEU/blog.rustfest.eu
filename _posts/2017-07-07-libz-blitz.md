@@ -31,7 +31,7 @@ This time around, we're having a contest! It's part of the **[libz blitz](https:
 
 - Decide if you want to do a crate evaluation, or work on issues.
 - Pick a crate or issues from **[this list](https://internals.rust-lang.org/t/rust-libz-blitz/5184)**.
-- Join **[#rust-libs](https://kiwiirc.com/client/irc.mozilla.org/?nick=libblitzer|?#rust-libs)** to receive mentoring and advice.
+- Join **<a href="https://kiwiirc.com/client/irc.mozilla.org/?nick=libblitzer|?#rust-libs>#rust-libs</a>** to receive mentoring and advice.
 
 **You** can also contact **Brian (brson on irc)** directly with questions.
 
