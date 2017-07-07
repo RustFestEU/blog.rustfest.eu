@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TWIRF: CFP Open and Libz Blitz Contest"
+title: "TWIRF1: CFP Open and Libz Blitz Contest"
 authors:
   - hoverbear
   - dns2utf8
