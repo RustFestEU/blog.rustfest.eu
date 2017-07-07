@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Get Down and Dirty at the ***Libz Blitz Contest***: Win Free Tickets to Zurich!"
+title: "Get Down and Dirty at the Libz Blitz Contest: Win Free Tickets to Zurich!"
 authors:
   - hoverbear
 ---
@@ -41,13 +41,13 @@ The community peforms the evaluations on the **[Rust internals forum](f)** under
 
 Heading up  a crate evaluation is a multi-week process that involves:
 
-1. Opening an internals thread to host the discussion.
-1. Soliciting others to assess the crate using **[Rust API guidelines](g)**.
-1. Ensuring the Rust API guidelines are evaluated.
-1. Soliciting new recipes for the **[Rust Cookbook](c)**.
-1. Filing resultant issues against the crate.
-1. Ensuring they are completed.
-1. Finally, finishing an evaluation to get a reward.
+- Opening an internals thread to host the discussion.
+- Soliciting others to assess the crate using **[Rust API guidelines](g)**.
+- Ensuring the Rust API guidelines are evaluated.
+- Soliciting new recipes for the **[Rust Cookbook](c)**.
+- Filing resultant issues against the crate.
+- Ensuring they are completed.
+- Finally, finishing an evaluation to get a reward.
 
 [lb]: https://internals.rust-lang.org/t/rust-libz-blitz/5184
 [f]: http://internals.rust-lang.org/
