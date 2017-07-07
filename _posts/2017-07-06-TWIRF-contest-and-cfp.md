@@ -22,6 +22,6 @@ First time speaking? That's OK! We'd love to have you. Nervous? It's ok, we get 
 
 ## Libz Blitz
 
-You may have heard about the Rust [libz blitz](https://blog.rust-lang.org/2017/05/05/libz-blitz.html). We think it's an amazing initiative, and our friends at [1aim](https://1aim.com/) agree, in an effort to support the blitz *and* help people come to RustFest we're going to be offering conference packages (hotel, ticket, and some flight costs) to 15 participants who sign up to help with the initiative.
+You may have heard about the Rust [libz blitz](https://blog.rust-lang.org/2017/05/05/libz-blitz.html). We think it's an amazing initiative, and our friends at [1aim](https://1aim.com/) agree. In an effort to support the blitz *and* help people come to RustFest we're going to be offering conference packages (hotel, ticket, and some flight costs) to 15 participants who sign up to help with the initiative.
 
 [**Learn more and sign up here!**](/libz-blitz)
