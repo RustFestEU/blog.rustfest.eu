@@ -24,7 +24,7 @@ First time speaking? That's OK! We'd love to have you. Nervous? It's ok, we get 
 
 We've resumed our weekly meetings (often spanning several timezones and countries) to bring together this event. Back in Berlin, we've been drawing together the plans for workshops with our old friends [Parity](https://parity.io/). Also in Berlin, our friends at [1aim](https://1aim.com) have been putting together a contest to help with the libz blitz (more on that below). Over in America, some of our organizers have been in touch with (and part of) the team at [Rust Belt Rust](http://rust-belt-rust.com/) to support each other and learn each others lessons. Across the globe we've been coordinating with various [Mozillians](http://mozilla.org) as well as community members to support our attendees and speakers.
 
-Local, in Zürich, we've been exploring (delicious) catering options. On campus, we've been exploring [ETH](https://www.ethz.ch/) to scope out an amazing atmosphere and setting for the event. We've even been thinking about offering screenprinting, [let us know if you're interested.](https://github.com/RustFestEU/blog.rustfest.eu/issues/16). We can't wait to share this event with you!
+Local, in Zürich, we've been exploring (delicious) catering options. On campus, we've been exploring [ETH](https://www.ethz.ch/) to scope out an amazing atmosphere and setting for the event. We've even been thinking about offering screenprinting, [let us know if you're interested.](https://github.com/RustFestEU/blog.rustfest.eu/issues/16). Finally, we've been eagerly following the [Rust Zürichsee chapter](https://github.com/rust-zurichsee/meetups). We can't wait to share this event with you!
 
 ## Libz Blitz
 
