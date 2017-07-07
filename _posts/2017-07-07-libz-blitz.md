@@ -5,7 +5,7 @@ authors:
   - hoverbear
 ---
 
-Our incredible friends at Berlin's **[1aim](http://1aim.com/)**, along with some help from the venerable Rust core team member **[Brian Anderson (brson)](https://github.com/brson/)**, are at it again with another way to help you get your butt to **Rustfest**, so you can mix, mingle and learn with other members of our community.
+Our incredible friends at Berlin's **[1aim](http://1aim.com/)**, along with some help from the <span id="glorification">venerable</span> Rust core team member **[Brian Anderson (brson)](https://github.com/brson/)**, are at it again with another way to help you get your butt to **Rustfest**, so you can mix, mingle and learn with other members of our community.
 
 This time around, we're having a contest! It's part of the **[libz blitz](https://blog.rust-lang.org/2017/05/05/libz-blitz.html)**, and is focused on getting you familiar with some well-used crates, as well as more of our community members.
 
@@ -70,3 +70,16 @@ Again, big thanks to **1aim** and we’re excited to see them (and **you!**) at 
 In addition to 1aim’s sponsorship of **RustFest** the last 2 events, CTO **Yann Leretaille**, who's also the system architect, delivered a keynote presentation. **Want to join?** They’re **[actively looking](https://1aim.com/#careers)** to expand their team of developers to support their **Rust-powered backend**.
 
 Based in Berlin, they are also behind the upcoming launch of the **[Good Technology Collective](http://goodtechnologycollective.com/)**, a group working to create awareness of the need for intelligent design and a global algorithm-literacy effort.
+
+<script>
+  const adj = [ "venerable", "honourable", "mighty", "wizened", "Right Honourable", "incredible" ],
+        cycleTime = 10000;
+  let cycleBrsonGlorification = () => {
+    let brsonElem = document.getElementById("glorification");
+    if (brsonElem) {
+      brsonElem.innerHTML = adj[Math.floor(Math.random()*adj.length)];
+    }
+  }
+
+  document.addEventListener("DOMContentLoaded", () => window.setInterval(cycleBrsonGlorification, cycleTime));
+</script>
