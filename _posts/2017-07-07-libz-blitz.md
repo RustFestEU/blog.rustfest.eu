@@ -73,7 +73,7 @@ Based in Berlin, they are also behind the upcoming launch of the **[Good Technol
 
 <script>
   const adj = [ "venerable", "honourable", "mighty", "wizened", "Right Honourable", "incredible" ],
-        cycleTime = 10000;
+        cycleTime = 4000;
   let cycleBrsonGlorification = () => {
     let brsonElem = document.getElementById("glorification");
     if (brsonElem) {
