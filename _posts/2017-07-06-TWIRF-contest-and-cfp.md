@@ -8,7 +8,7 @@ authors:
 
 After our meeting this week we finally made the big step: **Releasing the CFP**. How awesome is that!? Now you can submit your creative, original, and fun talk!
 
-[**Submit your proposal or learn more here!**](http://cfp.rustfest.eu/)
+[**Submit your proposal or learn more here!**](https://cfp.rustfest.eu/)
 
 Some ideas to talk about:
 
