@@ -81,5 +81,6 @@ Based in Berlin, they are also behind the upcoming launch of the **[Good Technol
     }
   }
 
-  document.addEventListener("DOMContentLoaded", () => window.setInterval(cycleBrsonGlorification, cycleTime));
+  document.addEventListener("DOMContentLoaded", cycleBrsonGlorification);
+  window.setInterval(cycleBrsonGlorification, cycleTime);
 </script>
