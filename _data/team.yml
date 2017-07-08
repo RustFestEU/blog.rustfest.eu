@@ -18,6 +18,7 @@ badboy:
   nick: "BadBoy"
   desc: ""
   thumbnailUrl: badboy.jpg
+  alumn: true
   links:
     - icon: "twitter"
       title: "badboy_"
@@ -34,6 +35,7 @@ emma:
   desc: ""
   title: "HoneyPot.IO"
   thumbnailUrl: emma.jpg
+  alumn: true
   links:
   - icon: "github"
     title: "emmalou"
@@ -51,19 +53,20 @@ ben:
   thumbnailUrl: ben.jpg
   links:
     - icon: "twitter"
-      title: "gnunicorn"
-      link: "https://twitter.com/gnunicorn"
+      title: "SirDonQui"
+      link: "https://twitter.com/SirDonQui"
     - icon: "github"
-      title: "gnunicorn"
-      link: "https://github.com/gnunicorn"
+      title: "ligthyear"
+      link: "https://github.com/ligthyear"
     - icon: "website"
-      title: "gnunicorn.org"
-      link: "http://www.gnunicorn.org/"
+      title: "create-build-execute.com"
+      link: "http://www.create-build-execute.com/"
 johanna:
   name: Johanna Dahlroos
   nick: "Johanna"
   desc: ""
   thumbnailUrl: johanna.jpg
+  alumn: true
   links:
     - icon: "twitter"
       title: "batjohe"
@@ -86,6 +89,18 @@ skade:
     - icon: "website"
       title: "asquera.de"
       link: "http://asquera.de/"
+katsel:
+  name: "Katharina Hößel"
+  nick: "katsel"
+  desc: ""
+  thumbnailUrl: katharina.jpg
+  links:
+    - icon: "twitter"
+      title: "_katsel"
+      link: "https://twitter.com/_katsel"
+    - icon: "github"
+      title: "katsel"
+      link: "https://github.com/katsel"
 andrey:
   name: "Andrey Listochkin"
   nick: "listochkin"
@@ -125,6 +140,15 @@ hoverbear:
     - icon: "website"
       title: "hoverbear.org"
       link: "https://hoverbear.org"
+thomascovenant:
+  name: "Dina-Solveig Jalkanen"
+  nick: "thomascovenant"
+  desc: ""
+  thumbnailUrl: dina.jpg
+  links:
+    - icon: "website"
+      title: "Tech Inc Wiki"
+      link: "https://wiki.techinc.nl/index.php/User:Thomascovenant"
 gandro:
   name: "Sebastian Wicki"
   nick: "gandro"
@@ -137,3 +161,30 @@ gandro:
     - icon: "github"
       title: "gandro"
       link: "https://github.com/gandro"
+vasia:
+  name: "Vasia Kalavri"
+  nick: "vasia"
+  desc: ""
+  thumbnailUrl: vasia.png
+  links:
+    - icon: "twitter"
+      title: "vkalavri"
+      link: "https://twitter.com/vkalavri"
+    - icon: "github"
+      title: "vasia"
+      link: "https://github.com/vasia"
+dns2utf8:
+  name: "Stefan Schindler"
+  nick: "dns2utf8"
+  desc: ""
+  thumbnailUrl: dns2utf8.jpg
+  links:
+    - icon: "twitter"
+      title: "dns2utf8"
+      link: "https://twitter.com/dns2utf8"
+    - icon: "github"
+      title: "dns2utf8"
+      link: "https://github.com/dns2utf8"
+    - icon: "website"
+      title: "estada.ch"
+      link: "http://estada.ch"
