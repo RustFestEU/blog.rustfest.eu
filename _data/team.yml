@@ -189,3 +189,15 @@ dns2utf8:
     - icon: "website"
       title: "estada.ch"
       link: "http://estada.ch"
+adolfo:
+  name: "Adolfo Ochagavía"
+  nick: "aochagavia"
+  desc: ""
+  thumbnailUrl: adolfo.jpg
+  links:
+    - icon: "github"
+      title: "aochagavia"
+      link: "https://github.com/aochagavia"
+    - icon: "website"
+      title: "aochagavia.github.io"
+      link: "https://aochagavia.github.io"
