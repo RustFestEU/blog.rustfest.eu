@@ -53,11 +53,11 @@ ben:
   thumbnailUrl: ben.jpg
   links:
     - icon: "twitter"
-      title: "SirDonQui"
-      link: "https://twitter.com/SirDonQui"
+      title: "gnunicornBen"
+      link: "https://twitter.com/gnunicornBen"
     - icon: "github"
-      title: "ligthyear"
-      link: "https://github.com/ligthyear"
+      title: "gnunicorn"
+      link: "https://github.com/gnunicorn"
     - icon: "website"
       title: "create-build-execute.com"
       link: "http://www.create-build-execute.com/"
@@ -94,6 +94,7 @@ katsel:
   nick: "katsel"
   desc: ""
   thumbnailUrl: katharina.jpg
+  alumn: true
   links:
     - icon: "twitter"
       title: "_katsel"
