@@ -50,6 +50,7 @@ Heading up  a crate evaluation is a multi-week process that involves:
 - Finally, finishing an evaluation to get a reward.
 
 [lb]: https://internals.rust-lang.org/t/rust-libz-blitz/5184
+[g]: https://github.com/brson/rust-api-guidelines
 [f]: http://internals.rust-lang.org/
 [c]: http://github.com/brson/rust-cookbook
 
