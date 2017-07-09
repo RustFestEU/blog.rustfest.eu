@@ -35,16 +35,16 @@ This time around, we're having a contest! It's part of the **[libz blitz](https:
 
 **You** can also contact **Brian (brson on irc)** directly with questions.
 
-The core activity of the **[libz blitz](lb)** is evaluating key Rust crates.
+The core activity of the **[libz blitz][lb]** is evaluating key Rust crates.
 
-The community peforms the evaluations on the **[Rust internals forum](f)** under the leadership of a “crate evaluation lead.”
+The community peforms the evaluations on the **[Rust internals forum][f]** under the leadership of a “crate evaluation lead.”
 
 Heading up  a crate evaluation is a multi-week process that involves:
 
 - Opening an internals thread to host the discussion.
-- Soliciting others to assess the crate using **[Rust API guidelines](g)**.
+- Soliciting others to assess the crate using **[Rust API guidelines][g]**.
 - Ensuring the Rust API guidelines are evaluated.
-- Soliciting new recipes for the **[Rust Cookbook](c)**.
+- Soliciting new recipes for the **[Rust Cookbook][c]**.
 - Filing resultant issues against the crate.
 - Ensuring they are completed.
 - Finally, finishing an evaluation to get a reward.
