@@ -12,9 +12,12 @@ For this event [Parity](https://parity.io/) is our biggest benefactor.
 
 # Hotels
 
-https://www.zuerich.com/en/visit/rustfest-zuerich (this is a batch of pre-allocated hotel rooms for our attendees (valid until end of august))
+We managed to get a deal for hotels with Zürich Tourism.
+They allocated rooms for our attendees which are 10% reduced.
+The offer is valid until the end of august: [Open offer](https://www.zuerich.com/en/visit/rustfest-zuerich)
 
-...
+While booking hotels for Zürich consider the following:
+
 
 # Announcing first batch of tickets
 
