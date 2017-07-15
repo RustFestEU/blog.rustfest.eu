@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TWIRF2: Hotels, Tickets (soon)"
+title: "This week in RustFest 2: Hotels and locals"
 authors:
   - dns2utf8
   - hoverbear
