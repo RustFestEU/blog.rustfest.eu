@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Supporter Tickets on-sale, Diversity Ticket applications now open"
+title: "This week in RustFest 5: Supporter Tickets on-sale, Diversity Ticket applications open"
 socialImageSrc: '/assets/posts/diversityticketsorg.png'
 authors:
   - flaki

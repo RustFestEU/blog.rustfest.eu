@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This week in RustFest 3: Operating an international conference"
+title: "This week in RustFest 4: Operating an international conference"
 authors:
   - hoverbear
   - andrey
