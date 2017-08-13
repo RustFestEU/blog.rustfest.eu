@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "This week in RustFest 6: CFP finalisation"
+title: "This week in RustFest 6: Talk Selection"
 authors:
   - dns2utf8
 ---
 
-This week we finalised the CFP. It was amazing to see many quality proposals from a variety of areas, disciplines, and backgrounds. This weekend we spent hours trying to put together a topic spanning conference lineup building on topics we haven't covered at Rustfest, as well as talks featuring the evolution of the story we continue to follow in topics we have visited in previous Rustfests. We're excited to send out mails to new speakers as well as returning speakers.
+This week we finalised the CFP. It was amazing to see many quality proposals from a variety of areas, disciplines, and backgrounds. This weekend we spent hours reviewing proposals and putting together the conference lineup. We did our best to cover both topics we yet haven't seen at Rustfest, as well as talks featuring the evolution of topics we have previously visited.
 
 ![XKCD Joke involving email backlog. Stick person 1: "Do you have any New Years Resolutions", Stick person 2: "Gonna finally finish dealing with those emails from 2008", Slugline: "As my Email backlog approaches 10 years, I' m starting to have doubts about my approach."](https://imgs.xkcd.com/comics/emails.png)
 
