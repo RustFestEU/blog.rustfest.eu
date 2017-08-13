@@ -11,12 +11,12 @@ This week we finalised the CFP. It was amazing to see many quality proposals fro
 
 We will be sending out emails to the accepted speakers over the next few days. If you submitted something please check your `SPAM` and `JUNK` folders if you haven't heard anything by Tuesday evening.
 
-In case you submitted a proposal
-
 # Preliminary schedule
-We have 3 15 minutes slots and 12 30 minutes slots.
-Starting at 8:30 we are planning a day packed with intersting talks covering everything from tinkering to computer science and industrial deployment.
+
+We are currently planning to have 12 half hour talks, and 3 quarter hour talks on Saturday. The day will start at 8:30am and run until the evening. Talks will range from beginner to advanced topics, including explorations of macros, type system trickery, academic applications, industrial use cases, and of course, gaming 🎮!
+
+Then, on Sunday there will be 4+ hour workshops on Sunday that you can visit depending on your interests. We're also trying to plan an interesting surprise on Sunday, but this is still up for debate.
 
 # Workshops
-We are working out how many worksops we can have currently.
-Safe to say, we never had that many at RustFest.
+
+At this time we have not selected workshops as we are still not sure how many workshops we will be able to host. We are hoping to sort this out soon™. So please don't get disappointed if we don't email you about your workshop in the next few days!
