@@ -21,3 +21,12 @@ TODO: outline timeline for sales
 ## Diversity tickets
 
 TODO: resumé
+
+# Around the conference
+
+
+
+# Hotels
+
+Finally just a quick reminder, Zürich Tourism has reserved rooms for our attendees that are 10% off.
+The offer is valid until the end of august: [Zürich Tourism Offer](https://www.zuerich.com/en/visit/rustfest-zuerich)
