@@ -3,6 +3,7 @@ layout: post
 title: "Let there be Speakers! (also, more tickets)"
 authors:
   - hoverbear
+  - dns2utf8
 ---
 
 More is better right? This week we're releasing more tickets, announcing our first speakers, and welcoming our friends at 1aim back to RustFest!
@@ -38,7 +39,7 @@ In the meanwhile, please whet your appetite a bit on this brief intro to the wor
 >
 > Based in Berlin, they are also behind the upcoming launch of the **[Good Technology Collective](http://goodtechnologycollective.com/)**, a group working to create awareness of the need for intelligent design and a global algorithm-literacy effort.
 
-Interested in hacking or reviewing some of their stuff? [Follow this link to Github!](https://github.com/1aim).
+Interested in hacking or reviewing some of their stuff? [Follow this link to Github!](https://github.com/1aim)
 
 # Speakers: The First Three (and a workshop!)
 
@@ -102,3 +103,15 @@ Yeah, bet you thought you'd only get 0 or 1 poems didn't you? Well you get **two
 Finally, we've confirmed one of our workshops! **RustBridge** hosted by [**Ashley Williams**](https://github.com/ashleygwilliams) will be a part of our Sunday workshop day in Zürich. This workshop will be catered towards people new to the Rust community. If this is your first blush with Rust consider attending this workshop to help you hit the ground running.
 
 We'll be announcing further speakers (and putting up a nice schedule) soon! Keep your eyes peeled.
+
+# FAQ for speakers
+
+As we are looking forward to the talks some technical questions arise.
+Here are some answers to questions you might have:
+
+* The beamer will have a
+    * 16:9 ration with the resolution 1920x1080, please fill the screen
+    * HDMI and VGA connection
+* There will be WiFi all over the campus
+* You can borrow a [clicker/presenter](http://www.logitech.com/en-gb/product/wireless-presenter-r400-business) from us, nothing fancy
+* If you go over time we may cut you short, so please be timely.
