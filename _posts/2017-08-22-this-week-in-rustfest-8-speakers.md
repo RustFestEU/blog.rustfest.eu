@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Let there be Speakers! (also, more tickets)"
+title: "This Week in RustFest 8: Let there be Speakers! (also, more tickets)"
 authors:
   - hoverbear
   - dns2utf8
