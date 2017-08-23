@@ -21,27 +21,7 @@ With our first batch of tickets totally exhausted we're very happy to announce t
 
 Also, consider looking for your hotels via the [Zürich Tourism Offer](https://www.zuerich.com/en/visit/rustfest-zuerich) for 10% off rooms.
 
-# Our Friends at 1aim 
-
-<div style="text-align: center">
-  <img alt="1aim Logo" src="/assets/sponsors/1aim.svg"/>
-</div>
-
-For the third(!) time at RustFest our friends at 1aim are once again joining us in Zürich! We're very excited to welcome them back. As a company that has been using Rust in production for years now 1aim brings not only altruism (see [libz blitz](http://blog.rustfest.eu/libz-blitz)) and financial stability, they also bring a huge amount of expertise that they are eager to share.
-
-As with previous years 1aim's Yann Leretaille will be helping host our web workshop, hosted again in its traditional ad-hoc lightning-talk style. We'll talk about this more when we put up an offical list of workshops!
-
-In the meanwhile, please whet your appetite a bit on this brief intro to the work of 1aim:
-
-> **[1aim](https://1aim.com/)** is redefining how buildings work and how we relate to the objects around us. They’re a people-centric company that combines excellence in mechanical, electrical and software engineering with an intelligent approach to design to create the best access control systems ever built. Each product has hardware, software and server infrastructure components. All product development is done in-house. Their flagship product is LightAccess Pro, the access control solution of the future.
->
-> In addition to 1aim’s sponsorship of **RustFest** the last 2 events, CTO **Yann Leretaille**, who's also the system architect, delivered a keynote presentation. **Want to join?** They’re **[actively looking](https://1aim.com/#careers)** to expand their team of developers to support their **Rust-powered backend**.
->
-> Based in Berlin, they are also behind the upcoming launch of the **[Good Technology Collective](http://goodtechnologycollective.com/)**, a group working to create awareness of the need for intelligent design and a global algorithm-literacy effort.
-
-Interested in hacking or reviewing some of their stuff? [Follow this link to Github!](https://github.com/1aim)
-
-# Speakers: The First Three (and a workshop!)
+# Speakers: The First Three (& workshop!)
 
 Without further ado, here are our first three speakers as well as small abstracts about their talks:
 
@@ -103,6 +83,27 @@ Yeah, bet you thought you'd only get 0 or 1 poems didn't you? Well you get **two
 Finally, we've confirmed one of our workshops! **RustBridge** hosted by [**Ashley Williams**](https://github.com/ashleygwilliams) will be a part of our Sunday workshop day in Zürich. This workshop will be catered towards people new to the Rust community. If this is your first blush with Rust consider attending this workshop to help you hit the ground running.
 
 We'll be announcing further speakers (and putting up a nice schedule) soon! Keep your eyes peeled.
+
+
+# Our Friends at 1aim
+
+<div style="text-align: center">
+  <img alt="1aim Logo" src="/assets/sponsors/1aim.svg"/>
+</div>
+
+For the third(!) time at RustFest our friends at 1aim are once again joining us in Zürich! We're very excited to welcome them back. As a company that has been using Rust in production for years now 1aim brings not only altruism (see [libz blitz](http://blog.rustfest.eu/libz-blitz)) and financial stability, they also bring a huge amount of expertise that they are eager to share.
+
+As with previous years 1aim's Yann Leretaille will be helping host our web workshop, hosted again in its traditional ad-hoc lightning-talk style. We'll talk about this more when we put up an offical list of workshops!
+
+In the meanwhile, please whet your appetite a bit on this brief intro to the work of 1aim:
+
+> **[1aim](https://1aim.com/)** is redefining how buildings work and how we relate to the objects around us. They’re a people-centric company that combines excellence in mechanical, electrical and software engineering with an intelligent approach to design to create the best access control systems ever built. Each product has hardware, software and server infrastructure components. All product development is done in-house. Their flagship product is LightAccess Pro, the access control solution of the future.
+>
+> In addition to 1aim’s sponsorship of **RustFest** the last 2 events, CTO **Yann Leretaille**, who's also the system architect, delivered a keynote presentation. **Want to join?** They’re **[actively looking](https://1aim.com/#careers)** to expand their team of developers to support their **Rust-powered backend**.
+>
+> Based in Berlin, they are also behind the upcoming launch of the **[Good Technology Collective](http://goodtechnologycollective.com/)**, a group working to create awareness of the need for intelligent design and a global algorithm-literacy effort.
+
+Interested in hacking or reviewing some of their stuff? [Follow this link to Github!](https://github.com/1aim)
 
 # FAQ for speakers
 
