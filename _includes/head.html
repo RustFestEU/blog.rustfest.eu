@@ -13,7 +13,7 @@
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="{{ site.twitter_username }}">
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta name="twitter:description" content="{{ site.description }}">
+  <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 
   {% if page.socialImageSrc %}
     <meta name="twitter:image:src" content="{{ page.socialImageSrc | prepend: site.baseurl | prepend: site.url }}" />
@@ -30,7 +30,7 @@
   {% else %}
     <meta property="og:image" content="{{ site.socialImageSrcFacebook | prepend: site.baseurl | prepend: site.url }}" />
   {% endif %}
-  <meta property="og:description" content="{{ site.description }}" />
+  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
 
   <title>{% if page.title %}{{ page.title }} &bull; {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
   <link rel="shortcut icon" href="{{ "/img/favicons/favicon.ico" | prepend: site.baseurl }}">

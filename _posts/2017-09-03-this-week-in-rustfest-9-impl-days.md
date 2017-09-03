@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "This Week in RustFest 9: Impl Days"
+description: "Announcing Impl Days, a post-RustFest get-together and fun hackery in Zürich sponsored by Mozilla"
 authors:
   - hoverbear
 ---
@@ -9,7 +10,7 @@ Last TWIRF we teased a thing we were planning with Mozilla, this week we want to
 
 # Impl Days After the Conference
 
-Immediately following the conference, on October 2nd and 3rd, we're currently planning a nice get together with some folks from the community as well as the Rust Team. 
+Immediately following the conference, on October 2nd and 3rd, we're currently planning a nice get together with some folks from the community as well as the Rust Team.
 
 The topic of the get together will be to work on topics related to the [`impl` period](https://internals.rust-lang.org/t/announcing-the-impl-period-sep-18-dec-17/5676). It will be a great chance for you to work on things with your newfound (or old) friends. It will be "bring your own food" (or just go out for lunch), and while there will be some content organized by the Rust Team members present, most things will be ad-hoc. We're hoping to get somewhere in the ballpark of 40 people involved.
 
