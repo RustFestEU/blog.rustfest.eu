@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This Week in RustFest 9: Workshop & Speaker Announcements"
+title: "This Week in RustFest 10: Workshop & Speaker Announcements"
 description: "The announcements and news of the week."
 authors:
   - hoverbear
