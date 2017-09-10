@@ -34,3 +34,13 @@ This week we also confirmed two more workshops alongside the already announced R
 ## Libz Blitz Finishes
 
 This week Libz Blitz participants recieved their final confirmations and sponsorships. Congratulations to our participants: You supported the Rust community, and our friends at 1aim are very proud to support you on your journey to RustFest. Thank you!
+
+## Our Friends at ThoughtWorks
+
+We're happy to welcome back [ThoughtWorks](https://www.thoughtworks.com/) as a sponsor for Zürich. ThoughtWorks was the host venue of our first RustBridge back in Berlin. We reached out to our friend Lisa there and she gave us this little synopsis of ThoughtWorks:
+
+[![ThoughtWorks](assets/sponsors/thoughtworks_black.png)](https://www.thoughtworks.com/)
+
+> We are a software company and a community of passionate, purpose-led individuals.
+>
+> We think disruptively to deliver technology to address our clients' toughest challenges, all while seeking to revolutionize the IT industry and create positive social change.
