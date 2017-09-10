@@ -10,7 +10,7 @@ This week we announced some speakers, confirmed some workshops, and prepped for 
 
 ## More Tickets
 
-We'll be releasing another batch of tickets on Monday Sept 11. This will be your last chance to get a normal (or student) ticket for RustFest. As before you'll be able to purchase your tickets via [🎟 this link 🎟](https://ti.to/asquera-event-ug/rustfest-zurich/). We hope to see you there!
+We'll be releasing another batch of tickets on Monday Sept 11 at 00:01. This will be your last chance to get a normal (or student) ticket for RustFest. As before you'll be able to purchase your tickets via [🎟 this link 🎟](https://ti.to/asquera-event-ug/rustfest-zurich/). We hope to see you there!
 
 ## Speaker/Workshop Announcements
 
