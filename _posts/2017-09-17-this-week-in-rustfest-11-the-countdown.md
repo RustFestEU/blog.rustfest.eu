@@ -27,14 +27,14 @@ We may have found a childcare provider for the duration of the conference. Befor
 
 This week we ran out of our allocated suppply of student tickets. This is both amazing and awful. It's amazing because it means we have lots of fantastic students to welcome to the conference. It's awful because it means we can't offer more tickets at this time. We can't wait to meet all of our studious attendees in Zürich!
 
-## Impl Days are comming
+## Impl Days are coming
 
 The impl days are a place to learn, meet, share and hack with friendly people from the rust community.
-In the wo days (Monday 2017-10-02 and Thuesday 2017-10-03) after the conference we are going to work on ervery thing in the rust ecosystem from the compiler to crates.
-With the support of our friends at [mozilla](https://mozilla.org) we can provide some drinks and some snacks during the days. 
-However we will not organise catering, because there are many good places for food to go to or buy foot to the room in the area. 
+In the two days (Monday 2017-10-02 and Tuesday 2017-10-03) after the conference we are going to work on every thing in the Rust ecosystem from the compiler to crates.
+With the support of our friends at [Mozilla](https://mozilla.org) we can provide some drinks and some snacks during the days. 
+However there will not be catering, there are many good places to get food in the area. 
 This will keep it flexible and spontanous.
 
-You do not have to stay the whole two days to join us. 
+Just coming one day? That's ok too!
 Never the less please add yourself to [the list](https://github.com/RustFestEU/blog.rustfest.eu/issues/29) so we have a rough idea who will come.
 It is also a good place to add a note if you have a special project you are working on or are interested in or if you know already that you can only stay one day.
