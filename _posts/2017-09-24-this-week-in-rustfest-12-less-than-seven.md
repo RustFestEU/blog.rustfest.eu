@@ -51,7 +51,12 @@ With all our workshops finalized we're happy to share with you entire lineup! Se
 
 ## Impl Days Space
 
-We have found a space for the Impl Days. You can find us on Monday and Tuesday here at [Quartierhaus Kreis 5, Sihlquai 115](https://www.openstreetmap.org/way/70730651) owned by [the city of Zürich](http://www.stadt-zuerich.ch/quartierhaus5). As you can see there is a small kitchen we'll be able to use as well as some leisure and lounge space.
+We have found a space for the Impl Days. You can find us on Monday and Tuesday here at
+<pre><a href="https://www.openstreetmap.org/way/70730651">    Quartierhaus Kreis 5
+    Sihlquai 115
+    8005 Zürich
+</a></pre>
+owned by [the city of Zürich](http://www.stadt-zuerich.ch/quartierhaus5). As you can see there is a small kitchen we'll be able to use as well as some leisure and lounge space.
 
 ![impl days room](/assets/posts/twirf-12/impl-1.jpg)
 ![impl days room](/assets/posts/twirf-12/impl-2.jpg)
