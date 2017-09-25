@@ -50,7 +50,7 @@ With all our workshops finalized we're happy to share with you entire lineup! Se
 
 ## Impl Days Space
 
-We have found a space for the Impl Days. You can find us on Monday and Tuesday at (TODO: ADDRESS). As you can see there is a small kitchen we'll be able to use as well as some leisure and lounge space.
+We have found a space for the Impl Days. You can find us on Monday and Tuesday [here](http://www.stadt-zuerich.ch/quartierhaus5), Quartierhaus Kreis 5, Sihlquai 115. As you can see there is a small kitchen we'll be able to use as well as some leisure and lounge space.
 
 ![impl days room](/assets/posts/twirf-12/impl-1.jpg)
 ![impl days room](/assets/posts/twirf-12/impl-2.jpg)
