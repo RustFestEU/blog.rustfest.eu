@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "This Week in RustFest 12: 2nd Keynote, Schedule, Emcee, Workshops"
-description: "A second Keynote (Felix), schedule released, Embee announced (Pascal), Workshops detailed."
+description: "A second Keynote (Felix), schedule released, Emcee announced (Pascal), Workshops detailed."
 authors:
   - hoverbear
   - dns2utf8
