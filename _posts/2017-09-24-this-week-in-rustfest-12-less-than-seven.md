@@ -4,6 +4,7 @@ title: "This Week in RustFest 12: 2nd Keynote, Schedule, Emcee, Workshops"
 description: "A second Keynote (Felix), schedule released, Embee announced (Pascal), Workshops detailed."
 authors:
   - hoverbear
+  - dns2utf8
 ---
 
 This (final) week we have a small laundry list of things to tell you about!
@@ -50,11 +51,12 @@ With all our workshops finalized we're happy to share with you entire lineup! Se
 
 ## Impl Days Space
 
-We have found a space for the Impl Days. You can find us on Monday and Tuesday [here](http://www.stadt-zuerich.ch/quartierhaus5), Quartierhaus Kreis 5, Sihlquai 115. As you can see there is a small kitchen we'll be able to use as well as some leisure and lounge space.
+We have found a space for the Impl Days. You can find us on Monday and Tuesday here at [Quartierhaus Kreis 5, Sihlquai 115](https://www.openstreetmap.org/way/70730651) owned by [the city of Zürich](http://www.stadt-zuerich.ch/quartierhaus5). As you can see there is a small kitchen we'll be able to use as well as some leisure and lounge space.
 
 ![impl days room](/assets/posts/twirf-12/impl-1.jpg)
 ![impl days room](/assets/posts/twirf-12/impl-2.jpg)
 ![impl days room](/assets/posts/twirf-12/impl-3.jpg)
 ![impl days room](/assets/posts/twirf-12/impl-4.jpg)
 
+Don't forget to add yourself to [the list](https://github.com/RustFestEU/blog.rustfest.eu/issues/29) so we have an idea who is comming.
 **We can't wait to see you this weekend! Email us (team@rustfest.eu) if you need anything!**
