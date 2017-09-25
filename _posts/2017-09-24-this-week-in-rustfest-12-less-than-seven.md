@@ -40,7 +40,7 @@ Hailing from the Mozilla Paris office, a RustFest veteran [Felix Klock](http://z
     <img src="/assets/posts/twirf-12/pascal.jpg">
 </div>
 
-We're very happy to announce [Pascal Hertleif](https://github.com/killercup) as our Emcee for Zürich! Pascal is an involved community member involved with projects [Diesel](https://github.com/diesel-rs/diesel) and [cargo-edit](https://github.com/killercup/cargo-edit).
+We're very happy to announce [Pascal Hertleif](https://github.com/killercup) as our Emcee (excellent master of ceremonies in ecstatic engineering) for Zürich! Pascal is an involved community member involved with projects [Diesel](https://github.com/diesel-rs/diesel) and [cargo-edit](https://github.com/killercup/cargo-edit).
 
 ## Schedule & Workshops
 
