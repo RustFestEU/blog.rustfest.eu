@@ -12,6 +12,12 @@ markdown: kramdown
 owner: "asquera Event UG"
 permalink: ":title"
 
+collections:
+  past_events:
+    permalink: /:collection/:path
+    # They have their own website!
+    output: false
+
 
 # social stuff:
 metaKeywords: "rust, conf, rustfest, rustfesteu, conference, programming language, berlin"

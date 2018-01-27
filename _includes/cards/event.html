@@ -1,0 +1,12 @@
+<div id="{{event.slug}}" class="card event" style="--banner: url('/assets/past_events/{{ event.slug }}.png')">
+  <a class="title" href="{{ event.link }}">
+    <h1>{{ event.year }} - {{ event.city }}</h1>
+  </a>
+  <ul class="links">
+    {% for link in event.links %}
+      <li><a href="{{ link.link }}">{{link.title}}</a></li>
+    {% endfor %}
+  </ul>
+  <p>{{ event.content }}</p>
+  <p class="thanks">Thanks to {{ event.sponsors | array_to_sentence_string }} for their support.</p>
+</div>
