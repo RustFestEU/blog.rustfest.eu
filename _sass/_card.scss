@@ -1,0 +1,83 @@
+// Sets of cards
+.cardset {
+    display: grid;
+    grid-template-columns: repeat(var(--columns), 1fr);
+    grid-auto-rows: max-content;
+    grid-auto-flow: dense;
+
+    grid-gap: 2vw;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
+
+@media (orientation: landscape) {
+    .cardset {
+        --columns: 3;
+    }
+}
+
+@media (orientation: portait) {
+    .cardset {
+        --columns: 1;
+    }
+}
+
+// Cards in general
+
+.cardset .card {
+    padding: 2vw;
+    background-image: linear-gradient(to bottom, rgba(8,71,136,0.9), rgba(8,71,136,0.1));
+    background-image:
+        linear-gradient(to bottom, rgba(8,71,136,0.9), rgba(8,71,136,0.1)),
+        var(--banner);
+    background-size: cover;
+    background-position: center;
+    transition: background 0.2s ease-in;
+    clip-path: polygon(
+        0 0, /* left top */
+        100% 0, /* right top */ 
+        100% 80%, /* right bottom */
+        0 100% /* left bottom */
+    );
+    padding-bottom: 20%;
+}
+
+.cardset .card a.title:link {
+    color: white;
+}
+.cardset .card a.title:visited {
+    color: white;
+}
+
+// Event Cards
+.events.cardset .event.card {
+    min-height: 80vh;
+}
+
+.events.cardset .event.card .thanks {
+    color: white;
+    font-weight: 400;
+}
+
+.events.cardset .event.card ul.links > li {
+    display: inline-block;
+}
+
+.events.cardset .event.card ul.links > li > a {
+    background: transparent;
+    border: 2px solid white;
+    color: white;
+    margin: .4em;
+    border-radius: 100px;
+    padding: .6em .4em;
+    font-weight: 600;
+    transition: color .5s ease-in-out;
+    transition: background-color .5s ease-in-out;
+}
+
+.events.cardset .event.card ul.links > li > a:hover {
+    background-color: white;
+    color: #084788;
+}

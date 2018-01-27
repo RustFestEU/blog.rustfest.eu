@@ -1,0 +1,13 @@
+---
+title: Past Events
+layout: default
+permalink: /past_events/index.html
+---
+
+<ul class="events cardset" data-columns=3>
+  {% for event in site.past_events %}
+    <li>
+      {% include cards/event.html event=event %}
+    </li>
+  {% endfor %}
+</ul>

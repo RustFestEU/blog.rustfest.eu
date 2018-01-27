@@ -1,0 +1,13 @@
+<div class="event" id="{{event.slug}}">
+  <a href="{{ event.link }}">
+    <h1>{{ event.year }} - {{ event.city }}</h1>
+  <a>
+  <p>{{ event.content }}</p>
+  <aside>
+    <img src="/assets/past_events/{{ event.slug }}.png" />
+    <div class="embed ratio-16-9">
+      <iframe src="{{ event.videos }}" frameborder="0" allowfullscreen></iframe>
+    </div>
+  </aside>
+  <p>Thanks to {{ event.sponsors | array_to_sentence_string }} for their support.</p>
+</div>
