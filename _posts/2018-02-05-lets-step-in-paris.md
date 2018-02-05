@@ -21,7 +21,7 @@ How about enjoying Rust in the french capital? After the adventures in Berlin, Ð
 <!-- change limit date? -->
 **Want to speak?** The [Call for Proposals](https://cfp.rustfest.eu/) is open! We would love to hear your proposal for a talk, workshop or discussion. Make sure to submit before March 17, 2018 at 12:00am UTC! As always, we'll be prioritizing talks not yet recorded at Rust conferences.
 
-> Note this is a **hard deadline** this year, we will not be extending it as timelines are already very tight. **Submit early**.
+> Note this is a **hard deadline** this year, we will not be able to extend as timelines are already very tight. **Submit early**.
 
 **Haven't spoken before but want to?** Submit! It's totally okay! If we accept your talk in our (blind) selection procedure we're happy to be your first experience. If you'd like, we're also happy to mentor you to give you some tips.
 
