@@ -10,7 +10,7 @@ How about enjoying Rust in the french capital? After the adventures in Berlin, K
 
 [![Paris the city](assets/paris/paris-panorama.jpg)](https://www.flickr.com/photos/)
 
-**What is Rustfest again?** It's a two day conference involving one day of workshops, and one day of talks! We aim for a diverse set of talks: technical and non-technical, advanced and beginner friendly, live coding and slide based. If you like Rust, the community, or just hacking in general we aim to have something to appeal to you. This year the conference will host up to 300 awesome folks.
+**What is Rustfest again?** It's a two day conference involving one day of workshops, and one day of talks! We aim for a diverse set of talks: technical and non-technical, advanced and beginner friendly content, live coding, panel, or slide based. If you like Rust, the community, or just hacking in general we aim to have something to appeal to you. This year the conference will host up to 300 awesome folks.
 
 **Want to attend?** Pencil in the date in your calendar! We'll release a few ticket batches to ensure you get a chance to get your ticket. In the meantime, why not explore hotel/AirBNB options as well as things to do?
 
