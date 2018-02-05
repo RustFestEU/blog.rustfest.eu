@@ -4,6 +4,7 @@ title: "How about a french adventure in Paris?"
 socialImageSrc: "/assets/paris/paris-panorama.jpg"
 authors:
   - GuillaumeGomez
+  - Hoverbear
 ---
 
 How about enjoying Rust in the french capital? After the adventures in Berlin, Київ and Zürich, it's time to put our luggages in Paris, France! We hope you'll join us on **May 26th and October 27th, 2018** at the incredible [**Espace Saint-Martin**](http://espacesaintmartin.com/fr/contact/) in the center of Paris.
