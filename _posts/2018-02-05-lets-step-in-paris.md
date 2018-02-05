@@ -6,7 +6,7 @@ authors:
   - GuillaumeGomez
 ---
 
-How about enjoying Rust in the french capital? After the adventures in Berlin, Kyiz and Zürich, it's time to put our luggages in Paris, France! We hope you'll join us on **May 26th and October 27th, 2018** at the incredible [**Espace Saint-Martin**](http://espacesaintmartin.com/fr/contact/) in the center of Paris.
+How about enjoying Rust in the french capital? After the adventures in Berlin, Київ and Zürich, it's time to put our luggages in Paris, France! We hope you'll join us on **May 26th and October 27th, 2018** at the incredible [**Espace Saint-Martin**](http://espacesaintmartin.com/fr/contact/) in the center of Paris.
 
 [![Paris the city](assets/paris/paris-panorama.jpg)](https://www.flickr.com/photos/)
 
