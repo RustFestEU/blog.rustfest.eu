@@ -29,7 +29,7 @@ How about enjoying Rust in the french capital? After the adventures in Berlin, Ð
 
 **Barriers to participating?** Not all of us can easily attend these events for a variety of reasons. We'll be working with [Diversity Tickets](https://diversitytickets.org/) again, as well as holding an event (above) which you could participate in. If the ticket cost itself is your only barrier, let us know.
 
-**Want to help someone else attend? Company with a budget??** We will be selling supporter tickets as well, with the additional funds being used for inclusivity and diversity efforts. If you can, consider helping our fellow community members.
+**Want to help someone else attend? Have a conference budget??** We will be selling supporter tickets as well, with the additional funds being used for inclusivity and diversity efforts. If you can, consider helping our fellow community members.
 
 **Want to help organize?** If you'd like to be part of our organizing team please introduce yourself and let us know at [team@rustfest.eu](mailto:team@rustfest.eu). We prefer it if team members are interested in helping for multiple events, especially if you might be interested in helping bring a RustFest to your area.
 
