@@ -216,3 +216,15 @@ rnestler:
     - icon: "website"
       title: "rnestler.github.io"
       link: "https://rnestler.github.io"
+imperio:
+  name: "Guillaume Gomez"
+  nick: "imperio"
+  desc: ""
+  thumbnailUrl: imperio.jpg
+  links:
+    - icon: "github"
+      title: "GuillaumeGomez"
+      link: "https://github.com/GuillaumeGomez"
+    - icon: "website"
+      title: "blog.guillaume-gomez.fr"
+      link: "https://blog.guillaume-gomez.fr"
