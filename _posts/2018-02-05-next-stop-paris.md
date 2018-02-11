@@ -4,7 +4,7 @@ title: "How about a french adventure in Paris?"
 socialImageSrc: "/assets/paris/paris-panorama.jpg"
 authors:
   - GuillaumeGomez
-  - Hoverbear
+  - hoverbear
 ---
 
 How about enjoying Rust in the french capital? After the adventures in Berlin, Київ, and Zürich, it's time to gather our luggages in Paris, France! We hope you'll join us on **May 26th and 27th, 2018** at the incredible [**Espace Saint-Martin**](http://espacesaintmartin.com/fr/contact/) in the center of Paris.
@@ -35,4 +35,4 @@ How about enjoying Rust in the french capital? After the adventures in Berlin, �
 
 **Isn't Sunday Mother's Day?** Yes! We're going to follow up with something more about this, but if you're a mother please get in touch with us, we're currently trying to arrange childcare (free, of course) and we allocated a batch of free tickets for mothers. Additionally, mothers are welcome to apply for diversity sponsorships (released in the next couple weeks) if they require travel support.
 
-So, we hope to see you soon in Paris! Keep hacking and don't be afraid to use `macron_rules!`!
+So, we hope to see you soon in Paris! Keep hacking and don't be afraid of the compiler!
