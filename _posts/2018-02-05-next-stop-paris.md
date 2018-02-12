@@ -13,7 +13,7 @@ How about enjoying Rust in the french capital? After the adventures in Berlin, Ð
 
 **What is Rustfest again?** It's a two day conference involving one day of workshops, and one day of talks! We aim for a diverse set of talks: technical and non-technical, advanced and beginner friendly content, live coding, panel, or slide based. If you like Rust, the community, or just hacking in general we aim to have something to appeal to you. This year the conference will host up to 300 awesome folks. It occurs bi-annually in a different city each edition.
 
-**Want to attend?** Pencil the date in your calendar! Like previous editions, we'll release a few ticket batches to ensure you get a chance to get your ticket. In the meantime, why not explore hotel/AirBNB options as well as things to do? Check out the [venue page](/location/) for more.
+**Want to attend?** Pencil the date in your calendar! Like previous editions, we'll release a few ticket batches to ensure you get a chance to get your ticket. In the meantime, why not explore hotel/AirBNB options as well as things to do? Check out the [venue page](https://paris.rustfest.eu/location/) for more.
 
 **Need to convince your boss?** Some talking points: RustFest is the *only* non-US based conference focused on Rust and the community around it. We are a community conference with (very) affordable tickets, and we can issue invoices to companies. 
 
