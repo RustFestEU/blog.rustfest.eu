@@ -3,7 +3,7 @@ layout: post
 title: "How about a french adventure in Paris?"
 socialImageSrc: "/assets/paris/paris-panorama.jpg"
 authors:
-  - GuillaumeGomez
+  - imperio 
   - hoverbear
 ---
 
