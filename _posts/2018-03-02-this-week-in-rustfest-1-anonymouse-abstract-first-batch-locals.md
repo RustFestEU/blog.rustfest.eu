@@ -50,5 +50,5 @@ comes in two parts:
      force the proposal text to be awkward or incoherent. We advise
      against going to such lengths. If some reviewer manages to
      *infer* your identity, then they should recuse
-     themself from the review process; but such an inference should be
+     themself from the review process; but such an inference will not be
      treated as a black mark against your proposal.
