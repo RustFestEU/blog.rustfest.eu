@@ -33,16 +33,16 @@ If you are wondering "How can I submit a talk about my favorite crate
 if it is a famous one that is easily attributed to me?", our answer
 comes in two parts:
 
-1. Please remove obvious indicators of your identity. You can, for
-example, replace the crate's name with just "CRATE" (along with a
-short summary of its purpose, which is good practice to include in any
-case). Accepted proposals will have the opportunity to revise their
-text before we post them to the website.
+  1. Please remove obvious indicators of your identity. You can, for
+     example, replace the crate's name with just "CRATE" (along with a
+     short summary of its purpose, which is good practice to include
+     in any case). Accepted proposals will have the opportunity to
+     revise their text before we post them to the website.
 
-2. In some cases, making the identity of a crate 100% anonymous to all
-reviewers is not reasonable, e.g. because doing so would force the
-proposal text to be awkward or incoherent. We advise against going to
-such lengths. If some reviewer manages to *infer* your identity, then
-they will be responsible to recuse themself from the review process;
-but such an inference should be treated as a black mark against your
-proposal.
+  2. In some cases, making the identity of a crate 100% anonymous to
+     all reviewers is not reasonable, e.g. because doing so would
+     force the proposal text to be awkward or incoherent. We advise
+     against going to such lengths. If some reviewer manages to
+     *infer* your identity, then they will be responsible to recuse
+     themself from the review process; but such an inference should be
+     treated as a black mark against your proposal.
