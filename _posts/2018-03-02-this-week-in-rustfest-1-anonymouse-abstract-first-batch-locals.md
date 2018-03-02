@@ -16,7 +16,13 @@ We proudly announce the first batch of regular tickets.
 
 # Local communities
 
-@GuillaumeGomez and @pnkfelix
+TODO: @GuillaumeGomez and @pnkfelix
+
+Mozilla Paris has been hosting a [Rust meetup](https://www.meetup.com/Rust-Paris/) since 2014.
+That group has over 750 registered members!
+
+Locals from academia and industry alike have shown interest in Rust.
+The Rust Paris Meetup itself was bootstrapped by local students.
 
 # CfP process explained
 
