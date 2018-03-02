@@ -49,6 +49,6 @@ comes in two parts:
      all reviewers is not reasonable, e.g. because doing so would
      force the proposal text to be awkward or incoherent. We advise
      against going to such lengths. If some reviewer manages to
-     *infer* your identity, then they will be responsible to recuse
+     *infer* your identity, then they should recuse
      themself from the review process; but such an inference should be
      treated as a black mark against your proposal.
