@@ -33,7 +33,7 @@ If you are wondering "How can I submit a talk about my favorite crate
 if it is a famous one that is easily attributed to me?", our answer
 comes in two parts:
 
-1. Please do strive to make your proposal anonymous. You can, for
+1. Please remove obvious indicators of your identity. You can, for
 example, replace the crate's name with just "CRATE" (along with a
 short summary of its purpose, which is good practice to include in any
 case). Accepted proposals will have the opportunity to revise their
