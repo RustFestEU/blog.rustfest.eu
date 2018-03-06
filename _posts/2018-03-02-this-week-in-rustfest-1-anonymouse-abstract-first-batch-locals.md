@@ -7,11 +7,11 @@ authors:
   - pnkfelix
 ---
 
-With some further adoo, this weeks news.
+With some further adoo, this week news.
 
 # First ticket batch
 
-We proudly announce the first batch of regular tickets.
+We proudly announce the first batch of regular tickets!
 
 
 # Local communities
@@ -19,12 +19,16 @@ We proudly announce the first batch of regular tickets.
 TODO: @GuillaumeGomez and @pnkfelix
 
 Mozilla Paris has been hosting a [Rust meetup](https://www.meetup.com/Rust-Paris/) since 2014.
-That group has over 750 registered members!
+That group has over 750 registered members! It has taken place once a month since its creation.
+During this time, we had the luck to welcome some huge crates (french!) creators but also
+international great rustaceans.
 
 Locals from academia and industry alike have shown interest in Rust.
 The Rust Paris Meetup itself was bootstrapped by local students.
 In addition, local companies such as [Snips](https://snips.ai/) and
 [Scality](https://www.scality.com/) use Rust in production.
+
+If you ever have the chance, don't hesitate to come by and say hello while talking about Rust!
 
 # CfP process explained
 
