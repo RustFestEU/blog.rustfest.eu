@@ -23,6 +23,8 @@ That group has over 750 registered members!
 
 Locals from academia and industry alike have shown interest in Rust.
 The Rust Paris Meetup itself was bootstrapped by local students.
+In addition, local companies such as [Snips](https://snips.ai/) and
+[Scality](https://www.scality.com/) use Rust in production.
 
 # CfP process explained
 
