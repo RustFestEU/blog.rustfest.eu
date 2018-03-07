@@ -22,8 +22,6 @@ Speaking of the impl days, we would love to welcome you Monday, 28-th and Tuesda
 
 # Local communities
 
-TODO: @GuillaumeGomez and @pnkfelix
-
 Mozilla Paris has been hosting a [Rust meetup](https://www.meetup.com/Rust-Paris/) since 2014.
 That group has over 750 registered members! It has taken place once a month since its creation.
 During this time, we had the luck to welcome some huge (french!) crate creators but also
@@ -76,7 +74,7 @@ We do want new speakers on the conference, so don't fear losing out to "the pros
 
 ## The information
 
-Once the proposals are voted on, we will start to inform the submitteesi within a week.
+Once the proposals are voted on, we will start to inform the proposers within a week.
 If you do not hear from us please check you spam folder first.
 
 It is also possible that you talk would have been accepted but we could not fit it in yet.
