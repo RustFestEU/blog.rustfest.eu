@@ -7,7 +7,7 @@ authors:
   - pnkfelix
 ---
 
-With some further ado, this week news.
+With some further ado, this week's news.
 
 # First batch standard tickets
 
@@ -24,8 +24,8 @@ TODO: @GuillaumeGomez and @pnkfelix
 
 Mozilla Paris has been hosting a [Rust meetup](https://www.meetup.com/Rust-Paris/) since 2014.
 That group has over 750 registered members! It has taken place once a month since its creation.
-During this time, we had the luck to welcome some huge crates (french!) creators but also
-international great rustaceans.
+During this time, we had the luck to welcome some huge (french!) crate creators but also
+great international rustaceans.
 
 Locals from academia and industry alike have shown interest in Rust.
 The Rust Paris Meetup itself was bootstrapped by local students.
