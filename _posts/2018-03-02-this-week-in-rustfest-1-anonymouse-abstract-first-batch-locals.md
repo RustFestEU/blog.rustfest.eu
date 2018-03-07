@@ -17,6 +17,8 @@ These tickets for 120€ (inc. 20% VAT) include the conference and the impl days
 We allocated 40 tickets in this batch, [available now here](https://ti.to/asquera-event-ug/rustfest-paris-2018/).
 Once this batch is sold out we will announce two more in the near future.
 
+Speaking of the impl days, we would love to welcome you Monday, 28-th and Tuesday, 29-th at [Mozillas Paris office](https://wiki.mozilla.org/Paris).
+
 
 # Local communities
 
