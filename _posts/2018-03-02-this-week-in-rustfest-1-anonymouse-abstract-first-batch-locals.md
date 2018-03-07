@@ -7,11 +7,15 @@ authors:
   - pnkfelix
 ---
 
-With some further adoo, this week news.
+With some further ado, this week news.
 
-# First ticket batch
+# First batch standard tickets
 
 We proudly announce the first batch of regular tickets!
+These tickets for 120€ (inc. 20% VAT) include the conference and the impl days in Paris.
+
+We allocated 40 tickets in this batch, [available now here](https://ti.to/asquera-event-ug/rustfest-paris-2018/).
+Once this batch is sold out we will announce two more in the near future.
 
 
 # Local communities
@@ -45,16 +49,33 @@ If you are wondering "How can I submit a talk about my favorite crate
 if it is a famous one that is easily attributed to me?", our answer
 comes in two parts:
 
-  1. Please remove obvious indicators of your identity. You can, for
+- Please remove obvious indicators of your identity. You can, for
      example, replace the crate's name with just "CRATE" (along with a
      short summary of its purpose, which is good practice to include
      in any case). Accepted proposals will have the opportunity to
      revise their text before we post them to the website.
 
-  2. In some cases, making the identity of a crate 100% anonymous to
+- In some cases, making the identity of a crate 100% anonymous to
      all reviewers is not reasonable, e.g. because doing so would
      force the proposal text to be awkward or incoherent. We advise
      against going to such lengths. If some reviewer manages to
-     *infer* your identity, then they should recuse
+     *infer* your identity, then they will recuse
      themself from the review process; but such an inference will not be
      treated as a black mark against your proposal.
+
+## The selection
+
+After the deadline on **Saturday March 17, 2018 at 12:00am UTC** the team will vote on the submissions in two anonymous rounds of voting:
+The first round rates each talk on a scale from 1 to 10.
+The top-N (~30) submissions are rated again on a 3-point scale (“meh”, “yay”, “MUST HAVE”).
+
+After that we de-anonymise so we can (finally) bias against speaker details (e.g. to find a mix of seasoned and new speakers).
+We do want new speakers on the conference, so don't fear losing out to "the pros" in the last minute.
+
+## The information
+
+Once the proposals are voted on, we will start to inform the submitteesi within a week.
+If you do not hear from us please check you spam folder first.
+
+It is also possible that you talk would have been accepted but we could not fit it in yet.
+In that case we will inform you after two weeks.
