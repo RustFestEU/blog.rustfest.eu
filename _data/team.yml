@@ -228,3 +228,12 @@ imperio:
     - icon: "website"
       title: "blog.guillaume-gomez.fr"
       link: "https://blog.guillaume-gomez.fr"
+pnkfelix:
+  name: "Felix Klock"
+  nick: "pnkfelix"
+  desc: ""
+  thumbnailUrl: pnkfelix.png
+  links:
+    - icon: "github"
+      title: "pnkfelix"
+      link: "https://github.com/pnkfelix"

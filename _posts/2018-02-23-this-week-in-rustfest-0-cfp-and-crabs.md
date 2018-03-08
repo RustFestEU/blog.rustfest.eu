@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This week in RustFest 0: CfP, impl days, and little crabs"
+title: "This week in RustFest 0: CfP, impl days and little crabs"
 authors:
   - dns2utf8
   - hoverbear
