@@ -8,9 +8,7 @@ authors:
 # CFP Last Call
 
 <div style="text-align: center">
-  <strong><a href="https://cfp.rustfest.eu/events/rustfest-paris">March 17th (tomorrow!) is the CFP deadline! No extensions!</a></strong>
-  <br>
-  <iframe src="https://giphy.com/embed/l3vRkWqpxQW3wm6ek" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <strong><a class="button" href="https://cfp.rustfest.eu/events/rustfest-paris">Apply before March 17th (tomorrow!) is the CFP deadline!</a></strong>
 </div>
 
 This is your very last chance to submit a presentation to RustFest. Due to our timeline this year we won't be doing an extension. Topic not quite refined yet? Submit it! Waffling between two ideas? Submit both! Scared to submit because you might have to speak? You can do it! Trust us!
@@ -19,6 +17,10 @@ This is your very last chance to submit a presentation to RustFest. Due to our t
 
 
 # Diversity Sponsorships
+
+<div style="text-align: center">
+  <strong><a class="button" href="https://diversitytickets.org/events/152">Apply before March 17th (tomorrow!) for a Diversity Ticket</a></strong>
+</div>
 
 As with previous years we are again partnering with our lovely friends at [DiversityTickets.org](https://diversitytickets.org/) to support our community members which need assistance in attending RustFest. We welcome members of underrepresented groups to apply for this support.
 
