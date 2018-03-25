@@ -12,6 +12,8 @@ authors:
 
 # CfP Progress
 
+Thank you all for your 74 talks and 8 workshop submissions.
+
 # Keynote Speakers
 
 ## Matt Gattou (Rust Nairobi)
