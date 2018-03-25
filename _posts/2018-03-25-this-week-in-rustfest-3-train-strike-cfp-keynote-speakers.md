@@ -15,6 +15,22 @@ authors:
 # CfP Progress
 
 Thank you all for your 74 talks and 8 workshop submissions.
+If you remember [our post from beginning of march](/this-week-in-rustfest-1-anonymouse-abstract-first-batch-locals) we are currently in the stage "The selection".
+
+This means we have a preliminary schedule featuring:
+
+| Kind of talk  | amount planed |
+| ------------- | -------------:|
+| Keynote       | 2             |
+| 15min format  | 2             |
+| 30min format  | 9             |
+
+Over the next days we will confirm the speakers and finalize the schedule.
+
+## Workshops
+
+Currently we are gathering more space for the workshops.
+We will inform you as quickly as possible when we know who we can host.
 
 # Keynote Speakers
 
