@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "These weeks in RustFest 3: Train Strike, CfP Progress & Keynote Speakers"
+title: "These week in RustFest 3: Train Strike, CfP Progress & Keynote Speakers"
 authors:
   - dns2utf8
 ---
@@ -40,7 +40,7 @@ That is why we are very excited to announce Matt talking about the community in 
 ## Matt Gattou
 
 Matt is a software developer at [JUMO.world](https://jumo.world/) in Nairobi. He has a passion in building tech for social impact.
-He is also the co-organiser of [Rust Nairobi](https://www.meetup.com/de-DE/Rust-Nairobi/), and hopes to make the tech industry a better place by encouraging learning and mentorship in his community.
+He is also the co-organiser of [Rust Nairobi](https://www.meetup.com/Rust-Nairobi/), and hopes to make the tech industry a better place by encouraging learning and mentorship in his community.
 He plays tennis and is a big scrabble fan.
 
 
