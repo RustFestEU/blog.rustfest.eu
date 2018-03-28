@@ -1,16 +1,9 @@
 ---
 layout: post
-title: "These week in RustFest 3: Train Strike, CfP Progress & Keynote Speakers"
+title: "These weeks in RustFest 3: CfP Progress & Keynote Speakers"
 authors:
   - dns2utf8
 ---
-
-# Train Strike
-
-- Normal days
-- What happens on strike days?
-    - Will prices rise?
-    - What methods of transport are affected/available?
 
 # CfP Progress
 
