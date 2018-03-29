@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "These weeks in RustFest 3: CfP Progress & Keynote Speakers"
+title: "These weeks in RustFest 3: CfP Progress, Keynote Speakers & 2nd Ticket Batch"
 authors:
   - dns2utf8
 ---
@@ -41,3 +41,11 @@ He plays tennis and is a big scrabble fan.
 
 Vaidehi is an engineer at [Tilde](http://www.tilde.io/), in Portland, Oregon, where she works on [Skylight](https://www.skylight.io/). She enjoys building and breaking code, but loves creating empathetic engineering teams a whole lot more.
 In her spare time, she runs [basecs](https://medium.com/basecs), a weekly writing series that explores the fundamentals of computer science, and is co-host of the [Base.cs Podcast](https://www.codenewbie.org/basecs).
+
+
+# 2nd Ticket Batch
+
+Tomorrow we release the second batch of [40 Standard Tickets](https://ti.to/asquera-event-ug/rustfest-paris-2018/).
+They will go live at 2018-03-30 09:00 AM CEST (UTC+2) and stay available until they sell out.
+
+In case you miss(-ed) the second window we will a open the third and last window in April.
