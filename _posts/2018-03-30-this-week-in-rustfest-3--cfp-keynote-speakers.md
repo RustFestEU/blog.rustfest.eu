@@ -36,7 +36,7 @@ We will be giving away a total of 15 free RustFest tickets for applicants, and d
 
 # Keynote Speakers
 
-With the `epoch = "2018"` comming up the [rust core](https://blog.rust-lang.org/2018/03/12/roadmap.html) focuses on productivity.
+With the `edition = "2018"` (formally epoch) coming up the [rust core](https://blog.rust-lang.org/2018/03/12/roadmap.html) focuses on productivity.
 That is why we are very excited to announce Matt talking about the community in Nairobi, Kenya and Vaidehi talking about the basics of computer science in a beginner friendly way.
 
 ## Matt Gattou
