@@ -39,7 +39,7 @@ We will be giving away a total of 15 free RustFest tickets for applicants, and d
 With the `edition = "2018"` (formally epoch) coming up the [rust core](https://blog.rust-lang.org/2018/03/12/roadmap.html) focuses on productivity.
 That is why we are very excited to announce Matt talking about the community in Nairobi, Kenya and Vaidehi talking about the basics of computer science in a beginner friendly way.
 
-## Matt Gattou
+## Matt Gathu
 
 Matt is a software developer at [JUMO.world](https://jumo.world/) in Nairobi. He has a passion in building tech for social impact.
 He is also the co-organiser of [Rust Nairobi](https://www.meetup.com/Rust-Nairobi/), and hopes to make the tech industry a better place by encouraging learning and mentorship in his community.
