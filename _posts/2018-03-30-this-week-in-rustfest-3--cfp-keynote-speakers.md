@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "These weeks in RustFest 3: CfP Progress & Keynote Speakers"
+title: "These weeks in RustFest 3: CfP Progress, Keynote Speakers & 2nd Ticket Batch"
+socialImageSrc: "/assets/socialkeynotes.png"
 authors:
   - dns2utf8
+  - flaki
 ---
 
 # CfP Progress
@@ -18,12 +20,19 @@ This means we have a preliminary schedule featuring:
 | 15min format  | 2             |
 | 30min format  | 9             |
 
-Over the next days we will confirm the speakers and finalize the schedule.
+_Over the next days we will will be reaching out to selected speakers and finalizing the schedule._
 
 ## Workshops
 
 Currently we are gathering more space for the workshops.
 We will inform you as quickly as possible when we know who we can host.
+
+## Diversity sponsorships
+
+Thank you for all your submissions! Our team is currently reviewing the applications and we hope to get a response out to every applicant by end of next week (April 7).
+
+We will be giving away a total of 15 free RustFest tickets for applicants, and distributing our scholarship fund among submissions for the travel stipends. For those who haven't applied but have the means to support us, this would be an excellent time to [contribute to our Diversity Fund](https://ti.to/asquera-event-ug/rustfest-paris-2018/) and help us support even more wonderful folks in attending RustFest this year! 💖
+
 
 # Keynote Speakers
 
@@ -41,3 +50,10 @@ He plays tennis and is a big scrabble fan.
 
 Vaidehi is an engineer at [Tilde](http://www.tilde.io/), in Portland, Oregon, where she works on [Skylight](https://www.skylight.io/). She enjoys building and breaking code, but loves creating empathetic engineering teams a whole lot more.
 In her spare time, she runs [basecs](https://medium.com/basecs), a weekly writing series that explores the fundamentals of computer science, and is co-host of the [Base.cs Podcast](https://www.codenewbie.org/basecs).
+
+
+# 2nd Ticket Batch
+
+Our second batch of [40 Standard Tickets](https://ti.to/asquera-event-ug/rustfest-paris-2018/) is live **now**! Grab them while they last!
+
+Our 3rd and 4th (final) batch of Standard Tickets will go on sale on early+late April, respectively, exact dates TBA.
