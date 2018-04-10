@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "These weeks in RustFest 4: RustBridge, Speaker Announcements, Diversity Sponsorships"
+title: "These weeks in RustFest 4: RustBridge, Speakers, Diversity Sponsorships"
 authors:
   - badboy
   - flaki
