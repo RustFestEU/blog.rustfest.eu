@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "These weeks in RustFest 4: RustBridge, Speakers, Last Tickets"
+title: "These weeks in RustFest 4: RustBridge, returns, lineup & final tickets soon"
 socialImageSrc: "/assets/posts/twirf-4-rustbridge.png"
 authors:
   - badboy
@@ -27,7 +27,7 @@ Access to the workshop is free and does not require a conference ticket. However
 
 [rustbridge]: https://rustbridge.github.io/
 
-# Speaker Announcements
+# Final Lineup
 
 We received over 70 proposals this year, which made the team's job of selecting the best talks not an easy task.
 Nonetheless, we finally have the schedule for RustFest Paris finished and all speakers confirmed.
