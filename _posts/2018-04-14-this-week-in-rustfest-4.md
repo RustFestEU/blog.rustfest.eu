@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "These weeks in RustFest 4: RustBridge, returns, lineup & final tickets soon"
+title: "These weeks in RustFest 4: RustBridge returns, lineup & final tickets soon"
 socialImageSrc: "/assets/posts/twirf-4-rustbridge.png"
 authors:
   - badboy
