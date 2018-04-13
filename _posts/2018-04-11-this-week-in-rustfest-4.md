@@ -8,6 +8,10 @@ authors:
 
 # RustBridge Workshop
 
+<div style="text-align:center">
+<img src="/assets/posts/rustbridge.png" alt="RustBridge Logo" title="RustBridge Logo">
+</div>
+
 We are happy to announce that RustFest Paris will once again host a **RustBridge workshop**!
 
 > RustBridge is an all-day workshop focused on getting underrepresented people with a background in another programming language to learn Rust and join the community. In this workshop we'll get you up and running with a great Rust development environment, introduce you to Rust syntax and programming concepts, and work together to build a small website that you can personalize, extend, and share!
