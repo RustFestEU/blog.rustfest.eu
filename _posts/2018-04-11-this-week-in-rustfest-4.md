@@ -22,7 +22,7 @@ The workshop will be led once again by [Ashley Williams](https://paris.rustfest.
 We ran RustBridge events at all past RustFests with great success and we want to continue this tradition.
 Access to the workshop is free and does not require a conference ticket. However, please sign up using the provided form.
 
-[**Sign up here**](FILL IN SIGNUP LINK)
+[**Sign up here**](https://docs.google.com/forms/d/e/1FAIpQLSf2YSRnYZUlg_uqQ6xggoSZA6_3r7v_PAl4Ev1wyN3mKW3acA/viewform?usp=sf_link)
 
 [rustbridge]: https://rustbridge.github.io/
 
