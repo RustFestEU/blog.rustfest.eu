@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "These weeks in RustFest 4: RustBridge, Speakers, Last Tickets"
+socialImageSrc: "/assets/posts/twirf-4-rustbridge.png"
 authors:
   - badboy
   - flaki
