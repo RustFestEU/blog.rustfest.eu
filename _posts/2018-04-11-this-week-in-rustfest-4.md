@@ -24,7 +24,7 @@ Access to the workshop is free and does not require a conference ticket. However
 
 # Speaker Announcements
 
-We received over 80 proposals this year, which made the team's job of selecting the best talks not an easy task.
+We received over 70 proposals this year, which made the team's job of selecting the best talks not an easy task.
 Nonetheless, we finally have the schedule for RustFest Paris finished and all speakers confirmed.
 We will start announcing the lineup in the coming week.
 The first speakers will be announced on **Monday, 16th April, 9:00 CEST**.
