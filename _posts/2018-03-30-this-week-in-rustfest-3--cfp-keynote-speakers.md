@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "These weeks in RustFest 3: CfP Progress, Keynote Speakers & 2nd Ticket Batch"
-socialImageSrc: "/assets/socialkeynotes.png"
+socialImageSrc: "/assets/posts/paris/twirf-3-social.png"
 authors:
   - dns2utf8
   - flaki
