@@ -35,7 +35,7 @@ In their ongoing support of the RustFest community 1aim has offered to support *
 
 **What do you get?**
 * One RustFest Paris **ticket**.
-* **Hotel accommodation** from Sept. 29 to Oct. 2. (Provided by 1aim)
+* **Hotel accommodation** (Provided by 1aim)
 * Up to **150€** for EU and **250€** for non-EU participants toward your travel expenses (reimbursed post-conference, pending receipts)
 
 **How do you participate?**
