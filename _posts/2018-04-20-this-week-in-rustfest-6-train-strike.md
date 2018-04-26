@@ -36,10 +36,11 @@ Luckily there are two or three days between the strike blocks where you can expe
 - ... you are traveling on an evening before a strike. So make sure that your train arrives in Paris *before 17:00 that day.
 
 ### What else is there to know?
-- Normal days
-- What happens on strike days?
-    - Will prices rise?
-    - What methods of transport are affected/available?
+
+Will prices rise? no
+
+Can I ask for a refund? Well that depends on who sold you the ticket and how
+- What methods of transport are affected/available?
 
 ### How to avoid stress
 
