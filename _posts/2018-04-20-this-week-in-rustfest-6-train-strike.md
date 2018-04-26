@@ -48,6 +48,11 @@ Bring an (offline) dictionary, talk to people and learn some french.
 Also a big plus of traveling by train is that you are allowed to carry liquids like a bottle of wine or two.
 
 
+## Metro System
+
+It is allmost never on strike.
+So even during the strike days of others the metro will run.
+
 ## Plane Strike
 
 The plains strike too?
