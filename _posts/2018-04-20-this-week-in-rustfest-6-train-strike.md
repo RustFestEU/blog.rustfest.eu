@@ -3,6 +3,7 @@ layout: post
 title: "This week in RustFest 6: Strike"
 authors:
   - dns2utf8
+  - GuillaumeGomez
 ---
 
 TLDR: Sorry, this time you have to read the whole thing.
@@ -27,11 +28,13 @@ And because caufeurs love time tables they made one for their current thre month
 
 TODO: insert picture here https://de.oui.sncf/de/train/streik
 
-In the plan are blocks of 3 days where you should not expect any train to run.
-Currently about 40% [citation needed](https://de.oui.sncf/de/train/streik) of TGV run during a strike day, however it is nearly impossible to say which routs they will serve and the chanche of makeing a whole connection reduces with every hop you have to take.
-E.g. to catch two connecting trains your chanches are 40% * 40% * 40% = 6.4%
+In the plan are blocks of 2 days where you should not expect any train to run.
+Currently about 40% [citation needed](https://de.oui.sncf/de/train/streik) of TGV run during a strike day, however it is nearly impossible to say which routs they will serve and the chanche of making a whole connection reduces with every hop you have to take.
+E.g. to catch two connecting trains your chanches are 40% * 40% = 16%
 
-Luckily there are two or three days between the strike blocks where you can expect the trains to run unless:
+However, SNCF isn't only running TGVs but also regional trains, and those are the ones you'll certainly have to deal with (also called RER in Paris). For example, if you land in the Charles-de-Gaulle airport, you'll have to take the RER B line, which is affected by this strike just the same.
+
+Luckily there are three days between the strike blocks where you can expect the trains to run unless:
 
 - ... you are traveling on an evening before a strike. So make sure that your train arrives in Paris *before 17:00 that day.
 
@@ -39,21 +42,22 @@ Luckily there are two or three days between the strike blocks where you can expe
 
 Will prices rise? no
 
-Can I ask for a refund? Well that depends on who sold you the ticket and how
+Can I ask for a refund? Well that depends on who sold you the ticket and how.
+
 - What methods of transport are affected/available?
+
+Only SNCF services, so subways, buses and tramways (and cabs of course) aren't affected.
 
 ### How to avoid stress
 
 Bring an (offline) dictionary, talk to people and learn some french.
-Also a big plus of traveling by train is that you are allowed to carry liquids like a bottle of wine or two.
+Also a big plus of traveling by train is that you are allowed to carry liquids like a bottle of wine or two that you can eat with some bread and cheese!
 
 
 ## Metro System
 
-It is allmost never on strike.
-So even during the strike days of others the metro will run.
+Again, it is not run by SNCF so you have nothing to worry about there. Also, it is almost never on strike. So even during the strike days of others the metro will run (again, it includes buses, subways and tramways).
 
 ## Plane Strike
 
-The plains strike too?
-No actually it is the staff working inside the airport controll towers
+The plains strike too? No actually it is the staff working inside the airport control towers. Nothing to worry on this side hopefully.
