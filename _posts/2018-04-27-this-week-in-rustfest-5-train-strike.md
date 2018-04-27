@@ -3,7 +3,7 @@ layout: post
 title: "This week in RustFest 5: Strike"
 authors:
   - dns2utf8
-  - GuillaumeGomez
+  - imperio
 ---
 
 TLDR: Sorry, this time you have to read the whole thing.
