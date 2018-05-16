@@ -31,7 +31,7 @@ And because caufeurs love time tables they made one for their current three-mont
 In the plan are blocks of 2 days where you should not expect any train to run.
 Currently about 40%  of TGV run during a strike day, however it is nearly impossible to say which routes they will serve and the chance of making a whole connection reduces with every hop you have to take.
 E.g. to catch two connecting trains your chanches are 40% * 40% = 16%.
-Check [the detailed information to know if your train is running](https://en.oui.sncf/en/train/strike).
+Check [the detailed information to know if your train is running](https://en.oui.sncf/train/strike).
 
 However, SNCF isn't only running TGVs but also regional trains, and those are the ones you'll certainly have to deal with (also called RER in Paris). For example, if you land in the Charles-de-Gaulle airport, you'll have to take the RER B line, which is affected by this strike just the same.
 
