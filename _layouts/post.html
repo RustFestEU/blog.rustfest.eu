@@ -32,7 +32,7 @@ layout: default
   {% if page.authors %}
   <div class="popout">
     <section class="authors">
-      <h3>Authors</h3>
+      <h3>Author{% if page.authors[1] != null %}s{% endif %}</h3>
       <ul class="team">
         {% for authorname in page.authors %}
           {% assign member = site.data.team[authorname] %}

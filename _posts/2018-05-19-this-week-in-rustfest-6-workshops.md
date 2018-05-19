@@ -11,8 +11,8 @@ program for the conference day on Saturday and the workshops on Sunday.
 # Our Sponsors
 
 RustFest Paris is sold out, and looks like it will be the largest RustFest so far. 
-Such an event would not be possible without the generous support of sponsors. We
-are very humbled to have these great partners as our Platinum, Gold, and Silver sponsors:
+Such an event would not be possible without the generous support of sponsors.
+We are very humbled to have these great partners as our Platinum, Gold, and Silver sponsors:
 
 <a href="https://paris.rustfest.eu/sponsors/">
   <img alt="Our Platinum, Gold and Silver Sponsors: Parity, 1AIM, BitFury, Mozilla, Snips, Clever Cloud, Inria, and Rlay"
@@ -50,7 +50,7 @@ happy to announce the finalized program and location of the
 workshops on Sunday. We will have [**seven workshops**](https://paris.rustfest.eu/workshops/)
 this time, covering a wide range of topics and skills:
 
-<div style="text-align:center;">
+<div style="text-align: center;">
   <a href="https://paris.rustfest.eu/sessions/rustbridge">
     <img alt="RustBridge" src="https://paris.rustfest.eu/assets/social/ashley-katharina.png" style="border: 1px solid #ccc;">
   </a>
