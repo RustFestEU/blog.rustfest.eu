@@ -12,25 +12,30 @@ program for the conference day on Saturday and the workshops on Sunday.
 
 RustFest Paris is sold out, and looks like it will be the largest RustFest so far. 
 Such an event would not be possible without the generous support of sponsors. We
-are very humbled to have these great partners:
+are very humbled to have these great partners as our Platinum, Gold, and Silver sponsors:
 
 <a href="https://paris.rustfest.eu/sponsors/">
-  <img alt="Our Platinum, Gold and Silver Sponsors" src="/assets/posts/paris/twirf-6-sponsors.png">
+  <img alt="Our Platinum, Gold and Silver Sponsors: Parity, 1AIM, BitFury, Mozilla, Snips, Clever Cloud, Inria, and Rlay"
+    src="/assets/posts/paris/twirf-6-sponsors.png">
 </a>
 
+We are also indebted to our Bronze level sponsors, *Baidu X-Lab* and *PingCap*.
+
 <div style="text-align:center; padding: 1em;">
-<strong>A very big thank you to our sponsors for making this event happen!</strong>
+<strong>A very big thank you to all our sponsors for making this event happen!</strong>
 </div>
 
 To to learn more about what these fine folks are creating with Rust and to see
 the complete list of sponsors, make sure to check out our
 [sponsors page](https://paris.rustfest.eu/sponsors/) on the website. All our
 sponsors will also have people on site, so feel encouraged to chat with them if
-you are interested in learning more.
+you are interested in learning more about what they do.
 
 # Saturday: Talks
 
-The schedule for the talk session on Saturday is now available on our website!
+We have already announced the talk lineup of talks in
+[previous editions of TWiRF](/this-week-in-rustfest-4). This week, we published
+the full schedule for the talk session on Saturday on our website:
 
 <div style="text-align: center; padding: 1em;">
   <a href="https://paris.rustfest.eu/schedule/">
@@ -68,3 +73,5 @@ this time, covering a wide range of topics and skills:
     <img alt="Talking to Ethereum Contracts" src="https://paris.rustfest.eu/assets/social/ethereum-contracts.png" style="border: 1px solid #ccc;">
   </a>
 </div>
+
+As always, attendance to the workshops is included in your conference ticket.
