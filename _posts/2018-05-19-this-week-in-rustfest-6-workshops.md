@@ -52,25 +52,25 @@ this time, covering a wide range of topics and skills:
 
 <div style="text-align: center;">
   <a href="https://paris.rustfest.eu/sessions/rustbridge">
-    <img alt="RustBridge" src="https://paris.rustfest.eu/assets/social/ashley-katharina.png" style="border: 1px solid #ccc;">
+    <img alt="RustBridge" src="/assets/posts/paris/workshops/ashley-katharina.png" style="border: 1px solid #ccc;">
   </a>
   <a href="https://paris.rustfest.eu/sessions/networking">
-    <img alt="Networking & Web" src="https://paris.rustfest.eu/assets/social/networking.png" style="border: 1px solid #ccc;">
+    <img alt="Networking & Web" src="/assets/posts/paris/workshops/networking.png" style="border: 1px solid #ccc;">
   </a>
   <a href="https://paris.rustfest.eu/sessions/libp2p">
-    <img alt="libp2p" src="https://paris.rustfest.eu/assets/social/libp2p.png" style="border: 1px solid #ccc;">
+    <img alt="libp2p" src="/assets/posts/paris/workshops/libp2p.png" style="border: 1px solid #ccc;">
   </a>
   <a href="https://paris.rustfest.eu/sessions/full-stack-rust">
-    <img alt="Full-stack Rust: creating cryptoexchange with Exonum and Yew" src="https://paris.rustfest.eu/assets/social/full-stack-rust.png" style="border: 1px solid #ccc;">
+    <img alt="Full-stack Rust: creating cryptoexchange with Exonum and Yew" src="/assets/posts/paris/workshops/full-stack-rust.png" style="border: 1px solid #ccc;">
   </a>
   <a href="https://paris.rustfest.eu/sessions/fixing-bugs">
-    <img alt="Fixing bugs once and for all" src="https://paris.rustfest.eu/assets/social/fixing-bugs.png" style="border: 1px solid #ccc;">
+    <img alt="Fixing bugs once and for all" src="/assets/posts/paris/workshops/fixing-bugs.png" style="border: 1px solid #ccc;">
   </a>
   <a href="https://paris.rustfest.eu/sessions/fastware">
-    <img alt="Fastware" src="https://paris.rustfest.eu/assets/social/fastware.png" style="border: 1px solid #ccc;">
+    <img alt="Fastware" src="/assets/posts/paris/workshops/fastware.png" style="border: 1px solid #ccc;">
   </a>
   <a href="https://paris.rustfest.eu/sessions/ethereum-contracts">
-    <img alt="Talking to Ethereum Contracts" src="https://paris.rustfest.eu/assets/social/ethereum-contracts.png" style="border: 1px solid #ccc;">
+    <img alt="Talking to Ethereum Contracts" src="/assets/posts/paris/workshops/ethereum-contracts.png" style="border: 1px solid #ccc;">
   </a>
 </div>
 
