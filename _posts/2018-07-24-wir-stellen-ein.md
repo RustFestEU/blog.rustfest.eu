@@ -40,7 +40,7 @@ Beachte, dass sowohl Ruby Berlin als auch OpenTechSchool nicht viele Rechnungen 
 
 Alles zusammen erwarten wir ca. 30 Stunden *monatlich* für alle drei Organisationen.
 
-## Was wir anbieten
+## Was wir bieten
 
 Wir bieten eine flexible Arbeitsumgebung in freundlichen Organisationen, die sich der Ausbildung und der Vielfältigkeit im Techonologie-Sektor verschrieben haben.
 
@@ -80,7 +80,7 @@ Du bist daran interessiert, Aktiven bei ihrer gemeinnützigen Arbeit unter die A
   - Beides müssen nicht deine Muttersprache sein, aber du solltest halbwegs sicher sein
 * Du bist selbstorganisiert
   - Du wirst mit Freiwilligen arbeiten und bist die einzige Person, die bezahlt wird
-* Du kannst dich mit um unseren Jahresrythmus organisieren
+* Du kannst dich um unseren Jahresrhythmus organisieren
   - RustFest findet 2 Mal im Jahr statt, eine Ansprechbarkeit in den 2 Wochen der Konferenz ist wichtig
 * Du bist flexibel
   - Wir würden uns freuen, wenn du im Rahmen deiner Zeit weitere Aufgaben übernehmen kannst
