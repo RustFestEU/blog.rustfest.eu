@@ -8,37 +8,37 @@ English version [here](/we-re-hiring-for-bookkeeping-and-event-management).
 
 ## Wir stellen ein!
 
-[RustFest](https://rustfest.eu) ist die europäische Rust-Konferenz. Wir sehen uns als Schaukasten für alles was in der Rust Community so passiert. Jedes RustFest findet and einem anderen Ort statt, wechselnd alle 6 Monate. Das RustFest findet im zum 5ten mal statt.
+[RustFest](https://rustfest.eu) ist die europäische Rust-Konferenz. Wir sehen uns als Schaukasten für alles was in der Rust Community so passiert. Jedes RustFest findet an einem anderen Ort statt, wechselnd alle 6 Monate. RustFest findet im Herbst 2018 zum fünften mal statt.
 
-Wir haben uns mit [Ruby Berlin e.V.](https://rubyberlin.org) and [OpenTechSchool e.V.](https://opentechschool.org) zusammengetan, um eine Stelle für Buchhaltung und Management zu schaffen. Die Buchhaltung ist momentan der größte Teil.
+Wir haben uns mit [Ruby Berlin e.V.](https://rubyberlin.org) und [OpenTechSchool e.V.](https://opentechschool.org) zusammengetan, um eine Stelle für Buchhaltung und Management zu schaffen. Die Buchhaltung ist momentan der größte Teil.
 
 Alle diese Projekte sind stolz darauf, eine inklusive Umgebung zu schaffen und aktiv daran zu arbeiten, diese ständig zu verbessern.
 
-Bisher sind all diese Projekte auf rein freiwilliger Basis und viele Beteiligte übernehmen mehrere Rollen. Wir stellen fest, dass eine ansprechbare Buchhaltung und eine ansprechbare Geschäftsstelle für einfache Nachfragen viel helfen würden.
+Bisher sind all diese Projekte auf rein freiwilliger Basis organisiert und viele Beteiligte übernehmen mehrere Rollen. Wir haben festgestellt, dass eine ansprechbare Buchhaltung und eine ansprechbare Geschäftsstelle für einfache Nachfragen viel helfen würden.
 
 Der Job besteht aus:
 * Buchhaltung RustFest (2 Mal pro Jahr)
-  - Bearbeitung von Sponsor-Rechnungen
+  - Bearbeitung von Sponsorrechnungen
   - Bearbeitung von Rückerstattungen 
   - Bearbeitung von Rückerstattungen von Speaker-Kosten und Diversity-Tickets
   - Jährliche Steuererklärung (zusammen mit Steuerberater)
 * Buchhaltung Ruby Berlin e.V.
-  - Bearbeitung Sponsor-Rechnungen zusammen mit Code Curious
-  - Bearbeitung allgemeiner Vereins-Rechungen
+  - Bearbeitung Sponsorrechnungen zusammen mit Code Curious
+  - Bearbeitung allgemeiner Vereinsrechungen
   - Unterstützung des Vorstands
   - Jährliche Steuererklärung (zusammen mit Steuerberater)
 * Bookkeeping OpenTechSchool e.V.
-  - Bearbeitung Sponsor-Rechnungen
-  - Bearbeitung allgemeiner Vereins-Rechungen
+  - Bearbeitung Sponsorrechnungen
+  - Bearbeitung allgemeiner Vereinsrechungen
   - Unterstützung des Vorstands
   - Jährliche Steuererklärung
 * Geschäftsstelle für alle drei
   - Antworten auf Fragen allgemeiner Art
   - Kontakt halten mit Sponsoren
 
-Beachte dass sowohl Ruby Berlin als auch OpenTechSchool nicht viele Rechnungen bekommen, die meisten Wochen vergehen ohne anfallende Arbeiten. Die Arbeiten müssen nicht aus dem Büro geschehen, aber wir können auf Wunsch einen Arbeitsplatz stellen. Alle notwendigen Arbeitsmittel (computer, etc.) können gestellt werden.
+Beachte, dass sowohl Ruby Berlin als auch OpenTechSchool nicht viele Rechnungen bekommen, die meisten Wochen vergehen ohne anfallende Arbeiten. Die Arbeiten müssen nicht aus dem Büro geschehen, aber wir können auf Wunsch einen Arbeitsplatz stellen. Alle notwendigen Arbeitsmittel (Computer, etc.) können gestellt werden.
 
-Alles zusammen erwarten wir ca. 30 Stunden *monatlich* für alle drei.
+Alles zusammen erwarten wir ca. 30 Stunden *monatlich* für alle drei Organisationen.
 
 ## Was wir anbieten
 
@@ -47,9 +47,9 @@ Wir bieten eine flexible Arbeitsumgebung in freundlichen Organisationen, die sic
 Im Detail:
 * Eine Heimarbeitsstelle
 * 25EUR Lohn pro Stunde (verhandelbar)
-* Flexible Arbeitszeiten, mit kaum harten Zeitanforderungen ausserhalb der Konferenzwochen
+* Flexible Arbeitszeiten, mit kaum harten Zeitanforderungen außerhalb der Konferenzwochen
 * Eine freundliche Arbeitsumgebung
-* Unterstützung und Ausbildung, solltest du dir Dinge auf Arbeit aneignen müssen
+* Unterstützung und Ausbildung, solltest du dir Dinge auf der Arbeit aneignen müssen
   - Wir machen das alles schon seit Jahren, wir wissen also grob, was zu tun ist
 * Unterstützung von erfahrenem Buchhaltungs- und Management-Personal
   - Wir haben vorher viel Unterstützung von befreundeten Firmen erhalten, die gerne weiter mit Rat zur Seite stehen
@@ -72,16 +72,16 @@ Die Anstellung wird durch die [asquera GmbH](https://asquera.de) geschehen.
 
 Du bist daran interessiert, Aktiven bei ihrer gemeinnützigen Arbeit unter die Arme zu greifen.
 
-* Du erledigst Büroarbeit auf organisierte Art und weise
+* Du erledigst Büroarbeit auf organisierte Art und Weise
 * Du kannst einfache Buchhaltung
   - Die Leitung der Organisationen wird dir dabei helfen
   - Wir haben Steuerfachkräfte für die schwierigen Fragen
-* Du kannst email auf Deutsch und Englisch beantworten
+* Du kannst Email auf Deutsch und Englisch beantworten
   - Beides müssen nicht deine Muttersprache sein, aber du solltest halbwegs sicher sein
 * Du bist selbstorganisiert
   - Du wirst mit Freiwilligen arbeiten und bist die einzige Person, die bezahlt wird
 * Du kannst dich mit um unseren Jahresrythmus organisieren
-  - RustFest findet 2 Mal im Jahr statt, eine Ansprechbarkeit in diesen 2 Wochen ist wichtig
+  - RustFest findet 2 Mal im Jahr statt, eine Ansprechbarkeit in den 2 Wochen der Konferenz ist wichtig
 * Du bist flexibel
   - Wir würden uns freuen, wenn du im Rahmen deiner Zeit weitere Aufgaben übernehmen kannst
 * Du verstehst und unterstützt unsere [Ziele zu Diversität und Empowerment](http://www.opentechschool.org/about.html)
@@ -89,4 +89,4 @@ Du bist daran interessiert, Aktiven bei ihrer gemeinnützigen Arbeit unter die A
 
 Beachte, dass Reisen nicht notwendig ist, aber wenn du unsere Veranstaltungen besuchen möchtest, übernehmen wir selbstverständlich die entstehenden Kosten.
 
-Immernoch interessiert? [Schreibe uns!](mailto:florian@rustfest.eu).
+Interessiert? [Schreibe uns!](mailto:florian@rustfest.eu).
