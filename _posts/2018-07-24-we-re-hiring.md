@@ -46,7 +46,10 @@ We offer a flexible working environment in friendly organisations that encourage
 
 We offer:
 * A remote job
-* 25EUR per hour pay (negotiable)
+* Fixed pay
+* 25EUR per hour (negotiable)
+  - Based on an assumed 30 hours of work time
+  - 750EUR per month
 * Flex time work, with no hard time constraits outside of the conference weeks
 * A friendly work environment
 * Support and education, should you need to learn skills "on the job"
