@@ -46,7 +46,10 @@ Wir bieten eine flexible Arbeitsumgebung in freundlichen Organisationen, die sic
 
 Im Detail:
 * Eine Heimarbeitsstelle
-* 25EUR Lohn pro Stunde (verhandelbar)
+* Fester Lohn
+* 25EUR Lohn pro Stunde als Grundlage (verhandelbar)
+  - Für 30 Stunden Arbeit pro Monat
+  - 750EUR gesamt
 * Flexible Arbeitszeiten, mit kaum harten Zeitanforderungen außerhalb der Konferenzwochen
 * Eine freundliche Arbeitsumgebung
 * Unterstützung und Ausbildung, solltest du dir Dinge auf der Arbeit aneignen müssen
