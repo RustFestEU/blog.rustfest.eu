@@ -6,7 +6,7 @@ authors:
   - wolf4ood 
   - tglman
 ---
-They say all the roads lead to Rome, so, after previous successful stops in Berlin, Київ, Zürich and Paris, it was just a matter of time before Rust Fest reached the italian capital. We hope you'll join us on  **November 24th and 25th, 2018** at [**Congress Center Frentani**](https://www.congressifrentani.it/centrocongressi/), near the main railway station of Rome ([Termini](https://www.romatermini.com/en/)).
+They say all the roads lead to Rome, so, after previous successful stops in Berlin, Київ, Zürich and Paris, it was just a matter of time before Rust Fest reached the Italian capital. We hope you'll join us on  **November 24th and 25th, 2018** at [**Congress Center Frentani**](https://www.congressifrentani.it/centrocongressi/), near the main railway station of Rome ([Termini](https://www.romatermini.com/en/)).
 
 ![The Colosseum](assets/posts/rome.jpg)
 
@@ -14,7 +14,7 @@ They say all the roads lead to Rome, so, after previous successful stops in Berl
 
 **Want to attend?** Pencil the date in your calendar! Like previous editions, we'll release a few ticket batches to ensure you get a chance to get your ticket. In the meantime, why not explore hotel/AirBNB options as well as things to do? Check out the [venue page](https://rome.rustfest.eu/location/) for more.
 
-**Need to convince your boss?** Some talking points: RustFest is the *only* non-US based conference focused on Rust and the community around it. We are a community conference with (very) affordable tickets, and we can issue invoices to companies. 
+**Need to convince your boss?** Some talking points: RustFest is the leading non-US based conference focused on Rust and the community around it. We are a community conference with (very) affordable tickets, and we can issue invoices to companies. 
 
 **What is it like?** Talks can be found online for [Berlin](https://www.youtube.com/watch?v=fI4RG_uq-WU&list=PL85XCvVPmGQh8nWR_Z-fTmPGsUWuzb-dn), [Київ](https://www.youtube.com/watch?v=AHprJNUCgQ0&list=PL85XCvVPmGQhvs1Rnet_24B-AI3YSM2YG), [Zürich](https://www.youtube.com/watch?v=jywiVWKm1TI&list=PL85XCvVPmGQj9mqbJizw-zi-EhcpS5jTP) and [Paris](https://www.youtube.com/watch?v=23lRkdDXqY0&list=PL85XCvVPmGQgdqz9kz6qH3SI_hp7Zb4s1). The conference is much more than that though, and you'll have the opportunity to meet people who work on some of the projects and efforts you know and love, share in fine cheese and bread, and drink world famous wine with your new and old friends.
 
