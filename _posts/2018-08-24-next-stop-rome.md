@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "let rome = rust_fest.next();"
-socialImageSrc: "/assets/posts/rome-panorama.jpg"
+socialImageSrc: "/assets/posts/rome.jpg"
 authors:
   - wolf4ood 
   - tglman
@@ -22,7 +22,7 @@ They say all the roads lead to Rome, so after previous successful stops in Berli
 
 **Haven't spoken before but want to?** Submit! It's totally okay! If we accept your talk in our (blind) selection procedure we're happy to be your first experience. If you'd like, we're also happy to mentor you to give you some tips.
 
-**Barriers to participating?** Not all of us can easily attend these events for a variety of reasons. We'll be working with [Diversity Tickets](https://diversitytickets.org/) again. If the ticket cost itself is your only barrier, let us know. Read more on our [infos & policies](https://rome.rustfest.eu/policies/) page.
+**Barriers to participating?** Not all of us can easily attend these events for a variety of reasons. We'll be working with [Diversity Tickets](https://diversitytickets.org/) again. If the ticket cost itself is your only barrier, let us know. Read more on our [infos & policies](https://rome.rustfest.eu/info/) page.
 
 **Want to help someone else attend? Have a conference budget?** We will be selling supporter tickets as well, with the additional funds being used for inclusivity and diversity efforts. If you can, consider helping our fellow community members.
 
