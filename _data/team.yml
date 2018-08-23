@@ -253,7 +253,7 @@ tglman:
   name: "Emanuele Tagliaferri"
   nick: "tglman"
   desc: ""
-  thumbnailUrl: tglman.jpeg
+  thumbnailUrl: tglman.jpg
   links:
     - icon: "github"
       title: "tglman"
