@@ -237,3 +237,27 @@ pnkfelix:
     - icon: "github"
       title: "pnkfelix"
       link: "https://github.com/pnkfelix"
+wolf4ood:
+  name: "Enrico Risa"
+  nick: "wolf4ood"
+  desc: ""
+  thumbnailUrl: wolf4ood.jpg
+  links:
+    - icon: "github"
+      title: "wolf4ood"
+      link: "https://github.com/wolf4ood"
+    - icon: "twitter"
+      title: "wolf4ood"
+      link: "https://twitter.com/wolf4ood"
+tglman:
+  name: "Emanuele Tagliaferri"
+  nick: "tglman"
+  desc: ""
+  thumbnailUrl: tglman.jpg
+  links:
+    - icon: "github"
+      title: "tglman"
+      link: "https://github.com/tglman"
+    - icon: "twitter"
+      title: "tglman"
+      link: "https://twitter.com/tglman"             
