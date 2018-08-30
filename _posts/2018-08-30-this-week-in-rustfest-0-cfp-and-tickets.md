@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This week in RustFest 0: CfP and Supporter Tickets"
+title: "This week in RustFest 0: CfP, Diversity pool donations and Supporter Tickets"
 authors:
   - wolf4ood
   - tglman
@@ -8,7 +8,8 @@ authors:
   - skade
 ---
 
-New 
+From now on you can buy [Supporter Tickets to RustFest Rome (244€ inc. VAT)](https://ti.to/asquera-event-ug/rustfest-rome-2018)! Secure your place and make the conference more awesome! [Our diversity sponsorship pool](https://ti.to/asquera-event-ug/rustfest-rome-2018) is also open, for helping people from underrepresented groups attend RustFest. Please consider supporting the initiative by making a donation.
+
 
 # CFP
 
@@ -22,15 +23,24 @@ This year for the evaluation of the CfP will be done by a committee of community
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/pTEYqpcQ6lg" frameborder="0" allowfullscreen></iframe>
 
-# Supporter conference tickets
 
-From now on you can buy [Supporter Tickets to RustFest Rome (244€ inc. VAT)](https://ti.to/asquera-event-ug/rustfest-rome-2018)! Secure your place and make the conference more awesome!
+# Diversity support pool donations
+
+Just like previous events we will do our best to support underrepresented groups by arranging travel, accommodation, and tickets for them by working with [Diversity Tickets](https://diversitytickets.org/) again. The application for free diversity tickets and travel sponsorship will open soon!
+
+Our Diversity Sponsorship pool is a monetary fund reserved for the sole purpose of enabling our diversity program's awardees to attend and enjoy RustFest.
+
+When buying your ticket you are able to contribute to our [Diversity Sponsorship pool for donations](https://ti.to/asquera-event-ug/rustfest-rome-2018). These are pay-what-you-want style donations that you can find in the RustFest ti.to ticket shop, and by buying them you support us in our mission to help more of our awardees afford enjoying RustFest with us.
+
+> Please note that contributing to this pool does not include conference access, **they are not tickets**.
+> An actual conference ticket needs to be purchased for attending RustFest.
+
+# Supporter conference tickets 
 
 Supporter tickets enable us to provide a great conference experience while keeping the ticket price affordable for everyone. By buying the Supporter ticket (priced at 244€ inc. VAT) you help us improve the conference, provide transcription, video recordings, on-site childcare etc.
 
-Just like previous events we will do our best to support underrepresented groups by arranging travel, accommodation, and tickets for them by working with [Diversity Tickets](https://diversitytickets.org/) again. The application will open soon!
-
 We will be also releasing the student and standard in September. Be patient!
+
 
 # `impl Days for RustFest<Rome>`
 
