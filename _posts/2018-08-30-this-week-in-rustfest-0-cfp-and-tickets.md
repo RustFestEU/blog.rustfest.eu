@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This week in RustFest 0: CfP and Tickets"
+title: "This week in RustFest 0: CfP and Supporter Tickets"
 authors:
   - wolf4ood
   - tglman
@@ -20,12 +20,22 @@ First time speaking? Submit! It's totally okay! If we accept your talk in our (b
 
 This year for the evaluation of the CfP will be done by a committee of community members! More news will come soon!
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/pTEYqpcQ6lg" frameborder="0" allowfullscreen></iframe>
 
-# Supporter tickets and Diversity fund donations
+# Supporter conference tickets
 
-Just like previous events we will do our best to support underrepresented groups by arranging travel, accommodation, and tickets for them. [Apply here for support](https://diversitytickets.org/events/152).
+From now on you can buy [Supporter Tickets to RustFest Rome (244€ inc. VAT)](https://ti.to/asquera-event-ug/rustfest-rome-2018)! Secure your place and make the conference more awesome!
 
-If you would like us to sponsor more people, please consider a [Supporter Ticket (240€ inc. VAT)](https://ti.to/asquera-event-ug/rustfest-rome-2018/) or a [Diversity Fund Donation](https://ti.to/asquera-event-ug/rustfest-rome-2018/).
+Supporter tickets enable us to provide a great conference experience while keeping the ticket price affordable for everyone. By buying the Supporter ticket (priced at 244€ inc. VAT) you help us improve the conference, provide transcription, video recordings, on-site childcare etc.
 
-We will be releasing the student and standard tickets in soon. Be patient!
+Just like previous events we will do our best to support underrepresented groups by arranging travel, accommodation, and tickets for them by working with [Diversity Tickets](https://diversitytickets.org/) again. The application will open soon!
+
+We will be also releasing the student and standard in September. Be patient!
+
+# `impl Days for RustFest<Rome>`
+
+In Zürich and Paris we extended the conference for two days of open hacking and development. 
+
+We plan something similar for Rome in the two days after RustFest Rome. If you would like to join us please book your hotel until the 26th or 27th of November. Yes, your conference ticket includes the impl days.
+
 
