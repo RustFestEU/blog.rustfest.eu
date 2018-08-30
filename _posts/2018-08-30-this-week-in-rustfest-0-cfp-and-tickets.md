@@ -4,7 +4,7 @@ title: "This week in RustFest 0: CfP, Diversity pool donations and Supporter Tic
 authors:
   - wolf4ood
   - tglman
-  - flaky
+  - flaki
   - skade
 ---
 
@@ -21,7 +21,7 @@ First time speaking? Submit! It's totally okay! If we accept your talk in our (b
 
 This year for the evaluation of the CfP will be done by a committee of community members! More news will come soon!
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/pTEYqpcQ6lg" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/23lRkdDXqY0" frameborder="0" allowfullscreen></iframe>
 
 
 # Diversity support pool donations
