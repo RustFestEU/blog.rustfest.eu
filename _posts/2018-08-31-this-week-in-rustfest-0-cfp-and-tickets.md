@@ -39,8 +39,11 @@ When buying your ticket you are able to contribute to our [Diversity Sponsorship
 
 Supporter tickets enable us to provide a great conference experience while keeping the ticket price affordable for everyone. By buying the Supporter ticket (priced at 244€ inc. VAT) you help us improve the conference, provide transcription, video recordings, on-site childcare etc.
 
-We will be also releasing the student and standard in September. Be patient!
+We will be also releasing in batches standards tickets starting from September as follows:
 
++ Batch #1: Monday, September 17th
++ Batch #2: Wednesday, October 10th
++ Batch #3: Wednesday, October 24th
 
 # `impl Days for RustFest<Rome>`
 
