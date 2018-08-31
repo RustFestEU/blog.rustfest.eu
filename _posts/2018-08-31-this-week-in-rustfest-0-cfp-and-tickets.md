@@ -13,7 +13,7 @@ Starting today at 17:00 CEST you can buy [Supporter Tickets to RustFest Rome (24
 
 # CFP
 
-[The Call for Proposals](https://cfp.rustfest.eu) will open **Monday, September 1st**! We would love to hear your proposal for a talk. Make sure to submit before **September 16, 23:59:00 UTC**! As always, we'll be prioritizing talks not yet recorded at Rust conferences.
+[The Call for Proposals](https://cfp.rustfest.eu) will open **Monday, September 3rd**! We would love to hear your proposal for a talk. Make sure to submit before **September 16, 23:59:00 UTC**! As always, we'll be prioritizing talks not yet recorded at Rust conferences.
 
 You are free to talk about anything Rust-related, come and share your own personal Rust experience! From code, to community and not forgetting experiences in production, best practices, theory or anything in between. We are happy to hear it from you.
 
