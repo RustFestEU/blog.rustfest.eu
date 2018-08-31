@@ -8,12 +8,12 @@ authors:
   - skade
 ---
 
-From now on you can buy [Supporter Tickets to RustFest Rome (244€ inc. VAT)](https://ti.to/asquera-event-ug/rustfest-rome-2018)! Secure your place and make the conference more awesome! [Our diversity sponsorship pool](https://ti.to/asquera-event-ug/rustfest-rome-2018) is also open, for helping people from underrepresented groups attend RustFest. Please consider supporting the initiative by making a donation.
+Starting today at 17:00 CEST you can buy [Supporter Tickets to RustFest Rome (244€ inc. VAT)](https://ti.to/asquera-event-ug/rustfest-rome-2018)! Secure your place and make the conference more awesome! [Our diversity sponsorship pool](https://ti.to/asquera-event-ug/rustfest-rome-2018) is also open, for helping people from underrepresented groups attend RustFest. Please consider supporting the initiative by making a donation.
 
 
 # CFP
 
-The [Call for Proposal](https://cfp.rustfest.eu) is open! We would love to hear your proposal for a talk. Make sure to submit before **September 16, 23:59:00 UTC**! As always, we'll be prioritizing talks not yet recorded at Rust conferences.
+[The Call for Proposals](https://cfp.rustfest.eu) is open! We would love to hear your proposal for a talk. Make sure to submit before **September 16, 23:59:00 UTC**! As always, we'll be prioritizing talks not yet recorded at Rust conferences.
 
 You are free to talk about anything Rust-related, come and share your own personal Rust experience! From code, to community and not forgetting experiences in production, best practices, theory or anything in between. We are happy to hear it from you.
 
