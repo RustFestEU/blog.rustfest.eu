@@ -28,7 +28,11 @@ We are excited to announce the line-up of the speakers for the keynotes:
 
 ### Aaron Turon
 
-Rust Project lead, wine connoisseur and succulent appreciator.
+He works at Mozilla on the Rust programming language, together with an incredible, worldwide community of contributors.
+
+He used to be an academic, studying concurrency, verification and programming language design.
+
+Currently living in Portland, Oregon.
 
 ### Ashley Williams
 
@@ -48,7 +52,7 @@ growing the web through her work on WebAssembly.
 
 Alan is a software developer with a background in electronics engineering, who lives in Namibia and spends his days
 coding Javascript and composing choral pieces. He saved his first program onto a cassette tape and then proceeded to pop
-the tape into a stereo just to hear what it’d sound like. Turns out that’s a whole genre of music.
+the tape into a stereo just to hear what it'd sound like. Turns out that's a whole genre of music.
 
 ### Lee Baillie
 
