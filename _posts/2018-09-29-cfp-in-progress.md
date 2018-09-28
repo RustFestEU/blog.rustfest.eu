@@ -56,9 +56,10 @@ the tape into a stereo just to hear what it'd sound like. Turns out that's a who
 
 ### Lee Baillie
 
-Lee is currently wrangling the JavaScripts and herding the Rubies as an engineer at Tilde. Previously, they spent many
-years drawing comic books to a limited but enthusiastic audience. They are just getting started at contributing to open
-source projects and is already addicted. Please send help (don't actually send help).
+Lee Baillie herds Rubies and wrangles JavaScripts (occasionally also tending to the Rust garden) at Tilde in Portland,
+OR, mainly in the context of building Skylight, a Rails performance profiler. In their spare time, they enjoy hanging
+out with their dog JPEG, exploring the beautiful outdoors of the PNW, and lifting heavy things only to put them down
+again.
 
 ## Impl Days
 
