@@ -19,19 +19,19 @@ Like every year, there's a preliminary selection; here is a draft of the schedul
 | Keynotes      | 2              |
 | 15min format  | 2              |
 | 30min format  | 7              |
-| 45min format  | 2              |
 
 # Keynotes
 
 We are excited to announce our keynote speaker lineup.
 
-This time around, we want to try something new: while the first keynote will be held by <strong>Aaron Turon</strong>, we'll do away with the second keynote.
+This time around, we want to try something new: while the first keynote will be held by <strong>Aaron Turon</strong>,
+the second keynote will be replaced by what we call the "Project Highlight".
 
-Instead, it will be replaced by what we call the "Project Highlight". For the first iteration, we're going to put
-Increasing Rust Reach. This awesome project connects people around the globe with Rust projects and - running in its
-second year - has a lot of interesting learnings to present!
+For the first iteration, we're going to put Increasing Rust Reach. This awesome project connects people around the globe
+with Rust projects and - running in its second year - has a lot of interesting learnings to present!
 
-Project Highlight will be presented by <strong>Ashley Williams</strong>, <strong>Alan Kavishe</strong> and <strong>Lee Baillie</strong>.
+"Project Highlight" will be presented by <strong>Ashley Williams</strong>, <strong>Alan Kavishe</strong> and <strong>Lee
+Baillie</strong>.
 
 Here is a short bio of the speakers.
 
@@ -47,21 +47,21 @@ He currently lives in Portland, Oregon.
 ### Ashley Williams
 
 Ashley is an engineer at Integer32, contracting for Mozilla on the Rust Programming Language. She is a member of the
-Rust Core team, leads the Rust Community Team, and is a member of the [crates.io](http://crates.io) infra and cargo
+Rust Core team, leads the Rust Community Team, and is a member of the [crates.io](https://crates.io) infra and cargo
 teams.
 
-Previously, she worked as an engineer at npm, the package manager for Javascript, and currently is the Individual
+Previously, she worked as an engineer at npm, the package manager for JavaScript, and currently is the Individual
 Membership Director on the Node.js Foundation Board of Directors.
 
-A long time teacher, Ashley has focused much of her energies on education programs for open source projects, founding
-NodeTogether in 2016 and currently leading the RustBridge and Increasing Rust's Reach initiatives. She has represented
+A long time teacher, Ashley has focused much of her energy on education programs for open source projects, founding
+NodeTogether in 2016 and currently leading the [RustBridge](https://rustbridge.github.io) and [Increasing Rust's Reach](http://reach.rust-lang.org) initiatives. She has represented
 teachers' perspectives at TC39 meetings to influence the growth of JavaScript and continues to be passionate about
 growing the web through her work on WebAssembly.
 
 ### Alan Kavishe
 
 Alan is a software developer with a background in electronics engineering, who lives in Namibia and spends his days
-coding Javascript and composing choral pieces. He saved his first program onto a cassette tape and then proceeded to pop
+coding JavaScript and composing choral pieces. He saved his first program onto a cassette tape and then proceeded to pop
 the tape into a stereo just to hear what it'd sound like. Turns out that's a whole genre of music.
 
 ### Lee Baillie
