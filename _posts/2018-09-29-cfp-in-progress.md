@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Call for Proposals in progress, keynotes announcement"
+date: 2018-10-06
 authors:
-  - skade
   - apiraino
-
 ---
 
 # Call for Proposals
@@ -24,15 +23,26 @@ Like every year, there's a preliminary selection; here is a draft of the schedul
 
 # Keynotes
 
-We are excited to announce the line-up of the speakers for the keynotes:
+We are excited to announce our keynote speaker lineup.
+
+This time around, we want to try something new: while the first keynote will be held by <strong>Aaron Turon</strong>, we'll do away with the second keynote.
+
+Instead, it will be replaced by what we call the "Project Highlight". For the first iteration, we're going to put
+Increasing Rust Reach. This awesome project connects people around the globe with Rust projects and - running in its
+second year - has a lot of interesting learnings to present!
+
+Project Highlight will be presented by <strong>Ashley Williams</strong>, <strong>Alan Kavishe</strong> and <strong>Lee Baillie</strong>.
+
+Here is a short bio of the speakers.
 
 ### Aaron Turon
 
-He works at Mozilla on the Rust programming language, together with an incredible, worldwide community of contributors.
+Aaron Turon is the current lead of the Rust project, building the Rust language and ecosystems together with an
+incredible, worldwide community of contributors.
 
-He used to be an academic, studying concurrency, verification and programming language design.
+Aaron has an academic background in concurrency as well as verification and programming language design.
 
-Currently living in Portland, Oregon.
+He currently lives in Portland, Oregon.
 
 ### Ashley Williams
 
@@ -61,8 +71,8 @@ OR, mainly in the context of building Skylight, a Rails performance profiler. In
 out with their dog JPEG, exploring the beautiful outdoors of the PNW, and lifting heavy things only to put them down
 again.
 
-## Impl Days
+# impl Days
 
-What would a RustFest be without Impl Days! The Impl Days will take place on <strong>November, 26th-27th
+What would a RustFest be without impl Days! The impl Days will take place on <strong>November, 26th-27th
 2018</strong>. We are contacting possible venues to find a good spot to allow rustaceans enjoy the event and do
 something awesome together.
