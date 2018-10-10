@@ -44,7 +44,7 @@ Here is a short bio of the speakers.
 
 ### Aaron Turon
 
-Aaron Turon is the current lead of the Rust project, building the Rust language and ecosystems together with an
+Aaron Turon is the current lead of the Mozillas Rust Team, helping build the Rust language and ecosystems together with an
 incredible, worldwide community of contributors.
 
 Aaron has an academic background in concurrency as well as verification and programming language design.
