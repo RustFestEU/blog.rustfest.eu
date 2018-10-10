@@ -8,7 +8,7 @@ authors:
 
 # Tickets batch sale
 
-Forst of all, more tickets are on the way! A new <strong>standard tickets batch</strong> will be very soon available <a href="https://ti.to/asquera-event-ug/rustfest-rome-2018" target="_blank">at the ticket sale page</a>, grab them while they're hot!
+First of all, more tickets are on the way! A new <strong>standard tickets batch</strong> will be very soon available <a href="https://ti.to/asquera-event-ug/rustfest-rome-2018" target="_blank">at the ticket sale page</a>, grab them while they're hot!
 
 Check the <a href="https://twitter.com/RustFest/status/1049932457888440320" target="_blank">Twitter announcement</a>.
 
