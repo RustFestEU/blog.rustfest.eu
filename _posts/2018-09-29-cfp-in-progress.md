@@ -2,6 +2,7 @@
 layout: post
 title: "Call for Proposals in progress, keynotes announcement and more tickets!"
 date: 2018-10-10
+socialImageSrc: "/assets/posts/rome/twirf-keynotes.png"
 authors:
   - apiraino
 ---
