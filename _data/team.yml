@@ -2,7 +2,7 @@ flaki:
   name: "István Szmozsánszky"
   nick: "Flaki"
   desc: ""
-  thumbnailUrl: flaki.png
+  thumbnailUrl: flaki.jpg
   links:
     - icon: "twitter"
       title: "slsoftworks"
@@ -241,7 +241,7 @@ wolf4ood:
   name: "Enrico Risa"
   nick: "wolf4ood"
   desc: ""
-  thumbnailUrl: wolf4ood.jpg
+  thumbnailUrl: wolf4ood.png
   links:
     - icon: "github"
       title: "wolf4ood"
@@ -260,4 +260,16 @@ tglman:
       link: "https://github.com/tglman"
     - icon: "twitter"
       title: "tglman"
-      link: "https://twitter.com/tglman"             
+      link: "https://twitter.com/tglman"
+apiraino:
+  name: "Antonio Piraino"
+  nick: "apiraino"
+  desc: ""
+  thumbnailUrl: apiraino.jpg
+  links:
+    - icon: "github"
+      title: "apiraino"
+      link: "https://github.com/apiraino"
+    - icon: "gitlab"
+      title: "apiraino"
+      link: "https://gitlab.com/apiraino"
