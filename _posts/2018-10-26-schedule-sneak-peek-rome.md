@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Schedule sneak peek"
+title: "This Week in RustFest 3: Schedule sneak peek"
 socialImageSrc: "/assets/posts/rome/twirf-rustbridge.jpg"
 authors:
 - dns2utf8
@@ -26,7 +26,7 @@ Well here is the current draft:
 | 15:05 | Coffee break |
 | ...   | ... |
 | 16:55 | Closing keynote |
-| 17:40 | Tips and final words from the team |
+| 17:40 | Tips for Rome, the Workshops and final words from the team |
 | 17:55 | Family photo |
 | 18:00 | Doors close |
 
@@ -43,6 +43,14 @@ The speakers will be around after their talks where you can discuss everything i
 
 # We still sell tickets
 
-Our final batch of tickets is [live on tito](https://ti.to/asquera-event-ug/rustfest-rome-2018/).
+Our final batch of tickets is 🎟 [live on tito](https://ti.to/asquera-event-ug/rustfest-rome-2018/) 🎟.
 
 These tickets will stay around until they sell out or shortly before the conference.
+
+# Our Friends at Threema
+
+We’re happy to welcome Threema as a sponsor for Paris.
+Threema is a Swiss🇨🇭 company building secure messaging apps.
+Their [push relay](https://github.com/threema-ch/push-relay) written in Rust is running in production and serving countless messages to their users daily.
+
+<a href="https://threema.ch" target="_blank">![Threema](/assets/sponsors/threema.png)</a>
