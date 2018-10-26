@@ -30,7 +30,7 @@ Well here is the current draft:
 | 17:55 | Family photo |
 | 18:00 | Doors close |
 
-You might be wondering "did they just write times like `:40`?"
+You might be wondering "did they just write times like `:40` and `:05`?"
 Yes we did!
 There are some Swiss people in the orga and to maximize the amount of talks we will be punctual and on time.
 
