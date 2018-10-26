@@ -38,7 +38,7 @@ If you are a speaker, we will give you hints on when to come to an end.
 Also, if you would like to allow the audience to ask questions, that has to fit into you slot.
 
 If you are an attendee, please be aware that talks will start definitively on time and - unless they finish ahead of the allotted time slot - there will be time only for a quick question or two.
-The speakers will be around after their talks where you can discuss everything including opinions.
+Speakers will be around after their talks for in depth discussions.
 
 
 # We still sell tickets
