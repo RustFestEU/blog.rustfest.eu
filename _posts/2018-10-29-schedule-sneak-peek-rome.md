@@ -50,8 +50,8 @@ These tickets will stay around until they sell out or shortly before the confere
 # Our Friends at Threema
 
 We’re happy to welcome [Threema](https://threema.ch/) as a sponsor for Rome.
-Threema is a Swiss🇨🇭 company building secure messaging apps.
+Threema is a Swiss🇨🇭 company providing highly secure messaging solutions for both private users and business customers. The Threema app has won numerous awards for its security, metadata restraint, and usability.
 Their [push relay](https://github.com/threema-ch/push-relay) written in Rust is running in production and waking up countless phones daily.
-And just a few hours ago, they released the first version of their iOS app that [contains Rust code](https://github.com/saltyrtc/saltyrtc-client-rs), powering the Threema Web integration!
+Recently, they released the first version of their iOS app that [contains Rust code](https://github.com/saltyrtc/saltyrtc-client-rs), powering the Threema Web integration!
 
 <a href="https://threema.ch" target="_blank">![Threema](/assets/sponsors/threema.png)</a>
