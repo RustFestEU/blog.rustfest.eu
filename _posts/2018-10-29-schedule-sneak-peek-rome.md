@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "This Week in RustFest 3: Schedule sneak peek"
-socialImageSrc: "/assets/posts/rome/twirf-rustbridge.jpg"
+socialImageSrc: "/assets/posts/rome/twirf-3.png"
 authors:
 - dns2utf8
 ---
