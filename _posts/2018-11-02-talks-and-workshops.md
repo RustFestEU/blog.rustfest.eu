@@ -12,7 +12,7 @@ We have opened our third and last batch of tickets. So get them while they are s
 
 # Talks and Workshops at RustFest Rome
 
-Last week, we finally announced the long awaited talk lineup for Rome on our Twitter accunt [@RustFest](https://twitter.com/RustFest) account. We also published as sneak peak of the schedule, which is now complete and available on our website:
+Last week, we finally announced the long awaited talk lineup for Rome on our Twitter accunt [@RustFest](https://twitter.com/RustFest) account. We also published a sneak peak of the schedule, which is now complete and available on our website:
 
 <div style="text-align: center; padding: 1em;">
   <a href="https://rome.rustfest.eu/schedule/">
