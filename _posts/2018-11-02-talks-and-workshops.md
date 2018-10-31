@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This Week in RustFest 4: Workshops and Talk Schedule"
+title: "This Week in RustFest 4: Workshops and Talks Schedule"
 socialImageSrc: "/assets/posts/rome/twirf-4.png"
 authors:
   - gandro
