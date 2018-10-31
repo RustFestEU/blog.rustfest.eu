@@ -20,7 +20,7 @@ Last week, we finally announced the long awaited talks lineup for Rome on our Tw
   </a>
 </div>
 
-This and next week, we are also releasing the workshop program for Sunday. We are going to have a wide range of workshop topics again this time, both for Rust beginners and experts alike. Follow us on Twitter and watch this spot for future updates regarding workshops:
+This and next week, we are also releasing the workshops program for Sunday. We are going to have a wide range of workshop topics again this time, both for Rust beginners and experts alike. Follow us on Twitter and watch this spot for future updates regarding workshops:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">We are very excited to announce that <a href="https://twitter.com/RustBridge?ref_src=twsrc%5Etfw">@RustBridge</a> is joining us again with <a href="https://twitter.com/dog_awoo?ref_src=twsrc%5Etfw">@dog_awoo</a> in Rome! 🦀 🌉   <a href="https://t.co/GYHohBwUcf">https://t.co/GYHohBwUcf</a></p>&mdash; RustFest (@RustFest) <a href="https://twitter.com/RustFest/status/1054662251884568577?ref_src=twsrc%5Etfw">October 23, 2018</a></blockquote>
 
