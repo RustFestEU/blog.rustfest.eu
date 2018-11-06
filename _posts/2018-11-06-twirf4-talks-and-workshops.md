@@ -14,7 +14,7 @@ We have opened our third and last batch of tickets. So get them while they are s
 
 # Talks and Workshops at RustFest Rome
 
-Last week, we finally announced the long awaited talks lineup for Rome on our Twitter account [@RustFest](https://twitter.com/RustFest) account. We also published a sneak peek of the schedule, which is now complete and available on our website: <a href="https://rome.rustfest.eu/schedule/"><strong>🎙️ Talk Schedule 🎙️</strong></a>
+Last week, we finally announced the long awaited talks lineup for Rome on our Twitter account [@RustFest](https://twitter.com/RustFest). We also published a sneak peek of the schedule, which is now complete and available on our website: <a href="https://rome.rustfest.eu/schedule/"><strong>🎙️ Talk Schedule 🎙️</strong></a>
 
 RustFest would of course not be RustFest without workshops. We already announced [**🌉 RustBridge**](https://blog.rustfest.eu/rustbridge-rome) as our first workshop a few weeks back. This week we are super excited to announce the remaining workshops we are having on Sunday:
 
