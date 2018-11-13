@@ -2,6 +2,7 @@
 layout: post
 title: "This Week in RustFest 5: Impl Days Rome"
 description: "Announcing the Location of Impl Days in Rome"
+socialImageSrc: "/assets/posts/rome/twirf-5.png"
 ---
 
 # Location of the Impl Days Rome
