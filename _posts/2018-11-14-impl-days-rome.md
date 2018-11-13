@@ -20,7 +20,7 @@ The `impl Days` Rome will take place on **Monday, November 26th and Tuesday, Nov
 
 Attendance to the `impl Days` is included in your RustFest Rome ticket. You can <a href="https://ti.to/asquera-event-ug/rustfest-rome-2018/">buy your RustFest Rome ticket here</a>.
 
-# Our Friends at Crypttape
+# Our Friends at Cryptape
 
 We are excited to have Cryptape sponsor us for the first time in Rome! 
 
