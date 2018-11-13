@@ -28,7 +28,7 @@ We are excited to have Cryptape sponsor us for the first time in Rome!
 
 <div style="text-align: center">
   <a href="https://www.cryptape.com">
-    <img alt="Crypttape Logo" src="https://rome.rustfest.eu/assets/sponsors/cryptape.png"/>
+    <img alt="Cryptape Logo" src="https://rome.rustfest.eu/assets/sponsors/cryptape.png"/>
   </a>
 </div>
 
