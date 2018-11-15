@@ -16,7 +16,7 @@ or *How I Learned to Stop Worrying and Love ASCII*
 
 ----
 
-[**Fastware**](https://rome.rustfest.eu/sessions/fastware) by Jack Fransham
+[**Fastware**](https://rome.rustfest.eu/sessions/fastware) by David Palm and Robin Freyler
 > Rust is often touted as a fast language, but the Rust compiler isn’t magic. Although Rust enables and encourages an efficient style of programming, sometimes you need to dig deep and worry about the low-level details of your code. This workshop will teach you how to get the most out of your programs, without resorting to unsafety.
 
 ----
@@ -29,8 +29,6 @@ These two workshops are presented by [Parity](https://www.parity.io/) -- they ar
 
 <div style="text-align: center">
   <a href="https://www.parity.io/">
-    <img alt="Parity Logo" src="https://blog.rustfest.eu/assets/sponsors/parity.svg" style="max-height: 300px;"/>
+    <img alt="Parity Logo" src="/assets/sponsors/parity.png" style="max-width: 800px;"/>
   </a>
 </div>
-
-
