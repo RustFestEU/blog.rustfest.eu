@@ -23,7 +23,10 @@ Well, as we mentioned above T-shirts pose a tough challenge: we don't want to ra
 
 Since Paris we have been working with the amazing team at the [Ura Open Source Design Studio](https://ura.design/) to gradually improve the slightly dated design language and branding of RustFest (that has served us well for the past 3 years), some of this cooperation was already starting to bear fruit in Paris, but you will truly see it blossom at Rome. One of the (many) things that came out of this cooperation is the brand new T-shirt designs for Rome - we think it looks great, I hope you all love it, too:
 
-![RustFest Rome T-shirt mockup](/assets/posts/rustfest-rome-attendee-tshirt.png)
+<figure style="text-align: center;">
+    <a target="_blank" href="/assets/posts/rustfest-rome-attendee-tshirt.png"><img src="/assets/posts/rustfest-rome-attendee-tshirt-small.png" alt="RustFest Rome T-shirt mockup" /></a>
+    <figcaption>Click image to view full resolution</figcaption>
+</figure>
 
 **Why is it so expensive?**
 
