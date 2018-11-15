@@ -2,6 +2,7 @@
 layout: post
 title: "RustFest Rome T-Shirts!"
 socialImageSrc: "/assets/posts/tshirts-share.png"
+date: 2018-11-15
 authors:
  - flaki
 ---
