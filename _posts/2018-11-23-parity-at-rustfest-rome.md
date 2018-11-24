@@ -2,6 +2,7 @@
 layout: post
 title: "Parity at RustFest Rome 2018!"
 permalink: parity-at-rustfest-rome
+date: 2018-11-24
 ---
 
 *Note from the organizers: Please enjoy this message from Parity, one of our sponsors.*
