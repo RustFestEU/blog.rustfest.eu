@@ -6,6 +6,10 @@ authors:
  - flaki
 ---
 <style>
+.post-content img {
+  display: block;
+  margin: 2em auto;
+}
 .post-content ol li {
   list-style: auto;
   margin-left: 2em;
@@ -13,6 +17,8 @@ authors:
 </style>
 
 We have never intended to keep the RustFest organizing team a small, tight-knit group. Ever since the very first conference organizers have come and gone, and with them new locations popped up: we have always managed to inspire someone with our events to want to give back to their own local communities by bringing the global Rust community to town. All this time our goals remained the same: [teach and to empower](https://github.com/rust-community/foss-events-planner), to leave every community RustFest touched in a better shape, ideally with the ability and means of organizing larger events. Of course, RustFest also benefited, as occasionally these folks we have worked with have decided to stick around longer, and are (or have been, for extended periods) part of the wider RustFest organizing team today.
+
+![RustFest Rome 2018 team](../assets/posts/rustfest-rome-team.jpg)
 
 After having had run five wonderful events, and having almost doubled RustFest in size since the very first Berlin event it was time for us to take a short break. At last year's Rome event we have decided to take a step back and regroup: the idea was to organize all our learnings in a way that we could use them to support an even wider variety of global (or globally local) events. On the other hand, organizing _two_ events a year — especially in such a nomadic manner, when no two events took place in the same location, or the same country, even! — is hard, and we could already see some cracks showing.
 
