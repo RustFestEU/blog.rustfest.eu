@@ -26,7 +26,7 @@ We want to keep RustFest a high-quality community festival, a celebration of the
 
 This brings us to today's announcement of the Call for Events (a.k.a Call for Event Organizing Teams) form:
 
-> #### [The RustFest & Rust Community Events Team joint Call for Events form](https://docs.google.com/forms/d/1gxAgOl4ug8RhGFmQoRScveLgNigb0Gc8BIX6ZZJLj5I/)
+> #### [The RustFest & Rust Community Events Team joint Call for Events form](https://docs.google.com/forms/d/e/1FAIpQLScKKJjqcMgJag_P3PKAkn1U0CYsluozrHwhDGsUighyR9Zpfg/viewform)
 
 The above form is built in cooperation with the Events Subteam of Rust Project's Community team (which team itself includes many of the RustFest organizers themselves), and has two main goals:
 
