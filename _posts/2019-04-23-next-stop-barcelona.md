@@ -25,7 +25,7 @@ Like previous editions, we'll release a few ticket batches to ensure you get a c
 [Rome](https://www.youtube.com/watch?list=PL85XCvVPmGQjEE4ICTuXGLXUDZQUuanJy&v=0sIgVnRAcn0).
  The conference is much more than that though, and you'll have the opportunity to meet people who work on some of the projects and efforts you know and love.
 
-**Want to speak?** The [Call for Proposals](https://cfp.rustfest.eu/) will open soon!. We would love to hear your proposal for a talk. Stay tuned on the official RustFest communication channels such as our [twitter](https://twitter.com/rustfest) or this blog.
+**Want to speak?** The [Call for Proposals](https://cfp.rustfest.eu/) will open soon! We would love to hear your proposal for a talk. Stay tuned on the official RustFest communication channels such as our [twitter](https://twitter.com/rustfest) or this blog.
 
 **Haven't spoken before but want to?** Submit! It's totally okay! If we accept your talk in our (blind) selection procedure we're happy to be your first experience. If you'd like, we're also happy to mentor you to give you some tips.
 
