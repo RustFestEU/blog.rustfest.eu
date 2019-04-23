@@ -10,7 +10,7 @@ Barcelona is a Mediterranean and cosmopolitan city with Roman remains, medieval 
 
 ![Barcelona by night](/assets/posts/barcelona.jpg)
 
-**What is Rustfest again?** It's a two day conference involving one day of workshops and one day of talks! We aim for a diverse set of talks: technical and non-technical, advanced and beginner friendly content, live coding, panel, or slide based. If you like Rust, the community, or just hacking in general we aim to have something to appeal to you. This year the conference will host up to 350 awesome folks. It occurs bi-annually in a different city each edition.
+**What is RustFest again?** It's a two day conference involving one day of workshops and one day of talks! We aim for a diverse set of talks: technical and non-technical, advanced and beginner friendly content, live coding, panel, or slide based. If you like Rust, the community, or just hacking in general we aim to have something to appeal to you. This year the conference will host up to 350 awesome folks. It occurs bi-annually in a different city each edition.
 
 **Want to attend?** Mark your calendars! While we don't have a final date yet, we're aiming for late fall this year.
 Like previous editions, we'll release a few ticket batches to ensure you get a chance to get your ticket. In the meantime, why not get to know Barcelona a bit? Check out the [venue page](https://barcelona.rustfest.eu/location/) for more.
