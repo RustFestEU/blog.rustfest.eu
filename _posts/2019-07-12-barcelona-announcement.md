@@ -34,7 +34,7 @@ Rustfest Barcelona 2019 is going to be hold in the [Vèrtex building at Campus N
 
 We'll be using the two level **Vèrtex auditorium** with capacity for 477 people and access for people with reduced mobility at any of the two levels which we think will make a great venue for the amazing talks we'll be hosting this year. ;D
 
-The workshops and the *Impl Days** will take place in some of the [university's classrooms](https://www.upc.edu/campusnord/ca/espais/aules-vertex) which are fully equiped to host workshops of almost any kind.
+The workshops and the *Impl Days** will take place in some of the [university's classrooms](https://www.upc.edu/campusnord/ca/espais/aules-vertex) which are fully equipped to host workshops of almost any kind.
 
 We will have also available a chilling area for resting between sessions.
 
