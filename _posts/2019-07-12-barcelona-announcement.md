@@ -28,13 +28,14 @@ We took into account the feedback we received from previous editions and we beli
 
 ## Venue
 
-Rustfest Barcelona 2019 is going to be held in the [Vèrtex building at Campus Nord](https://www.upc.edu/campusnord/ca/espais/auditori) belonging to [UPC - Universitat Politècnica de Catalunya](https://www.upc.edu/en).
+Rustfest Barcelona 2019 is going to be 
+in the [Vèrtex building at Campus Nord](https://www.upc.edu/campusnord/ca/espais/auditori) belonging to [UPC - Universitat Politècnica de Catalunya](https://www.upc.edu/en).
 
 ![Vèrtex Auditorium](/assets/posts/barcelona-vx_auditori.jpg)
 
 We'll be using the two level **Vèrtex auditorium** with capacity for 477 people and access for people with reduced mobility at any of the two levels which we think will make a great venue for the amazing talks we'll be hosting this year. ;D
 
-The workshops and the *Impl Days** will take place in some of the [university's classrooms](https://www.upc.edu/campusnord/ca/espais/aules-vertex) which are fully equipped to host workshops of almost any kind.
+The workshops and the *Impl Days* will take place in some of the [university's classrooms](https://www.upc.edu/campusnord/ca/espais/aules-vertex) which are fully equipped to host workshops of almost any kind.
 
 We will have also available a chilling area for resting between sessions.
 
