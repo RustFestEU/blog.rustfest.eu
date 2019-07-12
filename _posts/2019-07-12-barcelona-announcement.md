@@ -38,9 +38,11 @@ The workshops and the *Impl Days** will take place in some of the [university's 
 
 We will have also available a chilling area for resting between sessions.
 
-The venue is wheelchair accessible over the lateral street and can be reached easily by public transport. The best options, if you come from Sants Estació, are the [Av. Pedralbes - Cavallers bus station](https://goo.gl/maps/QeNjywZ749Njur8S8) and the [Av d’Esplugues - Av Pearson bus station](https://www.google.com/url?q=https://www.google.com/maps/dir/Sants%2BEstaci%25C3%25B3,%2BBarcelona/Av%2Bd%27Esplugues%2B-%2BAv%2BPearson,%2B08034%2BBarcelona/@41.386477,2.1192745,15z/data%3D!4m15!4m14!1m5!1m1!1s0x12a4987e1c029355:0xb19606f1fb16429e!2m2!1d2.1409712!2d41.3816151!1m5!1m1!1s0x12a4984e1e97de21:0x992b87b41d670e10!2m2!1d2.111625!2d41.3921394!3e3!5i3!5m1!1e2&sa=D&ust=1562873148055000&usg=AFQjCNE1co3JRi_anes-tAbTSK8FFGFX4g); also there’s a subway option to [Palau Reial station](https://www.google.com/url?q=https://goo.gl/maps/4u1dJbpRUHRrrmxE8&sa=D&ust=1562873148056000&usg=AFQjCNHwY0Vd1hK9hNsxd68fmNxsLdHs1A) if you want a quicker route that will require some walk.
+The venue is wheelchair accessible over the lateral street and can be reached easily by public transport. For more information about accesss for people with a disability in Barcelona you can take a look at [this link](https://www.barcelona-tourist-guide.com/en/transport/disabled/access-barcelona-disabled.html).
 
-Anyway, don't worry, we will update our website soon with plenty of information on this regard, so stay tunned! ;P
+The best options to get there, if you come from Sants Estació, are the [Av. Pedralbes - Cavallers bus station](https://goo.gl/maps/QeNjywZ749Njur8S8) and the [Av d’Esplugues - Av Pearson bus station](https://www.google.com/url?q=https://www.google.com/maps/dir/Sants%2BEstaci%25C3%25B3,%2BBarcelona/Av%2Bd%27Esplugues%2B-%2BAv%2BPearson,%2B08034%2BBarcelona/@41.386477,2.1192745,15z/data%3D!4m15!4m14!1m5!1m1!1s0x12a4987e1c029355:0xb19606f1fb16429e!2m2!1d2.1409712!2d41.3816151!1m5!1m1!1s0x12a4984e1e97de21:0x992b87b41d670e10!2m2!1d2.111625!2d41.3921394!3e3!5i3!5m1!1e2&sa=D&ust=1562873148055000&usg=AFQjCNE1co3JRi_anes-tAbTSK8FFGFX4g); also there’s a subway option to [Palau Reial station](https://www.google.com/url?q=https://goo.gl/maps/4u1dJbpRUHRrrmxE8&sa=D&ust=1562873148056000&usg=AFQjCNHwY0Vd1hK9hNsxd68fmNxsLdHs1A) if you want a quicker route that will require some walk.
+
+Anyway, don't worry, we will update our website soon with plenty of information on this regard, so stay tuned! ;P
 
 ## Catering
 
@@ -62,9 +64,9 @@ The price for the tickets will be:
 - 100€ standard ticket,
 - 200€ supporter ticket.
 
-If you are a student or you belong to an underrepresented community, there will be a scholarship programme where you can apply for free tickets, too.
+If you are a student or you belong to an underrepresented community, there will be a scholarship programme where you can apply for free tickets, travel and accomodation, too.
 
-So, basically, money shouldn’t be an excuse not to come! ;)
+So, basically, money hopefully won't be a reason not to come! ;)
 
 ## Free RustBridge workshop
 
@@ -72,7 +74,7 @@ As usual, we'll also be hosting at least one [RustBridge workshop](https://rustb
 
 ## Call for papers
 
-Stay tunned for more information on this regard in the coming weeks! We're looking forward to reading your amazing proposals for this Barcelona edition!
+Stay tuned for more information on this regard in the coming weeks! We're looking forward to reading your amazing proposals for this Barcelona edition!
 
 ---
 
