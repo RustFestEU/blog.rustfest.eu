@@ -47,9 +47,7 @@ We will update our website soon with more information.
 
 ## Catering
 
-We will provide breakfast, coffee, drinks and lunch the first two conference days so you don't have to worry about looking for a restaurant.
-
-We'll also have vegan and vegetarian options and, if you have other dietary needs, please just contact us and we'll be happy to help you.
+We will provide breakfast, coffee, drinks and lunch (vegan and vegetarian options) for the first two conference days so you don't have to worry about looking for a restaurant.
 
 For the *Impl Days*, it will be up to you to decide where to eat. We'll gather information about some good restaurants in the area and provide a list of options on our website, so you can experience the best of Barcelona's great gastronomy.
 
