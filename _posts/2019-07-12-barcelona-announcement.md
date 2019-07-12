@@ -37,7 +37,7 @@ We'll be using the two level **Vèrtex auditorium** with capacity for 477 people
 
 The workshops and the *Impl Days* will take place in some of the [university's classrooms](https://www.upc.edu/campusnord/ca/espais/aules-vertex) which are fully equipped to host workshops of almost any kind.
 
-We will have also available a chilling area for resting between sessions.
+We will have also available a chilling area for resting between sessions a quiet room and free childcare service.
 
 The venue is wheelchair accessible over the lateral street and can be reached easily by public transport. For more information about accesss for people with a disability in Barcelona you can take a look at [this link](https://www.barcelona-tourist-guide.com/en/transport/disabled/access-barcelona-disabled.html).
 
