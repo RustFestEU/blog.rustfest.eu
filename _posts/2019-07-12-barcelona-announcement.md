@@ -28,7 +28,7 @@ We took into account the feedback we received from previous editions and we beli
 
 ## Venue
 
-Rustfest Barcelona 2019 is going to be hold in the [Vèrtex building at Campus Nord](https://www.upc.edu/campusnord/ca/espais/auditori) belonging to [UPC - Universitat Politècnica de Catalunya](https://www.upc.edu/en).
+Rustfest Barcelona 2019 is going to be held in the [Vèrtex building at Campus Nord](https://www.upc.edu/campusnord/ca/espais/auditori) belonging to [UPC - Universitat Politècnica de Catalunya](https://www.upc.edu/en).
 
 ![Vèrtex Auditorium](/assets/posts/barcelona-vx_auditori.jpg)
 
