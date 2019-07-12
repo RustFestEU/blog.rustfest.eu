@@ -67,8 +67,6 @@ The price for the tickets will be:
 
 If you are a student or you belong to an underrepresented community, there will be a scholarship programme where you can apply for free tickets, travel and accomodation, too.
 
-So, basically, money hopefully won't be a reason not to come! ;)
-
 ## Free RustBridge workshop
 
 As usual, we'll also be hosting a [RustBridge workshop](https://rustbridge.com/).
