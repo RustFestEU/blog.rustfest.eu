@@ -71,7 +71,8 @@ So, basically, money hopefully won't be a reason not to come! ;)
 
 ## Free RustBridge workshop
 
-As usual, we'll also be hosting at least one [RustBridge workshop](https://rustbridge.com/) (probably two :P) so if you want to learn Rust, join the community and you belong to underrepresented communities and probably have a background in another programming language this is the perfect workshop for you. That being said, note that this is an open workshop for beginners and everybody is welcome to attend.
+As usual, we'll also be hosting a [RustBridge workshop](https://rustbridge.com/).
+RustBridge is a workshop focused on getting underrepresented people with a background in another programming language to learn Rust and join the community.
 
 ## Call for papers
 
