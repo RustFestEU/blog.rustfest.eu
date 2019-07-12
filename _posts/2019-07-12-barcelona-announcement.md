@@ -51,7 +51,7 @@ We will provide breakfast, coffee, drinks and lunch the first two conference day
 
 We'll also have vegan and vegetarian options and, if you have other dietary needs, please just contact us and we'll be happy to help you.
 
-For the *Impl Days*, it will be up to you to decide where to eat. But don't worry, we'll gather information about some good restaurants in the area and we will fill our website with it so you can experience the best of our great gastronomy.
+For the *Impl Days*, it will be up to you to decide where to eat. We'll gather information about some good restaurants in the area and provide a list of options on our website, so you can experience the best of Barcelona's great gastronomy.
 
 ## Ticket information
 
