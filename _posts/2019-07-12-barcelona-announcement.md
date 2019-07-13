@@ -22,7 +22,7 @@ As usual, this edition will have two first days full of talks and workshops and 
 
 Although we are keeping the same length in terms of days, we have decided to change things a little bit and try something different.
 
-This year, the conference format will change, and instead of a first day full of talks and a second day of workshops, we'll try to split the days in two parts, the talks in the morning and workshops in the afternoon.
+This year, the conference format will change, and instead of a first day full of talks and a second day full of workshops, we'll try to split the days in two different parts, with talks in the morning and workshops in the afternoon.
 
 We took into account the feedback we received from previous editions, and we believe this can work well for most of you. Indeed, this will allow us to have more talks and workshops and reduce the intensity of a monothematic format day.
 
