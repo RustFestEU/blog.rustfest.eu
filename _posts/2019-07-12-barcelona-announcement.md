@@ -2,13 +2,13 @@
 layout: post
 title: "Barcelona announcement"
 ---
-Barcelona, a sunny city on the Mediterranean sea, capital of Catalonia, the land of *castellers* and *pà amb tomaca*, is considered one of the top tech hubs in Europe as it’s holding more than 1300 startups and generating almost 14000 jobs.
+Barcelona, a sunny city on the Mediterranean sea, the capital of Catalonia, and the land of *castellers* and *pà amb tomaca*, is considered one of the top tech hubs in Europe as it’s holding more than 1300 startups, and generating almost 14000 jobs.
 
 ![Barcelona](/assets/posts/barcelona-city.jpg)
 
-As a touristic destination, Barcelona is known for its beautiful architecture like Sagrada Familia, Casa Batlló, Ciutadella’s park and Palau de la Musica; for its delicious gastronomy and for its multicultural and open personality.
+As a touristic destination, Barcelona is known for its beautiful architecture like [Sagrada Familia](https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia), [Casa Batlló](https://en.wikipedia.org/wiki/Casa_Batll%C3%B3), [Ciutadella’s park](https://en.wikipedia.org/wiki/Parc_de_la_Ciutadella) and [Palau de la Musica](https://en.wikipedia.org/wiki/Palau_de_la_M%C3%BAsica_Catalana); for its [delicious gastronomy](https://en.wikipedia.org/wiki/Catalan_cuisine) and for its multicultural and open personality.
 
-There are lots of ways to enjoy the city: you can go to the beach, have a hike on some green areas like Park Güell or just take a walk through the different neighborhoods in order to experience how the influence of History has affected the city.
+There are lots of ways to enjoy the city: you can go to the beach, have a hike on some green areas like [Park Güell](https://en.wikipedia.org/wiki/Park_G%C3%BCell) or just take a walk through the different neighborhoods in order to experience how the influence of [History](https://en.wikipedia.org/wiki/History_of_Barcelona) has affected the city.
 
 ## Save the date!
 
@@ -16,15 +16,15 @@ We have finally a date for this year's edition!
 
 Rustfest 2019 will start on **November 9th** (Saturday) and will end on **November 12th** (Tuesday).
 
-As usual, this edition will have two first days full of talks and workshops and two additional days (*aka Impl Days*) where you will be able to get together with other rustaceans, meet in smaller groups and work on your own community projects.
+As usual, this edition will have two first days full of talks and workshops and two additional days (*aka Impl Days*), where you will be able to get together with other rustaceans, meet in smaller groups and work on your own community projects.
 
 ## Mixing things a little bit
 
-Although we are keeping the same length in terms of days we have decided to change things a little bit and try something different.
+Although we are keeping the same length in terms of days, we have decided to change things a little bit and try something different.
 
-This year, the conference format will change and instead of a first day of talks and a second day of workshops we're going to try to split the days into talks in the morning and workshops in the afternoon.
+This year, the conference format will change, and instead of a first day full of talks and a second day of workshops, we'll try to split the days in two parts, the talks in the morning and workshops in the afternoon.
 
-We took into account the feedback we received from previous editions and we believe this can work well for most of you. Indeed, this will allow us to have more talks and workshops and reduce the intensity of a monothematic format day.
+We took into account the feedback we received from previous editions, and we believe this can work well for most of you. Indeed, this will allow us to have more talks and workshops and reduce the intensity of a monothematic format day.
 
 ## Venue
 
@@ -33,21 +33,21 @@ in the [Vèrtex building at Campus Nord](https://www.upc.edu/campusnord/ca/espai
 
 ![Vèrtex Auditorium](/assets/posts/barcelona-vx_auditori.jpg)
 
-We'll be using the two level **Vèrtex auditorium** with capacity for 477 people and access for people with reduced mobility at any of the two levels which we think will make a great venue for the amazing talks we'll be hosting this year. ;D
+We'll be using the two level **Vèrtex auditorium** with capacity for 477 people and access for people with reduced mobility at any of the two levels, which we think will make a great venue for the amazing talks we'll be hosting this year ;D
 
 The workshops and the *Impl Days* will take place in some of the [university's classrooms](https://www.upc.edu/campusnord/ca/espais/aules-vertex) which are fully equipped to host workshops of almost any kind.
 
-We will have also available a chilling area for resting between sessions a quiet room and free childcare service.
+We will also have a chilling area to take some rest between sessions, a quiet room, and free childcare service.
 
-The venue is wheelchair accessible over the lateral street and can be reached easily by public transport. For more information about accesss for people with a disability in Barcelona you can take a look at [this link](https://www.barcelona-tourist-guide.com/en/transport/disabled/access-barcelona-disabled.html).
+The venue is wheelchair accessible over the lateral street, and can be reached easily by public transport. For more information about accesss for people with a disability in Barcelona you can take a look at [this link](https://www.barcelona-tourist-guide.com/en/transport/disabled/access-barcelona-disabled.html).
 
-The best options to get there, if you come from Sants Estació, are the [Av. Pedralbes - Cavallers bus station](https://goo.gl/maps/QeNjywZ749Njur8S8) and the [Av d’Esplugues - Av Pearson bus station](https://www.google.com/url?q=https://www.google.com/maps/dir/Sants%2BEstaci%25C3%25B3,%2BBarcelona/Av%2Bd%27Esplugues%2B-%2BAv%2BPearson,%2B08034%2BBarcelona/@41.386477,2.1192745,15z/data%3D!4m15!4m14!1m5!1m1!1s0x12a4987e1c029355:0xb19606f1fb16429e!2m2!1d2.1409712!2d41.3816151!1m5!1m1!1s0x12a4984e1e97de21:0x992b87b41d670e10!2m2!1d2.111625!2d41.3921394!3e3!5i3!5m1!1e2&sa=D&ust=1562873148055000&usg=AFQjCNE1co3JRi_anes-tAbTSK8FFGFX4g); also there’s a subway option to [Palau Reial station](https://www.google.com/url?q=https://goo.gl/maps/4u1dJbpRUHRrrmxE8&sa=D&ust=1562873148056000&usg=AFQjCNHwY0Vd1hK9hNsxd68fmNxsLdHs1A) if you want a quicker route that will require some walk.
+The best options to get there, if you come from Sants Estació, are the [Av. Pedralbes - Cavallers bus station](https://goo.gl/maps/QeNjywZ749Njur8S8) and the [Av d’Esplugues - Av Pearson bus station](https://www.google.com/url?q=https://www.google.com/maps/dir/Sants%2BEstaci%25C3%25B3,%2BBarcelona/Av%2Bd%27Esplugues%2B-%2BAv%2BPearson,%2B08034%2BBarcelona/@41.386477,2.1192745,15z/data%3D!4m15!4m14!1m5!1m1!1s0x12a4987e1c029355:0xb19606f1fb16429e!2m2!1d2.1409712!2d41.3816151!1m5!1m1!1s0x12a4984e1e97de21:0x992b87b41d670e10!2m2!1d2.111625!2d41.3921394!3e3!5i3!5m1!1e2&sa=D&ust=1562873148055000&usg=AFQjCNE1co3JRi_anes-tAbTSK8FFGFX4g). There is also an option through the subway with an stop at [Palau Reial station](https://www.google.com/url?q=https://goo.gl/maps/4u1dJbpRUHRrrmxE8&sa=D&ust=1562873148056000&usg=AFQjCNHwY0Vd1hK9hNsxd68fmNxsLdHs1A) if you want a quicker route that require walking a bit.
 
 We will update our website soon with more information.
 
 ## Catering
 
-We will provide breakfast, coffee, drinks and lunch (vegan and vegetarian options) for the first two conference days so you don't have to worry about looking for a restaurant.
+We will provide breakfast, coffee, drinks and lunch (vegan and vegetarian options) for the first two conference days, so you don't have to worry about looking for a restaurant.
 
 For the *Impl Days*, it will be up to you to decide where to eat. We'll gather information about some good restaurants in the area and provide a list of options on our website, so you can experience the best of Barcelona's great gastronomy.
 
