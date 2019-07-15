@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Barcelona announcement"
+title: "It's happening - Barcelona in November"
 ---
 Barcelona, a sunny city on the Mediterranean sea, the capital of Catalonia, and the land of *castellers* and *pà amb tomaca*, is considered one of the top tech hubs in Europe as it’s holding more than 1300 startups, and generating almost 14000 jobs.
 
