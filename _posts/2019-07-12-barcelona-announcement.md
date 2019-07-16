@@ -12,23 +12,23 @@ There are lots of ways to enjoy the city: you can go to the beach, have a hike o
 
 ## Save the date!
 
-We have finally a date for this year's edition!
+At last, we have a date for you!
 
-Rustfest 2019 will start on **November 9th** (Saturday) and will end on **November 12th** (Tuesday).
+Rustfest 2019 will take place over the weekend of **November 9th-10th** (Saturday-Sunday), with **impl days following** on Monday and Tuesday, as usual.
 
-As usual, this edition will have two first days full of talks and workshops and two additional days (*aka Impl Days*), where you will be able to get together with other rustaceans, meet in smaller groups and work on your own community projects.
+This edition will have two first days full of talks and workshops, followed by the two additional (optional) days of *Impl Days*, where you will be able to get together with other rustaceans, meet in smaller groups and work on your own community projects.
 
-## Mixing things a little bit
+## Mixing things up a little bit
 
-Although we are keeping the same length in terms of days, we have decided to change things a little bit and try something different.
+Although we are keeping the same length in terms of days, we have decided to change things a little bit and try something different compared to previous years.
 
 This year, the conference format will change, and instead of a first day full of talks and a second day full of workshops, we'll try to split the days in two different parts, with talks in the morning and workshops in the afternoon.
 
-We took into account the feedback we received from previous editions, and we believe this can work well for most of you. Indeed, this will allow us to have more talks and workshops and reduce the intensity of a monothematic format day.
+We took into account the feedback we received from previous editions, and we believe this can work well for most of you. Indeed, this will allow us to have more talks and workshops and reduce the intensity of a monothematic format.
 
 ## Venue
 
-Rustfest Barcelona 2019 is going to be 
+Rustfest Barcelona 2019 is going to be
 in the [Vèrtex building at Campus Nord](https://www.upc.edu/campusnord/ca/espais/auditori) belonging to [UPC - Universitat Politècnica de Catalunya](https://www.upc.edu/en).
 
 ![Vèrtex Auditorium](/assets/posts/barcelona-vx_auditori.jpg)
@@ -53,17 +53,28 @@ For the *Impl Days*, it will be up to you to decide where to eat. We'll gather i
 
 ## Ticket information
 
-Two days of talks and workshops, two more days of open space and hacking, breakfast, coffee, drinks and meals... wait, this surely must be very expensive!
+When RustFest started three years ago (holy cow, it's been three years!) it was a small, cozy, simple event. In the following years we have doubled in size, visited various corners of the continent, and have been adding side events and implementing a variety of features to make RustFest even more awesome, enjoyable and accessible. While all this happened, one of our tenets of keeping RustFest accessible was keeping the ticket price down, to avoid making RustFest something that only a select few could afford, or only those whose employer were paying. We wanted everyone to be able to experience RustFest and not feel bad about spending a lot of money on something that might have been only a hobby, or matter of curiosity to them. We have added and continuously improved our Scholarship programs to provide even more opportunities to participate.
 
-Nope! We have managed to get a reasonable ticket price thanks to the [UPC](https://www.upc.edu/en) venue and our sponsors!
+With that, it wasn't just RustFest that grew—our budget requirements have also doubled. With partnerships & sponsorships we always managed to break even, but going forward we would like to better distribute the load of keeping RustFest accessible among our attendees. This means we are revamping our ticket policy, centered around our new **Community** and **Full-price** tickets.
 
-The price for the tickets will be:
+- **[Full-price Tickets](https://ti.to/rustfest/barcelona2019#tito-ticket-mmmjdodthnc)** are sold for **€250**, which is roughly what it takes to cover all costs of organizing a conference, distributed among our ticket holders. This includes speaker travel, A/V, scholarships, beyond the more immediate costs…
+- **[Community Tickets](https://ti.to/rustfest/barcelona2019#tito-ticket-rxmlza19pya)** on the other hand remain to be sold for **€100**, which roughly covers the direct costs (venue rental and meals) of one attendee. These tickets are subsidized by our sponsors and other ticket sales.
 
-- 50€ student ticket,
-- 100€ standard ticket,
-- 200€ supporter ticket.
+We didn't want to make this any more complicated than it absolutely needs to be, so our Community Tickets are available in Tito for anyone to purchase, just as our Full-Price Tickets — but we ask those of you who can afford the Full-Price tickets, or whose tickets are paid or reimbursed by their employer to choose the Full-Price ticket and help us in organizing great conferences in the years to come. The number of Community Tickets are limited, but in case they sell out fast, you will be able to sign up to the waitlist and we may release more of them if we can be sure our budget can take it.
 
-If you are a student or you belong to an underrepresented community, there will be a scholarship programme where you can apply for free tickets, travel and accomodation, too.
+Also, just like in previous years, you will again be able to get an extra 50% discount on top of the reduced Community Ticket price if you are currently enrolled in an education institution, just add the **`STUDENT`** discount code before your checkout. This discount is also limited to a handful of tickets — and don't forget to bring along your student ID to the conference!
+
+<h3 style="text-align: center">
+  <a href="https://ti.to/rustfest/barcelona2019" style="opacity: 1">
+    Tickets are now on sale — click here to get yours!
+  </a>
+</h3>
+
+## Mini-Sponsorhip Tickets
+
+Something new this year! Do you know of others from your company who were also planning to join us at RustFest? You can now buy a Mini Sponsorship ticket straight from our Tito page, that not only gets you two full tickets to the conference, but comes with extra perks, such as company logo placement and you are directly supporting our Scholarship fund!
+
+
 
 ## Free RustBridge workshop
 
