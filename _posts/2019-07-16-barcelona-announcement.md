@@ -72,7 +72,7 @@ Also, just like in previous years, you will again be able to get an extra 50% di
   </a>
 </h3>
 
-## Mini-Sponsorhip Tickets
+## Mini-Sponsorship Tickets
 
 Something new this year! Do you know of others from your company who were also planning to join us at RustFest? You can now buy a Mini Sponsorship ticket straight from our Tito page, that not only gets you two full tickets to the conference, but comes with extra perks, such as company logo placement and you are directly supporting our Scholarship fund!
 
