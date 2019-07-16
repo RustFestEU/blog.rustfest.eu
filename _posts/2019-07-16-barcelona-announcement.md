@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "It's happening - Barcelona in November"
+title: "Save the date - Barcelona in November!"
+description: "Save the date! November 9th-10th"
+socialImageSrc: "/assets/posts/barcelona/barcelona-announcement.png"
 ---
 Barcelona, a sunny city on the Mediterranean sea, the capital of Catalonia, and the land of *castellers* and *pà amb tomaca*, is considered one of the top tech hubs in Europe as it’s holding more than 1300 startups, and generating almost 14000 jobs.
 
