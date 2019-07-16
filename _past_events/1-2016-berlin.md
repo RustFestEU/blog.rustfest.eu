@@ -2,7 +2,7 @@
 city: Berlin
 year: 2016
 
-link: http://2016.rustfest.eu
+link: https://2016.rustfest.eu
 videos: https://www.youtube-nocookie.com/embed/videoseries?list=PL85XCvVPmGQh8nWR_Z-fTmPGsUWuzb-dn
 
 sponsors:
