@@ -41,7 +41,7 @@ The workshops and the *Impl Days* will take place in some of the [university's c
 
 We will also have a chilling area to take some rest between sessions, a quiet room, and free childcare service.
 
-The venue is wheelchair accessible over the lateral street, and can be reached easily by public transport. For more information about accesss for people with a disability in Barcelona you can take a look at [this link](https://www.barcelona-tourist-guide.com/en/transport/disabled/access-barcelona-disabled.html).
+The venue is wheelchair accessible over the lateral street, and can be reached easily by public transport. For more information about accesss for disabled people in Barcelona you can take a look at [this link](https://www.barcelona-tourist-guide.com/en/transport/disabled/access-barcelona-disabled.html).
 
 The best options to get there, if you come from Sants Estació, are the [Av. Pedralbes - Cavallers bus station](https://goo.gl/maps/QeNjywZ749Njur8S8) and the [Av d’Esplugues - Av Pearson bus station](https://www.google.com/url?q=https://www.google.com/maps/dir/Sants%2BEstaci%25C3%25B3,%2BBarcelona/Av%2Bd%27Esplugues%2B-%2BAv%2BPearson,%2B08034%2BBarcelona/@41.386477,2.1192745,15z/data%3D!4m15!4m14!1m5!1m1!1s0x12a4987e1c029355:0xb19606f1fb16429e!2m2!1d2.1409712!2d41.3816151!1m5!1m1!1s0x12a4984e1e97de21:0x992b87b41d670e10!2m2!1d2.111625!2d41.3921394!3e3!5i3!5m1!1e2&sa=D&ust=1562873148055000&usg=AFQjCNE1co3JRi_anes-tAbTSK8FFGFX4g). There is also an option through the subway with an stop at [Palau Reial station](https://www.google.com/url?q=https://goo.gl/maps/4u1dJbpRUHRrrmxE8&sa=D&ust=1562873148056000&usg=AFQjCNHwY0Vd1hK9hNsxd68fmNxsLdHs1A) if you want a quicker route that require walking a bit.
 
