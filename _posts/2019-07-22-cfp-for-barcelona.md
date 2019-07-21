@@ -28,7 +28,7 @@ We are looking for people hosting workshops on interesting topics all around Rus
 
 Workshops will be happening in the afternoon of both Saturday and Sunday.
 Therefore workshops can be on a single afternoon, can be repeated on the second day or can potentially stretch across both days.
-Please let us know what is suitable for your proposal.
+Please let us know what is more suitable for your proposal.
 
 ## Ticket sales
 
