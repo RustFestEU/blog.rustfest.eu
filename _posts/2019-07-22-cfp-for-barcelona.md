@@ -27,7 +27,7 @@ With the changed format of the conference, we will have a few more, but shorter 
 We are looking for people hosting workshops on interesting topics all around Rust.
 
 Workshops will be happening in the afternoon of both Saturday and Sunday.
-Therefore workshops can be on a single afternoon, can be repeated on the second day or can potentitally stretch across both days.
+Therefore workshops can be on a single afternoon, can be repeated on the second day or can potentially stretch across both days.
 Please let us know what is suitable for your proposal.
 
 ## Ticket sales
