@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Call for Proposals is open!"
+authors:
+  - badboy
+socialImageSrc: "/assets/posts/barcelona/cfp-opens.png"
+---
+
+## CfP for talks
+
+Starting today the [Call for Proposals](https://cfp.rustfest.eu/events/rustfest-barcelona-2019) is open!
+
+We would love to hear your proposal for a talk. Make sure to submit before **August 19, 23:59 UTC**!
+As always, we'll be prioritizing talks not yet recorded at Rust conferences.
+
+You are free to talk about anything Rust-related, come and share your own personal Rust experience!
+From code, to community and not forgetting experiences in production, best practices, theory or anything in between. We are happy to hear it from you.
+
+First time speaking? Submit! It's totally okay! If we accept your talk in our (blind) selection procedure we're happy to be your first experience. If you'd like, we're also happy to mentor you to give you some tips.
+
+We're currently building up this year's CfP committee. Stay tuned for more news soon.
+
+## CfP for workshops
+
+We're also looking for some workshops.
+With the changed format of the conference, we will have a few more, but shorter workshops.
+We are looking for people hosting workshops on interesting topics all around Rust.
+
+Workshops will be happening in the afternoon of both Saturday and Sunday.
+Therefore workshops can be on a single afternoon, can be repeated on the second day or can potentitally stretch across both days.
+Please let us know what is suitable for your proposal.
+
+## Ticket sales
+
+Last week we announced the dates and opened ticket sales.
+If you want to learn more about the various tickets offered below [check out our Ticket page](https://barcelona.rustfest.eu/tickets).
+
+
+<h3 style="text-align: center">
+  <a href="https://ti.to/rustfest/barcelona2019" style="opacity: 1">
+    Grab your ticket now!
+  </a>
+</h3>
