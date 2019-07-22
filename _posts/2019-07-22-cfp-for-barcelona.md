@@ -16,7 +16,7 @@ As always, we'll be prioritizing talks not yet recorded at Rust conferences.
 You are free to talk about anything Rust-related, come and share your own personal Rust experience!
 From code, to community and not forgetting experiences in production, best practices, theory or anything in between. We are happy to hear it from you.
 
-First time speaking? Submit! It's totally okay! If we accept your talk in our (blind) selection procedure we're happy to be your first experience. If you'd like, we're also happy to mentor you to give you some tips.
+First time speaking? Submit! It's totally okay! If your talk will be selected in our (blind) selection procedure, we'll be happy for Rustfest to be your first experience on stage. We're also happy to mentor you with tips, guidelines and review your talk.
 
 We're currently building up this year's CfP committee. Stay tuned for more news soon.
 
