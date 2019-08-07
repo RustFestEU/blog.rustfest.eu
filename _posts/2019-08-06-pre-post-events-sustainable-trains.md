@@ -25,7 +25,7 @@ For northern Europa:
 ## Pre-Events
 
 These events are timed so that people traveling towards Barcelona can stop by.
-What does that mean, let's go trough a possible option:
+What does that mean, let's go through a possible option:
 
 
 | City                            | Day       | Departure | Arrival | Notes                                                                                   |
