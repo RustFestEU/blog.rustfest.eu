@@ -8,7 +8,7 @@ socialImageSrc: "/assets/posts/barcelona/cfp-opens.png"
 
 ## The big plan
 
-What if you could meet with other rusty people while you travel to and from RustFest Barcelona?
+What if you could meet with other rusteacens while you travel to and from RustFest Barcelona?
 
 So what do we need for that?
 
