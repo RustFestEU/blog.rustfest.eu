@@ -39,7 +39,7 @@ What does that mean, let's go trough a possible option:
 | Zürich HB, CH                   | Thursday  | 12:03     | 14:45   | At this point our group might have grown a bit.                                         |
 | Genève, CH                      | Thursday  | 14:59     | 18:05   | The fast TGV.                                                                           |
 | Valence TGV Rhône-Alpes Sud, FR | Thursday  | 18:22     | 22:44   | Say good by to the alps.                                                                |
-| Barcelona Sants; ES             | Thursday  |           |         | Hurray, we made it                                                                      |
+| Barcelona Sants, ES             | Thursday  |           | 22:44   | Hurray, we made it.                                                                     |
 
 ## Post-Events
 
