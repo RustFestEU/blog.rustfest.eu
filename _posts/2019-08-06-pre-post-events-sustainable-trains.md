@@ -35,7 +35,7 @@ What does that mean, let's go through a possible option:
 | Hamburg, DE                     | Wednesday | 18:02     |         | Here we could have a meetup in Hamburg, probably best with food.                        |
 | Hamburg, DE                     | Wednesday | 21:02     | 07:54   | Now we can fade out the day and rest.                                                   |
 | Basel, CH                       | Thursday  | 08:07     | 09:00   | This is the highspeed train, you can stay on the NightJet and arrive a little later.    |
-| Zürich HB, CH                   | Thursday  |           | 09:42   | Time to walk a little in Zürich, meet people and maybe hit a shower and day of hacking. |
+| Zürich HB, CH                   | Thursday  |           | 09:42   | Time to walk a little in Zürich, meet people and maybe hit a shower and a day of hacking. |
 | Zürich HB, CH                   | Thursday  | 12:03     | 14:45   | At this point our group might have grown a bit.                                         |
 | Genève, CH                      | Thursday  | 14:59     | 18:05   | The fast TGV.                                                                           |
 | Valence TGV Rhône-Alpes Sud, FR | Thursday  | 18:22     | 22:44   | Say goodbye to the Alps.                                                                |
