@@ -5,6 +5,14 @@ table {
   width: 100%;
 }
 
+table.layout-auto {
+  table-layout: auto;
+
+  th, td {
+    padding: $small-spacing $small-spacing;
+  }
+}
+
 th {
   border-bottom: 1px solid shade($base-border-color, 25%);
   font-weight: 600;
