@@ -39,7 +39,7 @@ For [Non-EWR citizens](https://www.interrail.eu/en/help/ordering-pass/do-i-need-
 
 ### Tools
 
-Inside Spain:
+Inside Spain, Portugal, France:
 * [trenes](https://train.trenes.com/) <- Don't forget to uncheck the "booking.com" button
 
 For northern Europa:
