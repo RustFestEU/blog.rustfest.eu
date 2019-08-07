@@ -38,7 +38,7 @@ What does that mean, let's go through a possible option:
 | Zürich HB, CH                   | Thursday  |           | 09:42   | Time to walk a little in Zürich, meet people and maybe hit a shower and day of hacking. |
 | Zürich HB, CH                   | Thursday  | 12:03     | 14:45   | At this point our group might have grown a bit.                                         |
 | Genève, CH                      | Thursday  | 14:59     | 18:05   | The fast TGV.                                                                           |
-| Valence TGV Rhône-Alpes Sud, FR | Thursday  | 18:22     | 22:44   | Say good by to the alps.                                                                |
+| Valence TGV Rhône-Alpes Sud, FR | Thursday  | 18:22     | 22:44   | Say goodbye to the Alps.                                                                |
 | Barcelona Sants, ES             | Thursday  |           | 22:44   | Hurray, we made it.                                                                     |
 
 ## Post-Events
