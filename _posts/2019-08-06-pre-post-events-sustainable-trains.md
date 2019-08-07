@@ -40,7 +40,7 @@ For [Non-EWR citizens](https://www.interrail.eu/en/help/ordering-pass/do-i-need-
 ### Tools
 
 Inside Spain:
-* [trenes](https://train.trenes.com/ave/barcelona-to-madrid/) <- Don't forget to uncheck the "booking.com" button
+* [trenes](https://train.trenes.com/) <- Don't forget to uncheck the "booking.com" button
 
 For northern Europa:
 * Austria, Germany, Tcheck Republic, Slowakia, Hungary, Italy, Switzerland, Serbia -> [ÖBB](https://www.oebb.at/)
@@ -50,6 +50,28 @@ For northern Europa:
 ## The travel to Barcelona
 
 Now let us look at some examples:
+
+### Within Spain
+
+From Madrid to Barcelona there are two kinds of trains traveling.
+
+* A cheaper train that takes 9.5 hours.
+* With the high speed you can reach Barcelona in 2.5 hours.
+
+* From Sevilla Santa Justa you travel directly to Barcelona within 5.5 hours.
+
+### From France or Portugal
+
+From most bigger cities of France you can reach Barcelona within 7 to 9 hours.
+
+* From Paris, there is a direct TGV connection 3 times a day.
+* From Rennes, take the TGV via Nimes.
+* From Bordeaux, with InterCity and TGV via Narbonne.
+
+* From Lisboa Estacion Oriente there is a train to Madrid Chamartin. Since it is not a high speed train it takes 11 hours and you will probably need to continue on the second day.
+
+Note that there is a [cheaper Interrail country pass](https://www.interrail.eu/en/interrail-passes/one-country-pass/spain-passes) and you probably only need 3 days within 1 month.
+
 
 ### From the North
 
