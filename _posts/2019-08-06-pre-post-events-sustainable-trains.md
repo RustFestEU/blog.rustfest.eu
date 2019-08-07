@@ -27,7 +27,7 @@ For northern Europa:
 These events are timed so that people traveling towards Barcelona can stop by.
 What does that mean, let's go through a possible option:
 
-
+{:.layout-auto}
 | City                            | Day       | Departure | Arrival | Notes                                                                                   |
 |---------------------------------|-----------|-----------|---------|-----------------------------------------------------------------------------------------|
 | Gothenburg, SE                  | Wednesday | 08:55     | 12:28   | Swing by the office before and grab a laptop and a coffee to go.                        |
