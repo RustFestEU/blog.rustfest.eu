@@ -43,7 +43,7 @@ Inside Spain, Portugal, France:
 * [trenes](https://train.trenes.com/) <- Don't forget to uncheck the "booking.com" button
 
 For northern Europa:
-* Austria, Germany, Tcheck Republic, Slowakia, Hungary, Italy, Switzerland, Serbia -> [ÖBB](https://www.oebb.at/)
+* Austria, Germany, Czech Republic, Slovakia, Hungary, Italy, Switzerland, Serbia -> [ÖBB](https://www.oebb.at/)
 * Sweden, Denmark, Netherlands, Germany, Switzerland -> [Deutsche Bahn](https://bahn.de)
 * Switzerland, France, Spain -> [Schweizerische Bundesbahnen](https://sbb.ch)
 
@@ -85,12 +85,12 @@ What does that mean, let's go through a possible option:
 | Kopenhagen, DK                  | Wednesday | 12:52     | 18:02   | Via Fredericia st.                                                                        |
 | Hamburg, DE                     | Wednesday | 18:02     |         | Here we could have a meetup in Hamburg, probably best with food.                          |
 | Hamburg, DE                     | Wednesday | 21:02     | 07:54   | Now we can fade out the day and rest.                                                     |
-| Basel, CH                       | Thursday  | 08:07     | 09:00   | This is the highspeed train, you can stay on the NightJet and arrive a little later.      |
+| Basel, CH                       | Thursday  | 08:07     | 09:00   | This is the high speed train, you can stay on the NightJet and arrive a little later.      |
 | Zürich HB, CH                   | Thursday  |           | 09:42   | Time to walk a little in Zürich, meet people and maybe hit a shower and a day of hacking. |
 | Zürich HB, CH                   | Thursday  | 12:03     | 14:45   | At this point our group might have grown a bit.                                           |
 | Genève, CH                      | Thursday  | 14:59     | 18:05   | The fast TGV. 🚅                                                                          |
 | Valence TGV Rhône-Alpes Sud, FR | Thursday  | 18:22     | 22:44   | Say goodbye to the Alps.                                                                  |
-| Barcelona Sants, ES             | Thursday  |           | 22:44   | Hurray, we made it.                                                                       |
+| Barcelona Sants, ES             | Thursday  |           | 22:44   | 🎉 Hurray, we made it.                                                                       |
 
 
 ### From the East
