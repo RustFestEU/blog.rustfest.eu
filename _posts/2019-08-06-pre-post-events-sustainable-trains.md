@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pre-/Post Events: sustainable train travels from and to RustFest Barcelona"
+title: "Pre-/Post Events: sustainable 🚄 train travels from and to RustFest Barcelona"
 authors:
   - dns2utf8
 socialImageSrc: "/assets/posts/barcelona/cfp-opens.png"
@@ -15,6 +15,14 @@ So what do we need for that?
 1. Is there a path to go by train?
 2. How far can you go in one day?
 3. Which stops are interesting?
+4. Where can I meet other people?
+
+1 and 2 you have to answer for yourself.
+
+3 and 4 we can help. We are [collecting all pre-/post events](https://barcelona.rustfest.eu/pre_post_events/) on our website.
+
+Beeing able to talk to your peers directly makes planning easy.
+The [Rust User Forum](https://users.rust-lang.org/c/community) is a great place to organize.
 
 ### Tickets or Interrail
 
@@ -100,13 +108,13 @@ Lucky us there is a direct line from Budapest to Zürich.
 Let's look at the connection:
 
 {:.layout-auto}
-| City                            | Day       | Departure | Arrival | Notes                                                                                   |
-|---------------------------------|-----------|-----------|---------|-----------------------------------------------------------------------------------------|
-| Budapest-Keleti, HU             | Wednesday | 20:40     | 08:20   | Swing by the office before and grab a laptop and a coffee to go.                        |
-| Vienna, AT                      | Wednesday | 23:25     | 08:20   | Same train, has multiple stops in Austria.                                              |
-| Zürich HB, CH                   | Thursday  |           | 08:20   | Time to walk a little in Zürich, meet people and maybe hit a shower and day of hacking. |
+|        City         |    Day    | Departure | Arrival |                                          Notes                                          |
+| ------------------- | --------- | --------- | ------- | --------------------------------------------------------------------------------------- |
+| Budapest-Keleti, HU | Wednesday | 20:40     | 08:20   | Jump on the NightJet and relax.                                                         |
+| Vienna, AT          | Wednesday | 23:25     | 08:20   | Same train, has multiple stops in Austria.                                              |
+| Zürich HB, CH       | Thursday  |           | 08:20   | Time to walk a little in Zürich, meet people and maybe hit a shower and day of hacking. |
 
-Note that you can take a direct train from Warsaw/Warszawa or Prague/Praha to Vienna/Wien.
+Note that you can take a direct train from Warsaw or Prague to Vienna.
 
 ## The way home
 
