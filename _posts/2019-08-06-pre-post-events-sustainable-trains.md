@@ -38,7 +38,7 @@ This is where Interrail saves the day.
 With the Interrail global pass you buy travel days over a period of time.
 So you can simply catch the next train and continue your journey.
 
-If you buy 7 travel days within one months, you have the flexibility to ride any train outside of your home country on 7 days.
+If you buy 7 travel days within one month, you have the flexibility to ride any train outside of your home country on 7 days.
 So you have the flexibility to ride any train outside of your home country on 7 days.
 In addition, the ticket is also valid for travel in your country of residence during one outbound journey and one inbound journey that occur during travel days at any point in your trip.
 
@@ -49,10 +49,10 @@ For [Non-EWR citizens](https://www.interrail.eu/en/help/ordering-pass/do-i-need-
 
 ### Tools
 
-Inside Spain, Portugal, France:
+Within Spain, Portugal, France:
 * [Trenes](https://train.trenes.com/) (Don't forget to uncheck "Also search for accomodation")
 
-For northern Europa:
+For Northern Europa:
 * Austria, Germany, Czech Republic, Slovakia, Hungary, Italy, Switzerland, Serbia -> [ÖBB](https://www.oebb.at/)
 * Sweden, Denmark, Netherlands, Germany, Switzerland -> [Deutsche Bahn](https://bahn.de)
 * Switzerland, France, Spain -> [Schweizerische Bundesbahnen](https://sbb.ch)
@@ -66,7 +66,7 @@ Now let us look at some examples:
 From Madrid to Barcelona there are two kinds of trains traveling.
 
 * A cheaper train that takes 9.5 hours.
-* With the high speed you can reach Barcelona in 2.5 hours.
+* With the high speed train you can reach Barcelona in 2.5 hours.
 
 * From Sevilla Santa Justa you travel directly to Barcelona within 5.5 hours.
 
