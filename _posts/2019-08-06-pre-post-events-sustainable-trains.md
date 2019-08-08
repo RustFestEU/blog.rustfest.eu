@@ -9,6 +9,8 @@ socialImageSrc: "/assets/posts/barcelona/cfp-opens.png"
 ## The big plan 🚆
 
 What if you could meet with other Rustaceans while you travel to and from RustFest Barcelona?
+We want to make that happen and are organizing a community travel from the north of Europe all the way down to Barcelona, with stops in between.
+We want to encourage more people to join us or plan similar travel events.
 
 So what do we need for that?
 
