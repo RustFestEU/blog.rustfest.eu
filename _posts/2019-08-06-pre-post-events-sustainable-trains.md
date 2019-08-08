@@ -19,7 +19,7 @@ So what do we need for that?
 ### Tickets or Interrail
 
 Usually people buy tickets from A to B, sometimes by locking in on a single connection.
-However, a travel of this size is different.
+However, a travel of this length has some challenges.
 
 When traveling huge distances over many countries sometimes delays happen or a train might break down.
 With a regular ticket you have to find staff and organize a reroute on the spot.
