@@ -40,7 +40,7 @@ For [Non-EWR citizens](https://www.interrail.eu/en/help/ordering-pass/do-i-need-
 ### Tools
 
 Inside Spain, Portugal, France:
-* [trenes](https://train.trenes.com/) <- Don't forget to uncheck the "booking.com" button
+* [Trenes](https://train.trenes.com/) (Don't forget to uncheck "Also search for accomodation")
 
 For northern Europa:
 * Austria, Germany, Czech Republic, Slovakia, Hungary, Italy, Switzerland, Serbia -> [ÖBB](https://www.oebb.at/)
