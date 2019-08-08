@@ -105,9 +105,9 @@ What does that mean, let's go through a possible option:
 
 ### From the East
 
-If your traveling from the east it might be possible to cross routes with folks from the north and join their travel.
-Lucky us there is a direct line from Budapest to Zürich.
-Let's look at the connection:
+If your are traveling from the East it might be possible to cross routes with folks from the North and join their travel.
+Lucky us there is a direct connection from Budapest to Zürich.
+Let's look at it:
 
 {:.layout-auto}
 |        City         |    Day    | Departure | Arrival |                                          Notes                                          |
