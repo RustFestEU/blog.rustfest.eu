@@ -95,7 +95,7 @@ What does that mean, let's go through a possible option:
 
 ### From the East
 
-Now what if we were able to meet up with people?
+If your traveling from the east it might be possible to cross routes with folks from the north and join their travel.
 Lucky us there is a direct line from Budapest to Zürich.
 Let's look at the connection:
 
