@@ -123,7 +123,7 @@ Note that you can take a direct train from Warsaw or Prague to Vienna.
 
 ### From the South
 
-We will suggest two possible options from Italy. Italy basically has one "train backbone" that goes from South to North so you choice basically is how many stops you want to do. For more options and ideas visit [https://www.interrail.eu](https://www.interrail.eu).
+We will suggest two possible options from Italy. Italy basically has one "train backbone" that goes from South to North so you basically choose how many stops you want to do. For more options and ideas visit [https://www.interrail.eu](https://www.interrail.eu).
 
 {:.layout-auto}
 | City                | Day       | Departure | Arrival | Notes                                                                                                              |   |
