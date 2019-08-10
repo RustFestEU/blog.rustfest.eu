@@ -98,12 +98,12 @@ What does that mean, let's go through a possible option:
 | Kopenhagen, DK                  | Wednesday | 12:52     | 18:02   | Via Fredericia st.                                                                        |
 | Hamburg, DE                     | Wednesday | 18:02     |         | Here we could have a meetup in Hamburg, probably best with food.                          |
 | Hamburg, DE                     | Wednesday | 21:02     | 07:54   | Now we can fade out the day and rest.                                                     |
-| Basel, CH                       | Thursday  | 08:07     | 09:00   | This is the high speed train, you can stay on the NightJet and arrive a little later.      |
+| Basel, CH                       | Thursday  | 08:07     | 09:00   | This is the high speed train, you can stay on the NightJet and arrive a little later.     |
 | Zürich HB, CH                   | Thursday  |           | 09:42   | Time to walk a little in Zürich, meet people and maybe hit a shower and a day of hacking. |
 | Zürich HB, CH                   | Thursday  | 12:03     | 14:45   | At this point our group might have grown a bit.                                           |
 | Genève, CH                      | Thursday  | 14:59     | 18:05   | The fast TGV. 🚅                                                                          |
 | Valence TGV Rhône-Alpes Sud, FR | Thursday  | 18:22     | 22:44   | Say goodbye to the Alps.                                                                  |
-| Barcelona Sants, ES             | Thursday  |           | 22:44   | 🎉 Hurray, we made it.                                                                       |
+| Barcelona Sants, ES             | Thursday  |           | 22:44   | 🎉 Hurray, we made it.                                                                    |
 
 
 ### From the East
@@ -113,13 +113,36 @@ Lucky us there is a direct connection from Budapest to Zürich.
 Let's look at it:
 
 {:.layout-auto}
-|        City         |    Day    | Departure | Arrival |                                          Notes                                          |
+| City                | Day       | Departure | Arrival | Notes                                                                                   |
 | ------------------- | --------- | --------- | ------- | --------------------------------------------------------------------------------------- |
 | Budapest-Keleti, HU | Wednesday | 20:40     | 08:20   | Jump on the NightJet and relax.                                                         |
 | Vienna, AT          | Wednesday | 23:25     | 08:20   | Same train, has multiple stops in Austria.                                              |
 | Zürich HB, CH       | Thursday  |           | 08:20   | Time to walk a little in Zürich, meet people and maybe hit a shower and day of hacking. |
 
 Note that you can take a direct train from Warsaw or Prague to Vienna.
+
+### From the South
+
+We will suggest two possible options from Italy. Italy basically has one "train backbone" that goes from South to North so you choice basically is how many stops you want to do. For more options and ideas visit [https://www.interrail.eu](https://www.interrail.eu).
+
+{:.layout-auto}
+| City                | Day       | Departure | Arrival | Notes                                                                                                              |   |
+| ------------------- | --------- | --------- | ------- | ------------------------------------------------------------------------------------------------------------------ |   |
+| Rome, IT            | Wednesday | 11:30     | 14:30   | Get a quick "FrecciaRossa" train to Milan.                                                                         |   |
+| Milan, IT           | Wednesday | 15:05     | 22:30   | Get the "EuroCity" train to Marseille, France.                                                                     |   |
+| Marseille, FR       | Thursday  | 08:00     | 12:30   | You're in Marseille the whole night. Either sleep or meet witht friends for a night of hacking or an afterhour :-) |   |
+| Barcelona, SP       | Friday    |           | 12:30   | You're in Barcelona and you can rest a bit, visit the city and the following day you'll be cool for the Rustfets   |   |
+
+Second option, with one more stop and less idle time:
+
+{:.layout-auto}
+| City                | Day       | Departure | Arrival | Notes                                                                                                              |   |   |   |
+| ------------------- | --------- | --------- | ------- | ------------------------------------------------------------------------------------------------------------------ |   |   |   |
+| Rome, IT            | Wednesday | 16:00     | 23:30   | Intercity train to border with France. You have a quick night of sleep at Ventimiglia                              |   |   |   |
+| Ventimiglia, FR     | Thursday  | 05:30     | 06:20   | A quick stop, then go to Nice                                                                                      |   |   |   |
+| Nice, FR            | Thursday  | 07:00     | 11:00   | TGV (fast connection) to Valence. You have the whole day in Valence, it's a very nice city, enjoy it!              |   |   |   |
+| Valence, FR         | Friday    | 00:20     | 16:30   | You'll reach Barcelona and you'll have half a day in your hands to go around before Saturday                       |   |   |   |
+
 
 ## The way home
 
