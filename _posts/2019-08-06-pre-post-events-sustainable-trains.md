@@ -108,7 +108,7 @@ What does that mean, let's go through a possible option:
 
 ### From the East
 
-If your are traveling from the East it might be possible to cross routes with folks from the North and join their travel.
+If you are traveling from the East it might be possible to cross routes with folks from the North and join their travel.
 Lucky us there is a direct connection from Budapest to Zürich.
 Let's look at it:
 
