@@ -141,7 +141,7 @@ We will suggest two possible options from Italy. Italy basically has one "train 
 |      City       |    Day    | Departure | Arrival |                                                 Notes                                                 |
 | --------------- | --------- | --------- | ------- | ----------------------------------------------------------------------------------------------------- |
 | Rome, IT        | Wednesday | 16:00     | 23:30   | Intercity train to border with France. You have a quick night of sleep at Ventimiglia                 |
-| Ventimiglia, FR | Thursday  | 05:30     | 06:20   | A quick stop, then go to Nice                                                                         |
+| Ventimiglia, IT | Thursday  | 05:30     | 06:20   | A quick stop, then go to Nice                                                                         |
 | Nice, FR        | Thursday  | 07:00     | 11:00   | TGV (fast connection) to Valence. You have the whole day in Valence, it's a very nice city, enjoy it! |
 | Valence, FR     | Friday    | 00:20     | 16:30   | You'll reach Barcelona and you'll have half a day in your hands to go around before Saturday          |
 
