@@ -47,6 +47,20 @@ Most high-speed and night trains require a [reservation at an additional cost](h
 For most European citizens [the Interrail pass (currently 10% off)](https://www.interrail.eu/en/autumn-sale/global-pass) is probably the most flexible and affordable ticket.
 For [Non-EWR citizens](https://www.interrail.eu/en/help/ordering-pass/do-i-need-interrail-or-eurail-pass) there is [Eurail](https://www.eurail.com/en/eurail-passes/global-pass).
 
+### Prices
+
+Prices varies on how many days you want the ticket to be valid. Here is a some ballpark figures:
+
+{:.layout-auto}
+| Ticket validity       | Price in EUR |
+| --------------------- | ------------ |
+| 5 days within 1 month | 200          |
+| 7 days within 1 month | 230          |
+
+
+All prices are available [here](https://www.interrail.eu/en/interrail-passes/global-pass). You might want to check special offers by your local train company.
+
+
 ### Tools
 
 Within Spain, Portugal, France:
