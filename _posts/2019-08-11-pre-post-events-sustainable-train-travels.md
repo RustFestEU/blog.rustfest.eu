@@ -127,15 +127,17 @@ Note that you can take a direct train from Warsaw or Prague to Vienna.
 
 We suggest two possible options from Italy. Italy basically has one "train backbone" that goes from South to North so you choose how many stops you want to do. For more options and ideas visit [https://www.interrail.eu](https://www.interrail.eu).
 
-{:.layout-auto}
-|     City      |    Day    | Departure | Arrival |                                                       Notes                                                        |
-| ------------- | --------- | --------- | ------- | ------------------------------------------------------------------------------------------------------------------ |
-| Rome, IT      | Wednesday | 11:30     | 14:30   | Get a quick "FrecciaRossa" train to Milan.                                                                         |
-| Milan, IT     | Wednesday | 15:05     | 22:30   | Get the "EuroCity" train to Marseille, France.                                                                     |
-| Marseille, FR | Thursday  | 08:00     | 12:30   | You're in Marseille the whole night. Either sleep or meet witht friends for a night of hacking or an afterhour :-) |
-| Barcelona, SP | Friday    |           | 12:30   | You're in Barcelona and you can rest a bit, visit the city and the following day you'll be cool for the Rustfets   |
+**First option**, only two stops and a whole night in Marseille:
 
-**Second option**, with one more stop and less idle time:
+{:.layout-auto}
+| City          | Day       | Departure | Arrival | Notes                                                                                                                                                                                  |
+| ------------- | --------- | --------- | ------- | ------------------------------------------------------------------------------------------------------------------                                                                     |
+| Rome, IT      | Wednesday | 11:30     | 14:30   | Get a quick "FrecciaRossa" train to Milan.                                                                                                                                             |
+| Milan, IT     | Wednesday | 15:05     | 22:30   | Get the "EuroCity" train to Marseille, France. You'll have the whole night until the next connection, so either sleep or meet with friends for a night of hacking or an afterhour :-) |
+| Marseille, FR | Thursday  | 08:00     | 12:30   | Last connection: this train will get you to Barcelona                                                                                                                                  |
+| Barcelona, SP | Friday    |           | 12:30   | You're in Barcelona and you can rest a bit, visit the city and the following day you'll be cool for RustFest                                                                           |
+
+**Second option**, three stops but less time idle:
 
 {:.layout-auto}
 |      City       |    Day    | Departure | Arrival |                                                 Notes                                                 |
