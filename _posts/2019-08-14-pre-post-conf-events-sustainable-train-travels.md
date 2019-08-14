@@ -74,7 +74,7 @@ You might want to check special offers by your local train company also.
 ### Tools
 
 Within Spain, Portugal, France:
-* [Trenes](https://train.trenes.com/) (Don't forget to uncheck "Also search for accomodation")
+* [Trenes](https://train.trenes.com/) (Don't forget to uncheck "Also search for accommodation")
 
 Central Europa:
 * [SNCF](https://www.sncf.com/en)
@@ -86,7 +86,7 @@ For Northern Europa:
 
 ## The travel to Barcelona
 
-Now let us look at some examples we came up as a guidline:
+Now let us look at some examples we came up as a guideline:
 ![Some train routes](/assets/posts/barcelona/train-map.png)
 <p class="smallprint" markdown="1">Map credit [OpenStreetMap](https://osm.org)</p>
 
@@ -120,7 +120,7 @@ What does that mean, let's go through a possible option:
 {:.layout-auto}
 |              City               |    Day    | Departure | Arrival |                                           Notes                                           |
 | ------------------------------- | --------- | --------- | ------- | ----------------------------------------------------------------------------------------- |
-| Gothenburg, SE                  | Wednesday | 08:55     | 12:28   | Grab a laptop, something to ead and drink to go and meet the others in the train.         |
+| Gothenburg, SE                  | Wednesday | 08:55     | 12:28   | Grab a laptop, something to eat and drink to go and meet the others in the train.         |
 | Kopenhagen, DK                  | Wednesday | 12:52     | 18:02   | Via Fredericia st.                                                                        |
 | Hamburg, DE                     | Wednesday | 18:02     |         | Here we could have a meetup in Hamburg, probably best with food.                          |
 | Hamburg, DE                     | Wednesday | 21:02     | 07:54   | Now we can fade out the day and rest.                                                     |
@@ -154,14 +154,14 @@ Note that you can take a direct train from Warsaw or Prague to Vienna.
 
 We suggest two possible options from Italy. Italy basically has one "train backbone" that goes from South to North so you choose how many stops you want to do. For more options and ideas visit [https://www.interrail.eu](https://www.interrail.eu).
 
-**First option**, only two stops and a whole night in Marseille:
+**First option**, only two stops and a whole night in Marseilles:
 
 {:.layout-auto}
 | City          | Day       | Departure | Arrival | Notes                                                                                                                                                                                  |
 | ------------- | --------- | --------- | ------- | ------------------------------------------------------------------------------------------------------------------                                                                     |
 | Rome, IT      | Wednesday | 11:30     | 14:30   | Get a quick "FrecciaRossa" train to Milan.                                                                                                                                             |
-| Milan, IT     | Wednesday | 15:05     | 22:30   | Get the "EuroCity" train to Marseille, France. You'll have the whole night until the next connection, so either sleep or meet with friends for a night of hacking or an afterhour :-) |
-| Marseille, FR | Thursday  | 08:00     | 12:30   | Last connection: this train will get you to Barcelona                                                                                                                                  |
+| Milan, IT     | Wednesday | 15:05     | 22:30   | Get the "EuroCity" train to Marseilles, France. You'll have the whole night until the next connection, so either sleep or meet with friends for a night of hacking or an afterhour :-) |
+| Marseilles, FR | Thursday  | 08:00     | 12:30   | Last connection: this train will get you to Barcelona                                                                                                                                  |
 | Barcelona, SP | Friday    |           | 12:30   | You're in Barcelona and you can rest a bit, visit the city and the following day you'll be cool for RustFest                                                                           |
 
 **Second option**, three stops but less time idle:
