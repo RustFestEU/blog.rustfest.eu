@@ -18,10 +18,16 @@ So what do we need for that?
 2. How far can you go in one day?
 3. Which stops are interesting?
 4. Where can I meet other people?
+5. Where do I get my ticket?
+6. Can I rework the slides of my presentation?
 
 1 and 2 you have to answer for yourself.
 
 3 and 4 we can help. We are [collecting all pre-/post events](https://barcelona.rustfest.eu/pre_post_conf_events/) on our website.
+
+5 you can solve on <a class="button" href="https://ti.to/rustfest/barcelona2019/">our ticket page</a>.
+
+for 6 your proposal needs to be in the CfP: <a class="button" href="https://cfp.rustfest.eu/events/rustfest-barcelona-2019">Apply now!</a>
 
 Beeing able to talk to your peers directly makes planning easy.
 The [Rust User Forum](https://users.rust-lang.org/c/community) is a great place to organize.
