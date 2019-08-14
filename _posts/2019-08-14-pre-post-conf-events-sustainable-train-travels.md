@@ -42,7 +42,6 @@ With the Interrail global pass you buy travel days over a period of time.
 So you can simply catch the next train and continue your journey.
 
 If you buy 7 travel days within one month, you have the flexibility to ride any train outside of your home country on 7 days.
-So you have the flexibility to ride any train outside of your home country on 7 days.
 In addition, the ticket is also valid for travel in your country of residence during one outbound journey and one inbound journey that occur during travel days at any point in your trip.
 
 Most high-speed and night trains require a [reservation at an additional cost](https://www.interrail.eu/en/plan-your-trip/reservations).
