@@ -47,7 +47,7 @@ This is where Interrail saves the day.
 With the Interrail global pass you buy travel days over a period of time.
 So you can simply catch the next train and continue your journey.
 
-If you buy 7 travel days within one month, you have the flexibility to ride any train outside of your home country on 7 days.
+If you buy 7 travel days within one month, you have the flexibility to ride any train outside of your home country on 7 independent days.
 In addition, the ticket is also valid for travel in your country of residence during one outbound journey and one inbound journey that occur during travel days at any point in your trip.
 
 Most high-speed and night trains require a [reservation at an additional cost](https://www.interrail.eu/en/plan-your-trip/reservations).
@@ -60,13 +60,15 @@ For [Non-EWR citizens](https://www.interrail.eu/en/help/ordering-pass/do-i-need-
 Prices varies on how many days you want the ticket to be valid. Here is a some ballpark figures:
 
 {:.layout-auto}
-| Ticket validity       | Price in EUR |
-| --------------------- | ------------ |
-| 5 days within 1 month | 200          |
-| 7 days within 1 month | 230          |
+|    Ticket validity    | Youth (12-27) | Adult (28+) |
+| --------------------- | ------------- | ----------- |
+| 5 days within 1 month | 195 €         | 254 €       |
+| 7 days within 1 month | 232 €         | 302 €       |
 
 
-All prices are available [here](https://www.interrail.eu/en/interrail-passes/global-pass). You might want to check special offers by your local train company.
+All prices are available [here](https://www.interrail.eu/en/interrail-passes/global-pass).
+
+You might want to check special offers by your local train company also.
 
 
 ### Tools
@@ -86,6 +88,7 @@ For Northern Europa:
 
 Now let us look at some examples we came up as a guidline:
 ![Some train routes](/assets/posts/barcelona/train-map.png)
+<p class="smallprint" markdown="1">Map credit [OpenStreetMap](https://osm.org)</p>
 
 ### Within Spain
 
