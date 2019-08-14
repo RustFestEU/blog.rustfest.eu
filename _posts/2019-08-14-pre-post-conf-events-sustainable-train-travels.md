@@ -3,7 +3,7 @@ layout: post
 title: "Pre-/Post-Conf Events: sustainable 🚄 train travels from and to RustFest Barcelona"
 authors:
   - dns2utf8
-socialImageSrc: "/assets/posts/barcelona/train-map.png"
+socialImageSrc: "assets/posts/barcelona/sustainable-trains.png"
 ---
 
 ## The big plan 🚆
@@ -85,6 +85,7 @@ For Northern Europa:
 ## The travel to Barcelona
 
 Now let us look at some examples we came up as a guidline:
+![Some train routes](/assets/posts/barcelona/train-map.png)
 
 ### Within Spain
 
