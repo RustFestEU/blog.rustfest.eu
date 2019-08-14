@@ -9,7 +9,7 @@ socialImageSrc: "/assets/posts/barcelona/train-map.png"
 ## The big plan 🚆
 
 What if you could meet with other Rustaceans while you travel to and from RustFest Barcelona?
-We want to make that happen and are organizing a community travel from the north of Europe all the way down to Barcelona, with stops in between.
+We want to make that happen and are organizing a community travel from the North of Europe all the way down to Barcelona, with stops in between.
 We want to encourage more people to join us or plan similar travel events.
 
 So what do we need for that?
@@ -21,10 +21,13 @@ So what do we need for that?
 
 1 and 2 you have to answer for yourself.
 
-3 and 4 we can help. We are [collecting all pre-/post events](https://barcelona.rustfest.eu/pre_post_events/) on our website.
+3 and 4 we can help. We are [collecting all pre-/post events](https://barcelona.rustfest.eu/pre_post_conf_events/) on our website.
 
 Beeing able to talk to your peers directly makes planning easy.
 The [Rust User Forum](https://users.rust-lang.org/c/community) is a great place to organize.
+
+All the plans below are suggestions that allow for a day or two of sightseeing on the way.
+Once more groups announce their interest in running an event we will update our [Pre-/Post-Conf Events page](https://barcelona.rustfest.eu/pre_post_conf_events/).
 
 ### Tickets or Interrail
 
@@ -76,7 +79,7 @@ For Northern Europa:
 
 ## The travel to Barcelona
 
-Now let us look at some examples:
+Now let us look at some examples we came up as a guidline:
 
 ### Within Spain
 
@@ -108,7 +111,7 @@ What does that mean, let's go through a possible option:
 {:.layout-auto}
 |              City               |    Day    | Departure | Arrival |                                           Notes                                           |
 | ------------------------------- | --------- | --------- | ------- | ----------------------------------------------------------------------------------------- |
-| Gothenburg, SE                  | Wednesday | 08:55     | 12:28   | Swing by the office before and grab a laptop and a coffee to go.                          |
+| Gothenburg, SE                  | Wednesday | 08:55     | 12:28   | Grab a laptop, something to ead and drink to go and meet the others in the train.         |
 | Kopenhagen, DK                  | Wednesday | 12:52     | 18:02   | Via Fredericia st.                                                                        |
 | Hamburg, DE                     | Wednesday | 18:02     |         | Here we could have a meetup in Hamburg, probably best with food.                          |
 | Hamburg, DE                     | Wednesday | 21:02     | 07:54   | Now we can fade out the day and rest.                                                     |
@@ -120,6 +123,7 @@ What does that mean, let's go through a possible option:
 | Barcelona Sants, ES             | Thursday  |           | 22:44   | 🎉 Hurray, we made it.                                                                     |
 
 The NightJet 471 from Berlin rolls directly to Zürich.
+It is the connection I used to get to and from the first RustFest in 2016.
 
 
 ### From the East
