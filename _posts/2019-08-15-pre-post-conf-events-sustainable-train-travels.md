@@ -3,7 +3,7 @@ layout: post
 title: "Pre-/Post-Conf Events: sustainable 🚄 train travels from and to RustFest Barcelona"
 authors:
   - dns2utf8
-socialImageSrc: "assets/posts/barcelona/sustainable-trains.png"
+socialImageSrc: "/assets/posts/barcelona/sustainable-trains.png"
 ---
 
 ## The big plan 🚆
