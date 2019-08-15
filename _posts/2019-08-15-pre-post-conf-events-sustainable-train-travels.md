@@ -122,7 +122,7 @@ What does that mean, let's go through a possible option:
 | ------------------------------- | --------- | --------- | ------- | ----------------------------------------------------------------------------------------- |
 | Gothenburg, SE                  | Wednesday | 08:55     | 12:28   | Grab a laptop, something to eat and drink to go and meet the others in the train.         |
 | Kopenhagen, DK                  | Wednesday | 12:52     | 18:02   | Via Fredericia st.                                                                        |
-| Hamburg, DE                     | Wednesday | 18:02     |         | Here we could have a meetup in Hamburg, probably best with food.                          |
+| Hamburg, DE                     | Wednesday |           | 18:02   | Here we could have a meetup in Hamburg, probably best with food.                          |
 | Hamburg, DE                     | Wednesday | 21:02     | 07:54   | Now we can fade out the day and rest.                                                     |
 | Basel, CH                       | Thursday  | 08:07     | 09:00   | This is the high speed train, you can stay on the NightJet and arrive a little later.     |
 | Zürich HB, CH                   | Thursday  |           | 09:42   | Time to walk a little in Zürich, meet people and maybe hit a shower and a day of hacking. |
