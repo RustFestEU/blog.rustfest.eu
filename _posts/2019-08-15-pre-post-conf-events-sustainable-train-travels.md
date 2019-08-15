@@ -76,10 +76,10 @@ You might want to check special offers by your local train company also.
 Within Spain, Portugal, France:
 * [Trenes](https://train.trenes.com/) (Don't forget to uncheck "Also search for accommodation")
 
-Central Europa:
+Central Europe:
 * [SNCF](https://www.sncf.com/en)
 
-For Northern Europa:
+For Northern Europe:
 * Austria, Germany, Czech Republic, Slovakia, Hungary, Italy, Switzerland, Serbia -> [ÖBB](https://www.oebb.at/)
 * Sweden, Denmark, Netherlands, Germany, Switzerland -> [Deutsche Bahn](https://bahn.de)
 * Switzerland, France, Spain -> [Schweizerische Bundesbahnen](https://sbb.ch)
