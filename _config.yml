@@ -3,7 +3,7 @@ email: team@rustfest.eu
 description: >
   A Community Rust conference for the Rusty folks all around Europe.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blog.rustfest.eu" # the base hostname & protocol for your site
+url: "https://blog.rustfest.eu" # the base hostname & protocol for your site
 timezone: Europe/Zurich
 
 # Build settings
