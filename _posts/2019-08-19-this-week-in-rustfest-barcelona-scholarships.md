@@ -33,6 +33,6 @@ Please note, this is the final round of Community Tickets, there won't be any mo
 
 ## Extending the CFP deadline
 
-We have alredy received a ton of interesting submissions to our Call for Proposals (thank you!), but due to the raging summer and vacation season we have decided to give you all a bit more time to cook up a proposal: we are extending the CFP with an extra week!
+We have alredy received a ton of interesting submissions to our Call for Proposals (thank you!), but due to the raging summer and vacation season we have decided to give you all a bit more time to cook up a proposal: we are extending the CFP with an extra week! New deadline is Monday midnight, August 26 23:59 UTC.
 
 [Head on to our CFP page to submit a proposal](https://cfp.rustfest.eu/events/rustfest-barcelona-2019), and please [help us spread the word](https://twitter.com/RustFest/status/1153566837386481664), to ensure our [CFP commitee](https://barcelona.rustfest.eu/cfp-committee/) has a real tough time deciding which excellent talk to showcase on the RustFest Barcelona stage this November!
