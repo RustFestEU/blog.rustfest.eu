@@ -2,7 +2,7 @@
 layout: post
 title: "This Week in RustFest - Scholarships, Community Tickets and CFPs"
 description: "Announcing our Scholarship program, a CFP-extension & a one last round of Community Tickets"
-socialImageSrc: "/assets/posts/barcelona/barcelona-announcement.png"
+socialImageSrc: "/assets/posts/barcelona-scholarships-social.png"
 ---
 
 We have a ton of exciting updates for y'all this week, so let's dive right in!
