@@ -12,9 +12,9 @@ Today we are at step one.
 
 After having received your 🗐 proposals 🗐 we are looking at:
 
-* XXX normal talks
-* XXX short talks
-* XXX workshops
+* 80 normal talks
+* 21 short talks
+* 15 workshops
 
 ## Open review 📃
 
