@@ -23,7 +23,7 @@ In this step we look at diversity and if one persons has multiple proposals in t
 
 This step concludes with one long call where the proposals are split into accepted, waitlisted and rejected.
 
-Waitlisted means that we would have loved to accepted your talk, but do not have enough time slots to do so.
+Waitlisted means that we would have loved to accept your talk, but do not have enough time slots to do so.
 
 ## Confirming with speakers 📄
 
@@ -31,6 +31,6 @@ Finally, we try to confirm with the speakers.
 Sometimes a accepted speaker can not make it or does not confirm the talk.
 So waitlisted proposals get promoted.
 
-Rarely a speaker gets ill and we do replace the talk with a waitlisted one if the speaker are onsite.
+Rarely a speaker gets ill and we do replace the talk with a waitlisted one if the speaker is onsite on short notice.
 
 🎉🌈
