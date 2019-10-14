@@ -17,7 +17,7 @@ As it is a tradition now, we're hosting a [RustBridge workshop](https://rustbrid
 
 > RustBridge is a workshop focused on getting underrepresented people with a background in another programming language to learn Rust and join the community.
 
-The workshop will take place on both conference afteroons: **Saturday, November 9th** and **Sunday, November 10th**.
+The workshop will take place on both conference afternoons: **Saturday, November 9th** and **Sunday, November 10th**.
 Attendance is free, but we only have limited space.
 
 [**Sign up here**](https://ti.to/rustfest/barcelona2019/with/sbxdz-poxjc)
