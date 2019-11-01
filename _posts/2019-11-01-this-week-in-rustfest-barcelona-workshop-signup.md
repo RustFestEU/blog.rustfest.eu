@@ -22,14 +22,8 @@ We're looking forward to 11 talks and a total of 12 workshops.
 This year the workshops happen as afternoon sessions on both days.
 We will have workshops that run on only one day and a handful of workshops that are spread across both days.
 
-You can signup for one or two workshops online:
-
-<div style="text-align:center">
-<a href="https://ti.to/rustfest/barcelona2019/"><strong>Sign up for workshop tickets</strong></a>
-</div>
-
+If you already have a ticket for the conference, you will receive an email later today with links to signup for the workshops.
 Workshops don't cost extra and are included in the general conference ticket already.
-So if you have a conference ticket, you are eligible to attend the workshops.
 
 ## Workshop topics
 
