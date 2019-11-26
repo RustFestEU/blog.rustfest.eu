@@ -15,6 +15,15 @@ We will release the recordings of all talks over the next couple of days.
 
 TODO: insert iframe with playlist
 
+## Lightning talks & workshop material
+
+This year we used one of the workshop slots for a round of lightning talks.
+On Sunday afternoon we had a total of 13 different short talks in front of a filled room,
+with topics such as Rust RFCs, code discussions, interesting crates and making music using Rust.
+
+You can find the list of topics and the discussed projects [on the workshop detail page](https://barcelona.rustfest.eu/sessions/bring-your-topic).
+We also added links to the material for other workshops where we have it available. Check out the [list of all workshops](https://barcelona.rustfest.eu/workshops/).
+
 ## Lessons learned
 
 ### The microphones
