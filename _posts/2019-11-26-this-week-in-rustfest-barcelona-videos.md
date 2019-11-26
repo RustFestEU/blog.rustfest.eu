@@ -8,10 +8,10 @@ authors:
   - badboy
 ---
 
-## The releases
+## RustFest Barcelona recordings available!
 
-We are releasing the videos of all our talks over the next couple of days.
-So you can binge all of them very soon.
+We are happy to announce that the first talk recordings of RustFest Barcelona are available today!
+We will release the recordings of all talks over the next couple of days.
 
 TODO: insert iframe with playlist
 
