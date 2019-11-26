@@ -10,8 +10,8 @@ authors:
 
 ## RustFest Barcelona recordings available!
 
-We are happy to announce that the first talk recordings of RustFest Barcelona are available today!
-We will release the recordings of all talks over the next couple of days.
+We are happy to announce that the first three talk recordings of RustFest Barcelona are available today!
+We will release the remaining recordings over the next couple of days.
 
 <iframe width="1120" height="630" src="https://www.youtube.com/embed/videoseries?list=PL85XCvVPmGQg-dewHRpM08JkGrBPdIVHw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
