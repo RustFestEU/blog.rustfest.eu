@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "This Week in RustFest - Video releases"
-description: "Lessons learned from the streaming and the recordings."
+title: "This Week in RustFest - Talk recordings available"
+description: "Talk recordings available, lightning talks & workshop material as well"
 socialImageSrc: "/assets/posts/barcelona/video-releases.png"
 authors:
   - dns2utf8
@@ -13,7 +13,7 @@ authors:
 We are happy to announce that the first talk recordings of RustFest Barcelona are available today!
 We will release the recordings of all talks over the next couple of days.
 
-TODO: insert iframe with playlist
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/videoseries?list=PL85XCvVPmGQg-dewHRpM08JkGrBPdIVHw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Lightning talks & workshop material
 
