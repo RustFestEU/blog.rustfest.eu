@@ -276,3 +276,15 @@ apiraino:
     - icon: "gitlab"
       title: "apiraino"
       link: "https://gitlab.com/apiraino"
+djc:
+    name: Dirkjan Ochtman
+    nick: djc
+    desc: ""
+    thumbnailUrl: dirkjan.jpg
+    links:
+      - icon: github
+        link: https://github.com/djc
+      - icon: website
+        link: https://dirkjan.ochtman.nl/
+      - icon: twitter
+        link: https://twitter.com/djco
