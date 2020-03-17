@@ -1,15 +1,13 @@
 ---
 layout: post
-title: "Postponing RustFest NL"
-description: "RustFest NL planning for 2020 in times of the Coronavirus""
+title: "Postponing RustFest Netherlands"
+description: "RustFest Netherlands planning for 2020 in times of the Coronavirus"
 socialImageSrc: "/assets/posts/barcelona/video-releases.png"
 authors:
   - djc
 ---
 
-## Postponing RustFest NL
-
-For the past weeks we have been very busy working towards an announcement
+For the past months we have been very busy working towards an announcement
 for our 2020 RustFest in the Netherlands, as announced for Q2 of this year.
 Unfortunately it has now become clear that COVID-19 is throwing a wrench in the works --
 even with our planning for an event in early June,
