@@ -34,6 +34,6 @@ we will ask on our ticket data form if you're still willing to attend if our tea
 cannot make the physical event work. We will outline what the digital event will look like in
 future blog posts as we map out what a great digital Rust conference would look like.
 
-We would love to meet you all again -- or make your acquaintance -- in person in October 2020;
+We would love to meet you all again -- or make your acquaintance -- in person in Q4 2020;
 but if that turns out not to be feasible, it would still be great to bring our community together
 for an online Rust festival. We hope you will RustFest with us.
