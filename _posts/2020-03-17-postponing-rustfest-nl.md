@@ -2,7 +2,7 @@
 layout: post
 title: "Postponing RustFest Netherlands"
 description: "RustFest Netherlands planning for 2020 in times of the Coronavirus"
-socialImageSrc: "/assets/posts/barcelona/video-releases.png"
+socialImageSrc: "/assets/posts/netherlands/postponed.png"
 authors:
   - djc
 ---
