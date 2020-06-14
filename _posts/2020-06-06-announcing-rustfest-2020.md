@@ -33,6 +33,17 @@ So we will have a second
 
 ## What are we looking for?
 
+This is not the final list, it should give you some pointers:
+
+* How to stay connected in your part of the rust community?
+    * Do you reach out to new people?
+* How do you learn about useful crates?
+* Show off your cool feature/crate/contribution?
+* Are you able to integrate rust in your day job? Or did you experience a missfit? 
+
+Or to make it even shorter: What have you learned (with rust)?
+ 
+
 ## What to do in the meantime?
 
 Attend meetups
