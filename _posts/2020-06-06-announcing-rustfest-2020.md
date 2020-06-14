@@ -7,7 +7,7 @@ authors:
   - dns2utf8
 ---
 
-TLDR: The next RustFest will be on the weekend of ???2020-11-07 and 2020-11-08??? and it will be a online community conference 🎉
+TLDR: The next RustFest will be on the weekend of ???2020-11-07 and 2020-11-08??? and it will be an online community conference 🎉
 
 # Future<Output = RustFest::Global2020>
 
@@ -27,16 +27,17 @@ Over the next weeks we will test different setups.
 
 We are looking into how to make workshops reliable and fun for everyone.
 
-Currently, we are looking into good formats.
+Currently, we are testing good formats with the [Zürich](https://www.meetup.com/Rust-Zurich/) and [Berlin](https://berline.rs/) meetups.
 
 So we will have a second 
 
 ## What are we looking for?
 
-## What to do meanwhile?
+## What to do in the meantime?
 
 Attend meetups
 
+<!--
 <div class="card">
     <div class="imgbox" data-frame="/assets/rf-rainbow-ferris.png">
       <img src="/assets/rf-rainbow-ferris.png" alt="RustFest Logo" class="frame">
@@ -52,3 +53,4 @@ Attend meetups
         RustFest Global 2020&nbsp; ·&nbsp; Nov. 7.-8., Online, Central Europa Timezone&nbsp; ·&nbsp; 2020.rustfest.eu
     </footer>
   </div>
+-->
