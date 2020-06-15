@@ -7,7 +7,7 @@ authors:
   - dns2utf8
 ---
 
-TLDR: The next RustFest will be on the weekend of ???2020-11-07 and 2020-11-08??? and it will be an online community conference 🎉
+TLDR: The next RustFest will be on the weekend of 2020-11-07 and 2020-11-08 and it will be an online community conference 🎉
 
 # Future<Output = RustFest::Global2020>
 
@@ -46,7 +46,18 @@ Or to make it even shorter: What have you learned (with rust)?
 
 ## What to do in the meantime?
 
-Attend meetups
+With the global lockdown: Attend online meetups.
+
+As mentioned before [Berlin](https://berline.rs/) and [Zürich](https://www.meetup.com/Rust-Zurich/) and many others are open to anybody on the planet to talk about a subject.
+
+### Speaker preparations
+
+If you plan to submit a talk or a workshop for this or any other conference, why not record yourself talking about something for 5 minutes.
+
+This will allow you to see how the recording quality is.
+Pro Tip: If you want to invest in something, start with brigher lights. 
+Buying any LED bulb (usually with the E27 fitting) with more than 1000 lumen and a colour of 2500 to 2700 Kelvin for less than 20€ will have more effect than a fancy webcam way more money.
+Plus you can use the bulb as a normal light too.
 
 <!--
 <div class="card">
