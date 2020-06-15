@@ -7,17 +7,17 @@ authors:
   - dns2utf8
 ---
 
-The summary: The next RustFest will be on the weekend of 7th & 8th November (2020-11-07 and 2020-11-08) and it will be an online community conference! 🎉
-
-We will publish more in the next two to three weeks here on our blog and on [our twitter account](https://twitter.com/RustFest), stay tuned!
-
-# Future<Output = RustFest::Global2020>
+The summary: 🎉 We are now very happy to announce the next RustFest will happen as an online community conference on the weekend of 7th & 8th November (2020-11-07 and 2020-11-08) and it will be an online community conference! 🎉
 
 RustFest 2020 was planned to happen about now, in Utrecht, the Netherlands. 
 As the COVID-19 pandemic spread around the world and forced us to shelter at home we had to put a stop to planning a large in-person event.
 The team still wanted to make something happen and we talked through several options.
 
-We are now very happy to announce that RustFest Global 2020 will happen as an online community conference on the weekend of 7th & 8th November (2020-11-07 and 2020-11-08)! 🎉
+We will publish more in the next two to three weeks here on our [blog](https://blog.rustfest.eu) and on [our twitter account](https://twitter.com/RustFest), stay tuned!
+
+
+# Future<Output = RustFest::Global2020>
+
 So, how will it work?
 
 This RustFest will be the first that is completely online, and whereas we aim for the same setup and experience, some elements will be adjusted to be able to offer you the best online experience.
