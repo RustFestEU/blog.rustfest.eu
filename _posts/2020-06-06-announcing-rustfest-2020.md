@@ -9,9 +9,13 @@ authors:
 
 The summary: The next RustFest will be on the weekend of 7th & 8th November (2020-11-07 and 2020-11-08) and it will be an online community conference! 🎉
 
+We will publish more in the next two to three weeks here on our blog and on [our twitter account](https://twitter.com/RustFest), stay tuned!
+
 # Future<Output = RustFest::Global2020>
 
 So, how will it work?
+
+This RustFest will be the first that is completely online, and whereas we aim for the same setup and experience, some elements will be adjusted to be able to offer you the best online experience.
 
 ## Talks & Call for Proposals
 
@@ -35,7 +39,7 @@ So we will have a second CfP for the workshops once we decide on a specific form
 
 ## What are we looking for?
 
-This is not the final list, it should give you some pointers:
+We are looking for proposals that include, but are not limited to:
 
 * How to stay connected in your part of the rust community?
     * Do you reach out to new people?
@@ -48,15 +52,21 @@ Or to make it even shorter: What have you learned (with rust)?
 
 ## What to do in the meantime?
 
-While in-person events are still not possible: Attend online meetups.
+While in-person events are still not possible we would like to suggest to follow these meetup-groups that are organizing online meetups and that you are able to attend from the comfort of your own home.
 
-As mentioned before [Berlin](https://berline.rs/) and [Zürich](https://www.meetup.com/Rust-Zurich/) and many others are open to anybody on the planet to talk about a subject.
+Feel free to contact them if you would like to present a subject before hand.
+
+* [Berlin](https://berline.rs/)
+* [Netherlands](https://www.meetup.com/Rust-Nederland/)
+* [Zürich](https://www.meetup.com/Rust-Zurich/)
+
+Larger events are listed on [timetill.rs](https://timetill.rs/#/) with [rusty days](https://rusty-days.org/) coming up next.
 
 ### Speaker preparations
 
 If you plan to submit a talk or a workshop for this or any other conference, why not record yourself talking about something for 5 minutes.
-
 This will allow you to see how the recording quality is.
+
 Pro Tip: If you want to invest in something, start with brighter lights. 
 Buying any LED bulb (usually with the E27 fitting) with more than 1000 lumen and a colour of 2500 to 2700 Kelvin for less than 20€ will have more effect than a fancy webcam that costs way more money.
 Plus you can use the bulb as a normal light too.
