@@ -23,7 +23,8 @@ RustFest Global will feature talks across a wide range of topics, just the same 
 We will stream all talks and provide a way to interact with the speakers & other attendees. Of course the talks will also be recorded and be available after the conference.
 The Call for Participation will be similar to the ones in the previous years, where we will start with a blind phase followed by a second round in which a part of the team will see your names.
 
-Please note that dropping your name will not help your talk to make the cut.
+We want you to speak at RustFest and explicitly encourage new speakers to talk about their projects, ideas & experiences.
+We will provide further details on the CfP process in the coming weeks.
 
 ### Technical details
 
