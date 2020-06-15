@@ -2,7 +2,7 @@
 layout: post
 title: "Announcing RustFest Global 2020 🎉"
 description: "Making RustFest Global for November 2020 in times of the Coronavirus"
-socialImageSrc: "/assets/posts/2020-global/2020-06-06_announcement.png"
+socialImageSrc: "/assets/posts/2020-global/2020-06-16_announcement.png"
 authors:
   - dns2utf8
 ---
