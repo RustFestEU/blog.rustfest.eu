@@ -7,7 +7,7 @@ authors:
   - dns2utf8
 ---
 
-TLDR: The next RustFest will be on the weekend of 2020-11-07 and 2020-11-08 and it will be an online community conference 🎉
+The summary: The next RustFest will be on the weekend of 7th & 8th November (2020-11-07 and 2020-11-08) and it will be an online community conference! 🎉
 
 # Future<Output = RustFest::Global2020>
 
