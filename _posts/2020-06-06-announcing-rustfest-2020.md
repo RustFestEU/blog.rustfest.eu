@@ -48,7 +48,7 @@ Or to make it even shorter: What have you learned (with rust)?
 
 ## What to do in the meantime?
 
-With the global lock down: Attend online meetups.
+While in-person events are still not possible: Attend online meetups.
 
 As mentioned before [Berlin](https://berline.rs/) and [Zürich](https://www.meetup.com/Rust-Zurich/) and many others are open to anybody on the planet to talk about a subject.
 
