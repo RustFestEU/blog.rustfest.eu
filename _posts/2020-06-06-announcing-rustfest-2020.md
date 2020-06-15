@@ -13,7 +13,7 @@ The summary: The next RustFest will be on the weekend of 7th & 8th November (202
 
 So, how will it work?
 
-## CfP for talks
+## Talks & Call for Proposals
 
 The Call for Participation will be similar to the ones in the previous years, where we will start with a blind phase followed by a second round in which a part of the team will see your names.
 
