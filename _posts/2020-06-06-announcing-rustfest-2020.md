@@ -41,7 +41,7 @@ This is not the final list, it should give you some pointers:
     * Do you reach out to new people?
 * How do you learn about useful crates?
 * Show off your cool feature/crate/contribution?
-* Are you able to integrate rust in your day job? Or did you experience a misfits? 
+* Are you able to integrate rust in your day job or did you run into obstacles? And how was the experience?
 
 Or to make it even shorter: What have you learned (with rust)?
  
