@@ -66,7 +66,7 @@ Plus you can use the bulb as a normal light too.
     </div>
 
     <section class="infobox" spellcheck="false" contenteditable="">
-      <span class="twitter">Save the date!</span>
+      <span class="twitter">Save the date: November 7th & 8th</span>
       <span class="speaker" style="margin-right: -10px;font-size: 27px;">RustFest Global</span>
       <span class="title">Get ready to submit a talk! 🎉</span>
     </section>
