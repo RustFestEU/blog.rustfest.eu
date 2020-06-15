@@ -15,7 +15,7 @@ So, how will it work?
 
 ## CfP for talks
 
-The Call for Participation will be similar to the ones in the previous years, where we will start with a blind phase followed by a second round when a part of the team will see your names.
+The Call for Participation will be similar to the ones in the previous years, where we will start with a blind phase followed by a second round in which a part of the team will see your names.
 
 Please note that dropping your name will not help your talk to make the cut.
 
@@ -56,7 +56,7 @@ If you plan to submit a talk or a workshop for this or any other conference, why
 
 This will allow you to see how the recording quality is.
 Pro Tip: If you want to invest in something, start with brighter lights. 
-Buying any LED bulb (usually with the E27 fitting) with more than 1000 lumen and a colour of 2500 to 2700 Kelvin for less than 20€ will have more effect than a fancy webcam way more money.
+Buying any LED bulb (usually with the E27 fitting) with more than 1000 lumen and a colour of 2500 to 2700 Kelvin for less than 20€ will have more effect than a fancy webcam that costs way more money.
 Plus you can use the bulb as a normal light too.
 
 <!--
