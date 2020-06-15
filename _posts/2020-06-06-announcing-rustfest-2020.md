@@ -11,7 +11,7 @@ TLDR: The next RustFest will be on the weekend of 2020-11-07 and 2020-11-08 and 
 
 # Future<Output = RustFest::Global2020>
 
-So how will it work?
+So, how will it work?
 
 ## CfP for talks
 
@@ -25,11 +25,11 @@ Over the next weeks we will test different setups.
 
 ## CfP for workshops
 
-We are looking into how to make workshops reliable and fun for everyone.
+We are looking into how to make workshops reliable, accessible and fun for everyone.
 
 Currently, we are testing good formats with the [Zürich](https://www.meetup.com/Rust-Zurich/) and [Berlin](https://berline.rs/) meetups.
 
-So we will have a second 
+So we will have a second CfP for the workshops once we decide on a specific format.
 
 ## What are we looking for?
 
@@ -39,14 +39,14 @@ This is not the final list, it should give you some pointers:
     * Do you reach out to new people?
 * How do you learn about useful crates?
 * Show off your cool feature/crate/contribution?
-* Are you able to integrate rust in your day job? Or did you experience a missfit? 
+* Are you able to integrate rust in your day job? Or did you experience a misfits? 
 
 Or to make it even shorter: What have you learned (with rust)?
  
 
 ## What to do in the meantime?
 
-With the global lockdown: Attend online meetups.
+With the global lock down: Attend online meetups.
 
 As mentioned before [Berlin](https://berline.rs/) and [Zürich](https://www.meetup.com/Rust-Zurich/) and many others are open to anybody on the planet to talk about a subject.
 
@@ -55,7 +55,7 @@ As mentioned before [Berlin](https://berline.rs/) and [Zürich](https://www.meet
 If you plan to submit a talk or a workshop for this or any other conference, why not record yourself talking about something for 5 minutes.
 
 This will allow you to see how the recording quality is.
-Pro Tip: If you want to invest in something, start with brigher lights. 
+Pro Tip: If you want to invest in something, start with brighter lights. 
 Buying any LED bulb (usually with the E27 fitting) with more than 1000 lumen and a colour of 2500 to 2700 Kelvin for less than 20€ will have more effect than a fancy webcam way more money.
 Plus you can use the bulb as a normal light too.
 
