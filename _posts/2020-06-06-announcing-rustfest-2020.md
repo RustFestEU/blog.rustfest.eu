@@ -54,7 +54,7 @@ Or to make it even shorter: What have you learned (with rust)?
 
 While in-person events are still not possible we would like to suggest to follow these meetup-groups that are organizing online meetups and that you are able to attend from the comfort of your own home.
 
-Feel free to contact them if you would like to present a subject before hand.
+Feel free to contact them if you would like to present a subject or talk about Rust.
 
 * [Berlin](https://berline.rs/)
 * [Netherlands](https://www.meetup.com/Rust-Nederland/)
