@@ -51,7 +51,7 @@ We are looking for proposals that include, but are not limited to:
 * How to stay connected in your part of the Rust community?
     * Do you reach out to new people?
 * How do you learn about useful crates?
-* Show off your cool feature/crate/contribution?
+* Show off your cool feature/crate/contribution
 * Are you able to integrate Rust in your day job or did you run into obstacles? And how was the experience?
 
 Or to make it even shorter: What have you learned (with Rust)?
