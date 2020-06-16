@@ -21,6 +21,7 @@ We will publish more in the next two to three weeks here on our [blog](https://b
 So, how will it work?
 
 This RustFest will be the first that is completely online, and whereas we aim for the same setup and experience, some elements will be adjusted to be able to offer you the best online experience.
+For now you should mark the weekend of 7th & 8th November (2020-11-07 and 2020-11-08) in your calendar!
 
 ## Talks & Call for Proposals
 
