@@ -7,9 +7,9 @@ authors:
   - dns2utf8
 ---
 
-The summary: 🎉 We are now very happy to announce the next RustFest will happen as an online community conference on the weekend of 7th & 8th November (2020-11-07 and 2020-11-08) and it will be an online community conference! 🎉
+The summary: 🎉 We are now very happy to announce the next RustFest will happen as an online community conference on the weekend of 7th & 8th November (2020-11-07 and 2020-11-08)! 🎉
 
-RustFest 2020 was planned to happen about now, in Utrecht, the Netherlands. 
+RustFest 2020 was planned to happen about now, in Utrecht, the Netherlands.
 As the COVID-19 pandemic spread around the world and forced us to shelter at home we had to put a stop to planning a large in-person event.
 The team still wanted to make something happen and we talked through several options.
 
@@ -79,7 +79,7 @@ Larger events are listed on [timetill.rs](https://timetill.rs/#/) with [rusty da
 If you plan to submit a talk or a workshop for this or any other conference, why not record yourself talking about something for 5 minutes.
 This will allow you to see how the recording quality is.
 
-Pro Tip: If you want to invest in something, start with brighter lights. 
+Pro Tip: If you want to invest in something, start with brighter lights.
 Buying any LED bulb (usually with the E27 fitting) with more than 1000 lumen and a warm colour (~2700 Kelvin) will probably improve quality more than a fancy webcam will.
 Plus you can use the bulb as a normal light too.
 
