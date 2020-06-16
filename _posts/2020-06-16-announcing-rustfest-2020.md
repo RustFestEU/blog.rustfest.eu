@@ -35,14 +35,19 @@ We will provide further details on the CfP process in the coming weeks.
 ### Technical details
 
 Over the next weeks we will test different setups.
+All talks will be streamed and recorded and we will help with the technical setup.
+You can give the talk from the coziness of your home, no travel required.
 
 ## CfP for workshops
 
+Workshops have always been part of RustFest.
+Bringing them online will be a harder task, but we will try to do just that.
 We are looking into how to make workshops reliable, accessible and fun for everyone.
 
 Currently, we are testing good formats with the [Zürich](https://www.meetup.com/Rust-Zurich/) and [Berlin](https://berline.rs/) meetups.
 
 So we will have a second CfP for the workshops once we decide on a specific format.
+If you already have an idea for a workshop format or content that can work online, please approach us via email: [team@rustfest.eu](mailto:team@rustfest.eu).
 
 ## What are we looking for?
 
