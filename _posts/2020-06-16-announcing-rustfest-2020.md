@@ -80,7 +80,7 @@ If you plan to submit a talk or a workshop for this or any other conference, why
 This will allow you to see how the recording quality is.
 
 Pro Tip: If you want to invest in something, start with brighter lights. 
-Buying any LED bulb (usually with the E27 fitting) with more than 1000 lumen and a warm colour (~2700 Kelvin) will probably improve quality than a fancy webcam will.
+Buying any LED bulb (usually with the E27 fitting) with more than 1000 lumen and a warm colour (~2700 Kelvin) will probably improve quality more than a fancy webcam will.
 Plus you can use the bulb as a normal light too.
 
 <!--
