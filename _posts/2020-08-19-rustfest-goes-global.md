@@ -8,7 +8,9 @@ authors:
 ---
 
 A while back we [announced that RustFest will happen this year as an online event][prev-blog].
-We called it RustFest Global and we want to live up to that name: **RustFest Global will be a joint event by multiple teams across the globe, spanning multiple timezones.** Read on for some details.
+We called it RustFest Global and we want to live up to that name: **RustFest Global will be a joint event by multiple teams across the globe, spanning multiple timezones.**
+It's still set for the weekend of 7th & 8th November.
+Read on for some details.
 
 In the past weeks the team has been busy making connections, planning and preparing for an online event. RustFest has always been about connecting people through a shared interest: Rust. Even as our conferences took place in Europe, we were always lucky to bring in a wide variety of speakers and attendees from all over the world.
 
