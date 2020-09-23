@@ -3,8 +3,7 @@ layout: post
 title: "Extended CfP deadline & new speaker perks!"
 description: "Announcing new speaker perks for RustFest Global and pushing out the CfP deadline until September 30th"
 socialImageSrc: "/assets/posts/2020-global/2020-09-23_extension.png"
-published: true
-date: 2020-09-22
+date: 2020-09-23
 authors:
   - flaki
 ---
