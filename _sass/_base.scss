@@ -49,7 +49,7 @@ h2 {
   @include wide-device {
     font-size: 35px;
   }
-  
+
   margin-top: 1em;
 }
 
@@ -58,7 +58,7 @@ h3 {
   @include wide-device {
     font-size: 24px;
   }
-  
+
   margin-top: 1em;
 }
 
@@ -67,14 +67,14 @@ h4 {
   @include wide-device {
     font-size: 20px;
   }
-  
+
   margin-top: 1em;
 }
 
 h1, h2, h3, h4 {
-  font-weight: 600;
+  font-weight: 500;
   margin-bottom: 0.2em;
-  
+
   svg {
     height: 1em;
     width: 1em;
