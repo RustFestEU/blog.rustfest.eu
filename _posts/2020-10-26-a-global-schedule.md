@@ -19,7 +19,12 @@ This year we have got over 80 submissions.
 A big shoutout to our program committee who all invested quite some time to select the talks we can host at RustFest.
 Thanks to [@a_hoverbear](https://twitter.com/a_hoverbear), [@dorayaki_kun](https://twitter.com/dorayaki_kun), [@tamacodechi](https://twitter.com/tamacodechi), [@sassela](https://twitter.com/sassela), [@m_ou_se](https://twitter.com/m_ou_se), Iñaki & Wouter!
 
-And now without further ado we can present to you the full list of talks: [RustFest Global schedule](https://rustfest.global/schedule/).
+And now without further ado we can present to you the full list of talks:
+
+<center>
+<h2><a href="https://rustfest.global/schedule/" class="post-link">RustFest Global Schedule</a></h2>
+</center>
+
 21 talks by 24 speakers, anchored in 3 different timezones.
 We are going to hear about error messages, robots, serialization, secret types and protocol development.
 We will learn about vector graphics, how Rust can be used scientific programming or how to bring Rust to a new embedded platform.
