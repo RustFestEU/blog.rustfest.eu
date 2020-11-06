@@ -24,7 +24,9 @@ To entertain you all even between talks we have partnered up with an amazing lin
 Once more check the [Schedule](https://rustfest.global/schedule) for the full lineup.
 
 <p style="text-align:center">
+<a href="https://twitter.com/RustFest/status/1323996547437178880">
 <img src="/assets/posts/2020-global/rfg-artist-lineup.png" alt="RustFest Global: 11 artists, 4 continents, sketchnoters and a bard" style="height:600px">
+</a>
 </p>
 
 ## Access passes
@@ -48,7 +50,7 @@ You'll be able to chat with other attendees & speakers at any time before, durin
 
 <p style="text-align:center">
 <a href="https://rustch.at">
-<img src="https://rustch.at/themes/rustfest/img/logos/opengraph.png" alt="RustFest Global presents: RustCh.at. A shared chat service for all rustaceans built on the Matrix platform">
+<img src="https://rustch.at/themes/rustfest/img/logos/opengraph.png" alt="RustFest Global presents: RustCh.at. A shared chat service for all rustaceans built on the Matrix platform" style="max-width: 32em">
 </a>
 </p>
 
